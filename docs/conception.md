@@ -8,6 +8,9 @@ Ce document sépare ce qui est **décidé** de ce qui est **proposé** ou **ouve
 | --- | --- |
 | Nom | Provisoire (`systeme-jdr`). À fixer avant de créer un vrai monde Foundry avec ce système. |
 | Ambiance | Dark fantasy / moderne / horreur |
+| Univers | Un seul, qui mélange les trois |
+| Personnages | Trois types jouables ensemble : gens ordinaires dépassés, chasseurs qui savent, êtres touchés par l'Ombre |
+| Méthode | On part de systèmes proches, on garde ce qui plaît : voir [inspirations.md](inspirations.md) |
 | Complexité | Moyenne : quelques sous-systèmes profonds, le reste simple |
 | Sensation des dés | Suspense, tout peut arriver |
 | Magie par cercles | Pas au cœur du système. Ajout possible plus tard. |
@@ -15,15 +18,16 @@ Ce document sépare ce qui est **décidé** de ce qui est **proposé** ou **ouve
 
 ## Ouvert
 
-1. Ambiance : un seul univers qui mélange les trois (monde moderne où rôde une dark fantasy horrifique), ou trois cadres séparés sur le même moteur ?
-2. Mécanique de dés
-3. Ce qui rend le système unique
-4. Caractéristiques et compétences
-5. Combat, blessures, mort
-6. Progression des personnages
-7. Nom définitif et licence
+1. Mécanique de dés
+2. Ce qui rend le système unique
+3. Caractéristiques et compétences
+4. Combat, blessures, mort
+5. Progression des personnages
+6. Nom définitif et licence
 
 ## Proposé : le Dé d'Ombre
+
+Le principe « un dé qui aide et qui ronge » existe déjà, notamment dans Trophy Dark et Cthulhu Dark. Ce qui change ici : il s'ajoute à un d20, il grossit avec le personnage, et il coûte à partir de 4.
 
 **Jet de base :** 1d20 + bonus, à comparer à une difficulté.
 
