@@ -1,0 +1,10 @@
+node_modules/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+
+# Fichiers de verrou des compendiums Foundry (LevelDB)
+packs/**/LOCK
+packs/**/LOG
+packs/**/LOG.old
