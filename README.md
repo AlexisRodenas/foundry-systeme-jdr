@@ -5,4 +5,5 @@ Un système de jeu de rôle original pour [Foundry Virtual Tabletop](https://fou
 > **État : conception.** Les règles sont en cours d'écriture ; il n'y a encore rien à installer dans Foundry.
 
 - **Version de Foundry visée :** v14
-- **Règles et décisions :** [docs/conception.md](docs/conception.md)
+- **Décisions :** [docs/conception.md](docs/conception.md)
+- **Règles (brouillon) :** [docs/regles.md](docs/regles.md)

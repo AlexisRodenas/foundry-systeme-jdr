@@ -1,10 +1,15 @@
 # Catalogue d'idées
 
-Petites mécaniques relevées dans d'autres jeux (JdR, jeux vidéo, jeux de plateau). On n'en copie aucune telle quelle : on garde ce qui plaît et on construit nos propres règles.
+Mécaniques relevées dans d'autres jeux (JdR, jeux vidéo, jeux de plateau). On n'en copie aucune telle quelle : on garde ce qui plaît et on construit nos propres règles.
+
+- [Première liste](#première-liste) : 61 idées, 5 gardées
+- [Petits points](#petits-points) : 142 points, 94 gardés
+
+## Première liste
 
 La colonne « Foundry » estime le travail de code. Les idées marquées * contiennent un détail cité de mémoire, non vérifié.
 
-## Les dés et le hasard
+### Les dés et le hasard
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -21,7 +26,7 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 11 | Seuls les joueurs lancent | [Symbaroum](https://necropraxis.com/2019/11/27/symbaroum-primer-for-dd-players/) (JdR) | Le MJ ne lance jamais. Quand un monstre attaque, c'est toi qui lances pour te défendre. | facile | non |
 | 12 | Tes 1 nourrissent le MJ | [Cortex Prime](https://www.killershrike.com/Cortex/Heroic/Fantasy/DicePools.aspx) (JdR) | Quand tu fais un 1, le MJ peut te donner un point en échange d'un dé dans sa réserve de menace, visible de tous. | moyen | non |
 
-## La peur et l'esprit
+### La peur et l'esprit
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -34,7 +39,7 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 19 | La folie secrète | [Les Demeures de l'Épouvante 2](https://lehi-innovation.github.io/boardgame-rules/rules/mansions-of-madness-second-edition/) (Plateau) | Quand tu deviens fou, tu lis en secret une condition qui peut changer ton but. Les autres ne savent pas. | moyen | non |
 | 20 | Les séquelles étranges | [Liminal Horror](https://liminalhorrorrpg.com/stress-fallout/) (JdR) | Trop de stress provoque un changement bizarre et permanent, qui prend une place dans ton inventaire. | moyen | à retravailler |
 
-## Les blessures et la mort
+### Les blessures et la mort
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -46,7 +51,7 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 26 | Rendre coup pour coup | [Bloodborne](https://bloodborne.wiki.fextralife.com/Rally) (Jeu vidéo) | Si tu frappes juste après avoir été blessé, tu récupères une partie de ce que tu viens de perdre. | facile | non |
 | 27 | Le dernier pouvoir | [Heart: The City Beneath](https://rowanrookanddecard.com/product/heart-the-city-beneath-rpg) (JdR) | Chaque personnage peut obtenir un pouvoir immense. L'utiliser le tue presque toujours. | facile | non |
 
-## Le combat et les monstres
+### Le combat et les monstres
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -56,7 +61,7 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 31 | Trouver la faiblesse d'abord | [Monster of the Week](https://blakewatson.com/journal/monster-of-the-week-game-introduction-and-rules-summary/) (JdR) | Un monstre ne peut pas être vraiment vaincu tant qu'on n'utilise pas sa faiblesse. | facile | à retravailler |
 | 32 | L'ennemi se souvient | [La Terre du Milieu : L'Ombre du Mordor](https://www.pcgamer.com/uk/why-hasnt-anyone-copied-shadow-of-mordors-nemesis-system) (Jeu vidéo) | Un ennemi qui survit revient avec un nom, des cicatrices et une rancune. (Le système du jeu vidéo est breveté : on garderait seulement l'idée du rival récurrent.) | moyen | non |
 
-## L'enquête
+### L'enquête
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -68,7 +73,7 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 38 | L'équipement décidé au dernier moment | [Blades in the Dark](https://raw.githubusercontent.com/amazingrando/blades-in-the-dark-srd-content/master/Blades-in-the-Dark-SRD.md) (JdR) | Au départ tu choisis seulement léger, normal ou lourd. Tu décides des objets quand tu en as besoin. | moyen | non |
 | 39 | La pyramide du complot | [Night's Black Agents](https://thealexandrian.net/?p=49659) (JdR) | Le complot est une pyramide à remonter, et une seconde pyramide dit comment l'ennemi réplique à chaque étage. | moyen | non |
 
-## Les liens entre personnages
+### Les liens entre personnages
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -80,7 +85,7 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 45 | Vie normale contre vie cachée | [City of Mist](https://cityofmist.co/blogs/news/why-losing-a-theme-is-a-good-thing-in-city-of-mist-ttrpg) (JdR) | Ton personnage est fait de thèmes ordinaires et de thèmes mythiques. Un thème négligé trois fois est remplacé par son opposé. | moyen | non |
 | 46 | Le sombre secret | [Kult : Divinité Perdue](https://en.wikipedia.org/wiki/Kult_%28role-playing_game%29) (JdR) | Chaque personnage commence avec un sombre secret que le MJ relie à l'histoire. | facile | non |
 
-## La progression
+### La progression
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -90,7 +95,7 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 50 | Les règles sous scellés | [Triangle Agency](https://cannibalhalflinggaming.com/2025/01/15/the-three-layers-of-triangle-agency/) (JdR) | Des documents secrets se débloquent en jouant et ajoutent des règles. | moyen | non |
 | 51 | Rater rapporte | [Kids on Bikes](https://gnomestew.com/take-me-to-the-upside-down-a-review-of-kids-on-bikes/) (JdR) | Chaque échec donne un jeton, à dépenser plus tard pour un bonus, pour toi ou un autre. | facile | non |
 
-## Le monde et la campagne
+### Le monde et la campagne
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -101,7 +106,7 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 56 | La magie et les témoins | [Mage : l'Ascension](https://whitewolf.fandom.com/wiki/Mage:_The_Ascension) (JdR) | La magie visible est risquée, et bien plus encore devant des gens ordinaires : la réalité se venge. | facile | non |
 | 57 | La pression monte | [Night's Black Agents](https://pelgranepress.com/2020/05/05/heat/) (JdR) | Coups de feu, traces et cadavres font monter une jauge. Plus elle est haute, plus tout devient difficile. | facile | **oui** |
 
-## L'ambiance à la table
+### L'ambiance à la table
 
 | N° | Idée | Vient de | Principe | Foundry | Avis |
 | --- | --- | --- | --- | --- | --- |
@@ -109,3 +114,199 @@ La colonne « Foundry » estime le travail de code. Les idées marquées * conti
 | 59 | Les bougies | [Ten Candles](https://en.wikipedia.org/wiki/Ten_Candles) (JdR) | Dix bougies. Une s'éteint à chaque fin de scène, et à la dernière, l'histoire finit. | moyen | non |
 | 60 | Le dernier message | [Ten Candles](https://crowscorner.bearblog.dev/table-tested-review-of-ten-candles/) (JdR) | À la création, chacun enregistre un message d'adieu de son personnage. | moyen | non |
 | 61 | Jouer par SMS | [Alice is Missing](https://en.wikipedia.org/wiki/Alice_is_Missing) (JdR) | La partie se joue en silence, uniquement par messages, avec un minuteur. | gros | non |
+
+## Petits points
+
+Le jeu cité est un exemple où l'idée existe ; une partie de ces mentions est de mémoire.
+
+### Barres et jauges
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P1 | Quatre types de dégâts : physiques, mentaux, les deux à la fois, ou en pourcentage du maximum | Lobotomy Corporation | à retravailler |
+| P2 | Une barre d'endurance, dépensée pour courir, esquiver ou frapper fort | Dark Souls | **oui** |
+| P3 | Une barre de vigueur qui encaisse avant les PV et revient vite au repos | Starfinder | non |
+| P4 | L'armure est une barre qui encaisse avant les PV |  | non |
+| P5 | L'armure réduit chaque coup d'un montant fixe | Cyberpunk RED | **oui** |
+| P6 | L'armure s'abîme quand un coup la traverse | Cyberpunk RED | **oui** |
+| P7 | Des PV séparés pour chaque partie du corps | Escape from Tarkov | non |
+| P8 | Une jauge d'adrénaline qui monte quand on est blessé et se dépense en actions |  | non |
+| P9 | Une jauge de contamination par le surnaturel |  | non |
+| P10 | Une jauge de fatigue qui donne des malus |  | **oui** |
+| P11 | Faim, soif et sommeil à gérer |  | **oui** |
+| P12 | Des PV bas qui montent peu : les personnages restent fragiles |  | non |
+| P13 | Des PV qui montent à chaque niveau : les personnages deviennent solides |  | **oui** |
+
+### La santé mentale
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P14 | Des paliers : à 75, 50 et 25 %, les effets s'aggravent |  | **oui** |
+| P15 | À zéro, une crise au lieu de tomber inconscient |  | **oui** |
+| P16 | Une défense mentale, comme une armure pour l'esprit |  | **oui** |
+| P17 | Certains monstres blessent l'esprit rien qu'en apparaissant |  | **oui** |
+| P18 | On s'habitue : un monstre déjà vu fait moins mal à l'esprit | L'Appel de Cthulhu | **oui** |
+| P19 | Voir un allié tomber fait perdre de la santé mentale |  | **oui** |
+| P20 | Le maximum baisse pour toujours après une crise |  | à retravailler |
+| P21 | Des phobies et des manies, gagnées en jeu et notées sur la fiche | L'Appel de Cthulhu | **oui** |
+| P22 | Des traits, bons ou mauvais, gagnés après les missions | Darkest Dungeon | non |
+| P23 | Plusieurs façons de récupérer à la base : thérapie, bar, chapelle, chacune avec ses effets | Darkest Dungeon | à retravailler |
+| P24 | Des médicaments qui soignent tout de suite, avec un risque de dépendance |  | non |
+| P25 | Trois réactions de panique : fuir, se figer ou frapper n'importe qui |  | à retravailler |
+| P26 | Un allié peut utiliser son action pour te calmer |  | **oui** |
+| P27 | Perdre beaucoup d'un seul coup déclenche une crise immédiate | L'Appel de Cthulhu | **oui** |
+| P28 | La santé mentale se dépense comme du mana pour utiliser des pouvoirs |  | à retravailler |
+
+### Caractéristiques et compétences
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P29 | Six caractéristiques, façon D&D |  | non |
+| P30 | Peu de caractéristiques : trois ou quatre |  | non |
+| P31 | Beaucoup de caractéristiques : huit ou plus |  | **oui** |
+| P32 | Une caractéristique Volonté qui fixe la santé mentale maximale |  | **oui** |
+| P33 | Une caractéristique Sensibilité : on perçoit mieux le surnaturel, mais on y est plus vulnérable |  | non |
+| P34 | Une caractéristique Chance à part |  | à retravailler |
+| P35 | Une liste fixe de compétences : tir, conduite, occultisme, informatique… |  | **oui** |
+| P36 | Des spécialités précises : serrures, poisons, démons… |  | à retravailler |
+| P37 | Les compétences montent quand on les utilise | L'Appel de Cthulhu | **oui** |
+| P38 | Un score de perception passif, sans jet | D&D 5 | **oui** |
+| P39 | Des qualités et des défauts choisis à la création |  | à retravailler |
+| P40 | Un ancien métier qui donne des bonus |  | **oui** |
+
+### Les jets de dés (d20 + d6)
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P41 | 20 naturel : critique. 1 naturel : catastrophe |  | **oui** |
+| P42 | Dépasser de 10 : réussite critique. Rater de 10 : échec critique | Pathfinder 2 | non |
+| P43 | Plusieurs avantages : plusieurs d6, on garde le meilleur | Shadow of the Demon Lord | non |
+| P44 | Plusieurs avantages : plusieurs d6, on les additionne tous |  | **oui** |
+| P45 | Les dés de dégâts explosent : le maximum se relance et s'ajoute | Savage Worlds | non |
+| P46 | Chaque arme a son dé de dégâts |  | **oui** |
+| P47 | Plus le jet d'attaque est bon, plus les dégâts montent |  | à retravailler |
+| P48 | Des jets opposés : discrétion contre perception |  | **oui** |
+| P49 | Certains jets sont lancés en secret par le MJ |  | **oui** |
+| P50 | Aider quelqu'un lui donne un d6 |  | à retravailler |
+| P51 | Forcer un jet raté coûte de la santé mentale |  | **oui** |
+| P52 | Forcer un jet raté coûte des PV ou de l'endurance |  | à retravailler |
+
+### Le combat
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P53 | Trois actions par tour, à dépenser comme on veut | Pathfinder 2 | **oui** |
+| P54 | Des points d'action : chaque geste a un coût | Fallout | **oui** |
+| P55 | Une action, un mouvement et une réaction | D&D 5 | non |
+| P56 | Une initiative classique : dé + caractéristique |  | à retravailler |
+| P57 | Quand on est attaqué, on choisit : esquiver, parer ou encaisser |  | à retravailler |
+| P58 | Des couvertures : partielle ou totale | XCOM | **oui** |
+| P59 | Le tir de guet : attendre qu'un ennemi bouge pour tirer | XCOM | **oui** |
+| P60 | Tir en rafale et tir de suppression |  | **oui** |
+| P61 | Viser la tête : gros malus, dégâts doublés | Cyberpunk RED | à retravailler |
+| P62 | Viser les jambes ralentit, viser les bras désarme |  | **oui** |
+| P63 | Chargeurs et munitions comptés |  | **oui** |
+| P64 | Une arme peut s'enrayer |  | **oui** |
+| P65 | Chaque arme a un niveau de bruit, et le bruit attire | Zombicide | **oui** |
+| P66 | L'élimination silencieuse par-derrière |  | **oui** |
+| P67 | Des attaques combinées à deux |  | **oui** |
+| P68 | Saisir, plaquer, étrangler |  | **oui** |
+| P69 | Utiliser le décor : feu, eau, électricité |  | **oui** |
+| P70 | Des attaques d'opportunité quand on s'éloigne | D&D 5 | à retravailler |
+
+### Blessures et soins
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P71 | À 0 PV : des jets pour survivre | D&D 5 | **oui** |
+| P72 | À 0 PV : un compte à rebours, un allié doit te stabiliser |  | à retravailler |
+| P73 | Retomber plusieurs fois est de plus en plus dangereux | Pathfinder 2 | **oui** |
+| P74 | Des blessures critiques tirées sur une table | Cyberpunk RED | **oui** |
+| P75 | Des fractures : jambe cassée, on ralentit ; bras cassé, on vise mal | Escape from Tarkov | **oui** |
+| P76 | Des saignements, légers ou graves, à arrêter | Escape from Tarkov | **oui** |
+| P77 | La douleur donne des malus quand les PV sont bas |  | à retravailler |
+| P78 | On peut perdre un membre pour de bon |  | **oui** |
+| P79 | Des prothèses, technologiques ou surnaturelles |  | **oui** |
+| P80 | Soigner demande du matériel : bandage, garrot, trousse |  | **oui** |
+| P81 | Un repos court et un repos long | D&D 5 | **oui** |
+| P82 | Une grosse blessure met l'agent en convalescence | XCOM | à retravailler |
+| P83 | Une infection ou une transformation si on n'est pas soigné à temps |  | **oui** |
+| P84 | Des drogues de combat : un bonus maintenant, un malus après |  | **oui** |
+
+### Personnage et progression
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P85 | Des classes : agent de terrain, chercheur, médium, médecin, technicien |  | à retravailler |
+| P86 | Pas de classe : on dépense des points librement |  | à retravailler |
+| P87 | Des niveaux de 1 à 20 |  | **oui** |
+| P88 | Des niveaux de 1 à 10 |  | à retravailler |
+| P89 | Pas de niveaux : on achète ses améliorations avec l'XP |  | à retravailler |
+| P90 | L'XP vient des missions, pas des monstres tués |  | **oui** |
+| P91 | Un grade dans l'organisation qui débloque accès et matériel |  | non |
+| P92 | Un arbre de compétences |  | à retravailler |
+| P93 | Des dons ou talents à choisir |  | **oui** |
+| P94 | Une origine : humain, touché par le surnaturel, créature |  | **oui** |
+| P95 | Des pouvoirs surnaturels réservés aux personnages touchés |  | **oui** |
+| P96 | N'importe qui peut gagner un pouvoir en jeu |  | **oui** |
+| P97 | Chaque pouvoir a un contrecoup |  | **oui** |
+| P98 | Des capacités à usages limités par mission |  | à retravailler |
+
+### Équipement
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P99 | Un budget par mission : on choisit son matériel à l'armurerie avant de partir |  | **oui** |
+| P100 | Demander du matériel plus cher demande un jet plus dur | Delta Green | **oui** |
+| P101 | Un inventaire en poids |  | **oui** |
+| P102 | Un inventaire en cases |  | **oui** |
+| P103 | Des armes modifiables : silencieux, lunette, lampe |  | **oui** |
+| P104 | Des munitions spéciales : argent, sel, fer, bénites |  | **oui** |
+| P105 | Les objets s'usent et se réparent |  | à retravailler |
+| P106 | Des gadgets d'enquête : détecteur, caméra thermique, drone |  | **oui** |
+| P107 | Des objets anormaux, puissants mais avec un effet secondaire |  | **oui** |
+| P108 | Un appareil qui efface la mémoire des témoins |  | **oui** |
+| P109 | Grenades, pièges et mines |  | **oui** |
+| P110 | Des véhicules avec leurs propres stats |  | **oui** |
+| P111 | Un salaire et de l'argent personnel |  | **oui** |
+| P112 | Fabriquer ou améliorer ses objets |  | **oui** |
+
+### L'organisation et les missions
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P113 | La discrétion est une barre de mission : à zéro, l'affaire devient publique |  | **oui** |
+| P114 | Bruit, témoins et cadavres font baisser la discrétion |  | **oui** |
+| P115 | Une note de fin de mission (S, A, B, C) qui fixe la récompense |  | **oui** |
+| P116 | Capturer une entité rapporte plus que la tuer |  | **oui** |
+| P117 | Étudier un corps ou une entité débloque du matériel | XCOM 2 | à retravailler |
+| P118 | Des salles à améliorer : infirmerie, labo, armurerie |  | non |
+| P119 | Des cellules où garder les entités capturées |  | à retravailler |
+| P120 | Une entité capturée peut aider en mission, avec un risque |  | à retravailler |
+| P121 | Une activité par personnage entre les missions : s'entraîner, se soigner, chercher, fabriquer |  | **oui** |
+| P122 | Plusieurs missions proposées, le groupe choisit |  | **oui** |
+| P123 | Des organisations rivales |  | **oui** |
+| P124 | Une équipe de soutien : pilote, hacker, médecin |  | **oui** |
+| P125 | Appeler un renfort une fois par mission |  | **oui** |
+| P126 | Une réputation auprès de la hiérarchie |  | à retravailler |
+| P127 | Un agent remplaçant quand un personnage meurt |  | **oui** |
+
+### Monstres et entités
+
+| N° | Point | Vu dans | Avis |
+| --- | --- | --- | --- |
+| P128 | Un niveau de danger officiel pour chaque entité |  | **oui** |
+| P129 | Des résistances et des immunités : les balles ne servent parfois à rien |  | **oui** |
+| P130 | La faiblesse fait sauter un effet légendaire |  | **oui** |
+| P131 | Il se régénère tant qu'on n'utilise pas le bon moyen | D&D 5 | à retravailler |
+| P132 | La résistance légendaire : il transforme quelques échecs en réussites | D&D 5 | **oui** |
+| P133 | Des actions de repaire : le lieu lui-même attaque | D&D 5 | **oui** |
+| P134 | Des phases : à la moitié de ses PV, il change |  | à retravailler |
+| P135 | Une aura de peur qui use la santé mentale à chaque tour |  | **oui** |
+| P136 | Des parties du corps à détruire séparément |  | **oui** |
+| P137 | Des effets étranges durables, propres à chaque entité |  | **oui** |
+| P138 | Une règle propre à chaque entité : ne pas la regarder, ne pas parler… |  | **oui** |
+| P139 | Des ennemis humains : cultistes, mercenaires, agents rivaux |  | **oui** |
+| P140 | Des monstres qui se font passer pour des humains |  | **oui** |
+| P141 | Des monstres faibles mais nombreux |  | **oui** |
+| P142 | Un gros adversaire par mission |  | **oui** |
