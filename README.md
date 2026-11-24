@@ -6,4 +6,5 @@ Un système de jeu de rôle original pour [Foundry Virtual Tabletop](https://fou
 
 - **Version de Foundry visée :** v14
 - **Décisions :** [docs/conception.md](docs/conception.md)
+- **Points à trancher :** [docs/points-a-voir.md](docs/points-a-voir.md)
 - **Règles (brouillon) :** [docs/regles.md](docs/regles.md)
