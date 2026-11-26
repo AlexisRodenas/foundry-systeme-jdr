@@ -1,6 +1,6 @@
 # Règles, version 10
 
-> **Brouillon.** Rien n'est codé. Les 249 règles sont fixées, et les cinq classes sont complètes. Le nom, la licence et la première version attendent dans les [points à voir](points-a-voir.md).
+> **Brouillon.** Rien n'est codé. Les 249 règles sont fixées, et les cinq classes sont complètes. Le nom et la langue du système attendent dans les [points à voir](points-a-voir.md).
 
 ## Les jets
 

@@ -12,7 +12,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 | Sujet | Décision |
 | --- | --- |
-| Nom | Provisoire (`systeme-jdr`). À fixer avant de créer un vrai monde Foundry avec ce système. |
+| Nom | Provisoire (`systeme-jdr`). Ce sera un sigle qui se lit comme un mot, à la façon de SCP ou SHIELD (proposés : S.C.E.L.L.É., D.É.N.I., S.E.U.I.L., F.Ê.L.U.R.E.S.). À fixer avant de créer un vrai monde Foundry. |
 | Ambiance | Dark fantasy / moderne / horreur |
 | Univers | Un seul, qui mélange les trois |
 | Cadre | Une organisation secrète qui règle le paranormal sans se faire remarquer |
@@ -51,13 +51,13 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 | Monstres | Cinq catégories de danger (I à V), avec des valeurs de départ que chaque fiche change. Une fiche, c'est sa catégorie plus des briques à activer. Résistance, immunité ou faiblesse par type de dégâts ; résistance légendaire. Ils paient en endurance comme les agents. Les ennemis humains utilisent la même fiche, sans briques. |
 | Magie par cercles | Pas au cœur du système. Ajout possible plus tard. |
 | Plateforme | Foundry VTT v14, dépôt public |
+| Licence | Texte des règles (dossier `docs`) : CC BY-NC-SA 4.0. Code : MIT. Voir [LICENSE](../LICENSE) et [LICENSE-REGLES.md](../LICENSE-REGLES.md). |
 | Méthode | On trie de petites idées venues d'autres jeux, on écrit un brouillon, on corrige, puis on code. Tant que la base n'est pas finie, on en fait le moins possible (une seule espèce, cinq classes) : ce qui attend va dans [plus-tard.md](plus-tard.md). La page de vote montre aussi le système en schémas, pour s'y retrouver. |
 
 ## À choisir
 
-1. Nom définitif (proposés : Fêlures, Au-delà, Seuil, ou un autre)
-2. Licence du texte des règles et du code
-3. Ce qui entre dans la première version du code
+1. Le nom, en sigle
+2. La langue du système (fiche, fenêtres, chat)
 
 ## Écarté
 
@@ -70,6 +70,8 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 - Blessure du corps seulement sur un super critique ; compte à rebours ou PV négatifs à 0 PV ; chaînes de dons de deux maillons ou sans limite ; faveurs épiques qui demandent un don
 - XP chiffrée selon la note de mission ; classe qui s'améliore seulement aux niveaux 5, 10, 15 et 20, ou à chaque niveau ; réactions seulement par des dons
 - Rangs de prix au lieu de prix chiffrés
+- Les noms Fêlures, Au-delà et Seuil (le nom sera un sigle) ; Brèche, déjà pris par un autre jeu
+- Pour les règles, les licences CC BY et « tous droits réservés » ; pour le code, GPL 3 et aucune licence
 - Discrétion en quatre paliers avancés par le MJ, ou comptée seulement dans la note de fin
 - Monstres sans endurance, avec un nombre de gestes par tour
 - Dés de dégâts qui explosent ; réussite critique à 10 d'écart ; un seul dé gardé parmi plusieurs
@@ -78,10 +80,10 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 - Grades et salles à améliorer dans les règles ; coffre commun
 - Dégâts sacrés, occultes, explosifs, viraux, magnétiques, d'asphyxie, d'écrasement, doubles ou en pourcentage ; tir de suppression (pour l'instant)
 
-## Ordre de construction proposé
+## Ordre de construction
 
-Les idées retenues dépassent une complexité moyenne. Pour garder un jeu simple à prendre en main, on avance en trois temps.
+Le code se fait en trois étapes. Le contenu de l'étape 1 est validé ; le reste se gère à la main en attendant.
 
-1. **Jouable** : fiche, jets, trois barres, combat avec endurance et Vitesse
-2. **Horreur** : crises, blessures, équipement, pouvoirs
-3. **Campagne** : missions, discrétion, activités, véhicules, briques de monstres
+1. **Jouable** (validée) : fiche d'agent calculée, jet et sa petite fenêtre, trois barres sur le jeton, attaque contre l'Esquive, réactions, jauge de tour, endurance qui revient à chaque tour, fiche de monstre simple, armes et armures, classes et dons écrits sans calcul.
+2. **Horreur** : paliers de santé mentale, fêlures et crises, table du corps et blessures, jets à 0 PV, inventaire en grille et poids, classes, dons et techniques calculés, pouvoirs et objets anormaux.
+3. **Campagne** : missions, note de fin et argent, jauge de discrétion, activités entre deux missions et soutien, véhicules, briques de monstres.
