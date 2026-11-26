@@ -43,7 +43,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 | Crise réussie | On récupère un quart de la santé mentale |
 | Types de dégâts | Perforant, tranchant, contondant, feu, froid, électrique, acide, toxique, radiation, sonique, nécrose, mental. Pour les résistances et faiblesses ; effets plus tard. |
 | Progression | Niveaux 1 à 20, par jalons : le MJ annonce le niveau à la fin des missions importantes, un niveau à la fois. La note de fin donne l'argent. PV : 12 + Constitution ÷ 5, puis 3 + Constitution ÷ 20 par niveau. |
-| Classes | Une classe légère. Au niveau 1 : deux familles d'armes, une réaction et une mécanique à elle. La mécanique s'améliore aux niveaux 5, 10, 15 et 20 ; une technique au choix parmi huit aux niveaux 3, 7, 11, 14 et 18. Le reste vient des dons. Cinq classes pour commencer : Rempart, Médecin et Infiltré (complets), Assaut et Traqueur (détail proposé) ; les quatre autres attendent dans [plus-tard.md](plus-tard.md). |
+| Classes | Une classe légère. Au niveau 1 : deux familles d'armes, une réaction et une mécanique à elle. La mécanique s'améliore aux niveaux 5, 10, 15 et 20 ; une technique au choix parmi huit aux niveaux 3, 7, 11, 14 et 18. Le reste vient des dons. Cinq classes complètes pour commencer : Assaut, Rempart, Infiltré, Médecin, Traqueur ; les quatre autres attendent dans [plus-tard.md](plus-tard.md). |
 | Inventaire | Des poches en cases, un sac en grille (objets de formes différentes) agrandi par le matériel, et un poids maximal. On combine, on empile, les accessoires agrandissent l'arme. |
 | Argent et équipement | Des prix chiffrés, unité au choix du MJ. Un budget d'armurerie par mission ; l'argent personnel vient de la note de fin. Demander plus que le budget : Persuasion. Accessoires d'arme, munitions spéciales, gadgets, objets anormaux, véhicules, fabrication entre les missions. |
 | Pouvoirs | Pour l'instant, ils viennent d'un objet, d'une malédiction ou d'un éveil pendant le jeu. Le contrecoup, s'il y en a un, est écrit sur le pouvoir. |
@@ -55,8 +55,9 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 ## À choisir
 
-1. L'Assaut et le Traqueur complets
-2. Nom définitif et licence
+1. Nom définitif (proposés : Fêlures, Au-delà, Seuil, ou un autre)
+2. Licence du texte des règles et du code
+3. Ce qui entre dans la première version du code
 
 ## Écarté
 

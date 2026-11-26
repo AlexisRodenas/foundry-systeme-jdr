@@ -1,6 +1,6 @@
-# Règles, version 9
+# Règles, version 10
 
-> **Brouillon.** Rien n'est codé. Les 223 règles sont fixées. Le détail de l'Assaut et du Traqueur attend dans les [points à voir](points-a-voir.md).
+> **Brouillon.** Rien n'est codé. Les 249 règles sont fixées, et les cinq classes sont complètes. Le nom, la licence et la première version attendent dans les [points à voir](points-a-voir.md).
 
 ## Les jets
 
@@ -206,8 +206,8 @@
 
 ## Les classes
 
-- **R155.** Assaut (parer) : garde l'endurance qu'il n'a pas dépensée, jusqu'à 4 au-dessus de son maximum. Familles : lames, armes d'épaule.
-- **R156.** Traqueur (parer) : marque une entité qu'il voit (2 d'endurance). Contre elle : 1 dé d'avantage pour la toucher, et il apprend une de ses résistances. Familles : lames, armes de poing.
+- **R155.** Assaut (parer) : Élan, il garde l'endurance qu'il n'a pas dépensée, jusqu'à 4 au-dessus de son maximum. Familles : lames, armes d'épaule. Détail plus bas.
+- **R156.** Traqueur (parer) : marque une entité qu'il voit (2 d'endurance). Contre elle : 1 dé d'avantage pour la toucher, et il apprend une de ses résistances. Une marque à la fois, jusqu'à la fin du combat. Familles : lames, armes de poing. Détail plus bas.
 - **R157.** Infiltré (éviter) : tant qu'il n'est pas vu, son premier geste de chaque tour ne coûte pas d'endurance. Familles : lames, armes de poing. Détail plus bas.
 - **R158.** Rempart (encaisser) : une fois par tour, prend à sa place un coup qui touche un allié collé à lui, pour 1 d'endurance. Familles : armes contondantes, armes d'épaule. Détail plus bas.
 - **R159.** Médecin (éviter) : une fois par tour, sans jet, calme un allié qui l'entend (3 d'endurance, +1d6 de santé mentale). Quand il soigne quelqu'un, il efface aussi une de ses chutes à 0 PV. Familles : lames, armes de poing. Détail plus bas.
@@ -260,36 +260,68 @@
 - **R197.** Esquive vive : éviter lui coûte 1 d'endurance au lieu de 2.
 - **R198.** Repérage : en une minute dans un lieu, il repère les caméras, les alarmes et les rondes des gardes (Investigation avec 1 dé d'avantage).
 
+## L'Assaut
+
+- **R199.** Niveau 1 : lames et armes d'épaule, la réaction parer, et Élan : l'endurance qu'il ne dépense pas reste, jusqu'à 4 au-dessus de son maximum.
+- **R200.** Niveau 5 : Charge. Une fois par tour, se déplacer de 4 cases au plus vers un ennemi ne coûte rien s'il l'attaque au corps à corps juste après.
+- **R201.** Niveau 10 : Élan monte à 8 au-dessus du maximum, et parer lui coûte 2 d'endurance au lieu de 3.
+- **R202.** Niveau 15 : Déchaînement. Une fois par combat, pendant un tour, ses attaques coûtent moitié moins d'endurance (arrondi au-dessus).
+- **R203.** Niveau 20 : Inarrêtable. Une fois par combat, quand il tombe à 0 PV, il joue encore un tour complet avant de tomber.
+- **R204.** Enchaînement : quand il met un ennemi à 0 PV au corps à corps, il fait une attaque légère gratuite contre un autre ennemi collé à lui.
+- **R205.** Suppression : une rafale sans viser (3 balles, attaque normale) sur une cible à couvert. Jusqu'à son prochain tour, si la cible sort de son couvert, elle prend les dégâts de l'arme.
+- **R206.** Désarmer : quand il pare avec 30 points d'écart ou plus, l'attaquant lâche son arme.
+- **R207.** Coup de bélier : une attaque lourde au corps à corps qui touche fait tomber une cible de taille humaine.
+- **R208.** Dos au mur : sous la moitié de ses PV, il récupère 2 d'endurance de plus par tour.
+- **R209.** Rechargement éclair : recharger lui coûte 1 d'endurance (2 au lieu de 4 pour un revolver ou une arbalète).
+- **R210.** Bond : une fois par tour, se jeter à couvert derrière un obstacle à 2 cases au plus ne coûte rien.
+- **R211.** Gros calibre : il maîtrise aussi les armes lourdes et explosifs, et ses grenades touchent 3 cases autour du point d'impact au lieu de 2.
+
+## Le Traqueur
+
+- **R212.** Niveau 1 : lames et armes de poing, la réaction parer, et Marquer : pour 2 d'endurance, il marque une entité qu'il voit. Contre elle : 1 dé d'avantage pour la toucher, et il apprend une de ses résistances. Une marque à la fois, jusqu'à la fin du combat.
+- **R213.** Niveau 5 : Pisteur. Une entité qu'il a marquée laisse une trace qu'il peut suivre jusqu'à la fin de la mission : 1 dé d'avantage en Survie pour la retrouver.
+- **R214.** Niveau 10 : marquer ne coûte plus d'endurance, et la marque lui apprend toutes les résistances de l'entité et sa faiblesse.
+- **R215.** Niveau 15 : deux marques à la fois.
+- **R216.** Niveau 20 : Exécuteur. Contre une entité marquée, ses critiques (96 à 99) deviennent des super critiques.
+- **R217.** Savoir des entités : 1 dé d'avantage en Investigation pour reconnaître une entité, un rituel ou un symbole.
+- **R218.** Instinct du chasseur : il sait toujours dans quelle direction se trouve l'entité marquée, même sans la voir.
+- **R219.** Piégeur : poser un piège lui prend un tour au lieu d'une minute. Une entité marquée prise dedans ne peut pas bouger à son prochain tour.
+- **R220.** Munitions préparées : entre deux missions, en plus de son activité, il prépare 6 balles spéciales (argent, fer ou sel) sans les payer.
+- **R221.** Endurci : face à un type d'entité qu'il a déjà marqué, chaque rencontre retire deux dés à la perte de santé mentale au lieu d'un.
+- **R222.** Point faible : contre l'entité marquée, il ignore 2 points d'armure.
+- **R223.** Désigner : une fois par tour, pour 1 d'endurance, un allié qui l'entend a aussi 1 dé d'avantage à sa prochaine attaque contre l'entité marquée.
+- **R224.** Plaie ouverte : quand il touche l'entité marquée, elle ne régénère pas jusqu'à son prochain tour.
+
 ## Équipement
 
-- **R199.** Des prix chiffrés, l'unité au choix du MJ : pistolet 300, gilet pare-balles 500, trousse de soins 50. Chaque mission donne un budget d'armurerie ; chacun a aussi son argent personnel, gagné avec la note de fin. Le matériel de l'armurerie se rend à la fin de la mission.
-- **R200.** Demander plus que le budget : jet de Persuasion, normal (100) un peu au-dessus, dur (120) jusqu'au double, très dur (140) au-delà. Raté : on redemande à la mission suivante.
-- **R201.** Des poches en cases, un sac en grille acheté à l'armurerie, et un poids maximal de 10 + Stamina ÷ 2 kg. Chaque tranche de 5 kg en trop : la jauge de tour se remplit de 10 de moins. On combine, on empile, un accessoire agrandit l'arme, les objets de mission prennent de la place.
-- **R202.** Accessoires d'arme : silencieux (bruit −3), lunette (se préparer à plus de 10 cases donne 2 dés d'avantage au lieu d'1), lampe (on voit à 10 cases dans le noir, mais on est vu de loin), chargeur long (deux fois plus de balles). Chacun agrandit l'arme d'une case dans le sac.
-- **R203.** Munitions spéciales : incendiaires (feu), électriques, acides : elles changent le type de dégâts. Argent, fer, sel : même type, mais elles touchent la faiblesse d'une entité si c'est la sienne. Les balles bénites disparaissent, puisqu'il n'y a pas de dégâts sacrés.
-- **R204.** Gadgets : détecteurs (mouvement, chaleur, champ électrique), drones, grenades (fumée, aveuglante, fragmentation), pièges et mines, effaceur de mémoire. Chacun a sa règle sur sa fiche d'objet.
-- **R205.** Objets anormaux : puissants, avec un effet secondaire écrit sur l'objet. Pour l'instant, ce sont eux qui donnent la plupart des pouvoirs.
-- **R206.** Véhicules : PV, armure, Vitesse et places. Conduire : Agilité plus le bonus du véhicule ; une poursuite se joue en jets opposés.
-- **R207.** Fabriquer ou améliorer entre deux missions, avec le bon domaine : Mécanique pour une arme, Chimie pour une drogue ou un explosif, Électronique pour un détecteur. Un jet réussi : l'objet est prêt pour la mission suivante.
+- **R225.** Des prix chiffrés, l'unité au choix du MJ : pistolet 300, gilet pare-balles 500, trousse de soins 50. Chaque mission donne un budget d'armurerie ; chacun a aussi son argent personnel, gagné avec la note de fin. Le matériel de l'armurerie se rend à la fin de la mission.
+- **R226.** Demander plus que le budget : jet de Persuasion, normal (100) un peu au-dessus, dur (120) jusqu'au double, très dur (140) au-delà. Raté : on redemande à la mission suivante.
+- **R227.** Des poches en cases, un sac en grille acheté à l'armurerie, et un poids maximal de 10 + Stamina ÷ 2 kg. Chaque tranche de 5 kg en trop : la jauge de tour se remplit de 10 de moins. On combine, on empile, un accessoire agrandit l'arme, les objets de mission prennent de la place.
+- **R228.** Accessoires d'arme : silencieux (bruit −3), lunette (se préparer à plus de 10 cases donne 2 dés d'avantage au lieu d'1), lampe (on voit à 10 cases dans le noir, mais on est vu de loin), chargeur long (deux fois plus de balles). Chacun agrandit l'arme d'une case dans le sac.
+- **R229.** Munitions spéciales : incendiaires (feu), électriques, acides : elles changent le type de dégâts. Argent, fer, sel : même type, mais elles touchent la faiblesse d'une entité si c'est la sienne. Les balles bénites disparaissent, puisqu'il n'y a pas de dégâts sacrés.
+- **R230.** Gadgets : détecteurs (mouvement, chaleur, champ électrique), drones, grenades (fumée, aveuglante, fragmentation), pièges et mines, effaceur de mémoire. Chacun a sa règle sur sa fiche d'objet.
+- **R231.** Objets anormaux : puissants, avec un effet secondaire écrit sur l'objet. Pour l'instant, ce sont eux qui donnent la plupart des pouvoirs.
+- **R232.** Véhicules : PV, armure, Vitesse et places. Conduire : Agilité plus le bonus du véhicule ; une poursuite se joue en jets opposés.
+- **R233.** Fabriquer ou améliorer entre deux missions, avec le bon domaine : Mécanique pour une arme, Chimie pour une drogue ou un explosif, Électronique pour un détecteur. Un jet réussi : l'objet est prêt pour la mission suivante.
 
 ## Les missions
 
-- **R208.** La jauge de discrétion part de 10. La mission annonce son niveau : aucune (pas de jauge), faible (publique à 0), forte (publique à 5), absolue (publique au premier point perdu). Chaque scène où l'on entend une arme de bruit 4 ou 5 : −1. Un témoin qui s'enfuit : −2. Un corps trouvé : −3. Publique : la note de fin ne peut pas dépasser C, et l'entité est prévenue.
-- **R209.** Note de fin (S, A, B, C) : elle fixe l'argent, pas les niveaux. Capturer rapporte plus que tuer.
-- **R210.** Le MJ propose deux ou trois missions, le groupe en choisit une. Celles qu'on laisse peuvent empirer, ou être prises par une organisation rivale si le MJ en veut une.
-- **R211.** Entre deux missions, chacun récupère ses PV et sa fatigue, et les chutes repartent à zéro. Puis une activité par agent : s'entraîner (un talent au choix fait le jet de progression, même sans être coché), soigner une blessure grave (fracture, prothèse), thérapie, chercher (une information sur la prochaine mission), fabriquer.
-- **R212.** Avant la mission, le groupe choisit un soutien. Pilote : une extraction rapide. Hacker : une fois, une porte, une caméra, ou un jet d'Informatique avec 2 dés d'avantage. Médecin : une fois, par radio, 1 dé d'avantage sur un jet de Biologie ou un conseil sur un poison ou une entité.
-- **R213.** Un agent mort est remplacé par un nouvel agent, au niveau le plus bas du groupe.
-- **R214.** Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ.
+- **R234.** La jauge de discrétion part de 10. La mission annonce son niveau : aucune (pas de jauge), faible (publique à 0), forte (publique à 5), absolue (publique au premier point perdu). Chaque scène où l'on entend une arme de bruit 4 ou 5 : −1. Un témoin qui s'enfuit : −2. Un corps trouvé : −3. Publique : la note de fin ne peut pas dépasser C, et l'entité est prévenue.
+- **R235.** Note de fin (S, A, B, C) : elle fixe l'argent, pas les niveaux. Capturer rapporte plus que tuer.
+- **R236.** Le MJ propose deux ou trois missions, le groupe en choisit une. Celles qu'on laisse peuvent empirer, ou être prises par une organisation rivale si le MJ en veut une.
+- **R237.** Entre deux missions, chacun récupère ses PV et sa fatigue, et les chutes repartent à zéro. Puis une activité par agent : s'entraîner (un talent au choix fait le jet de progression, même sans être coché), soigner une blessure grave (fracture, prothèse), thérapie, chercher (une information sur la prochaine mission), fabriquer.
+- **R238.** Avant la mission, le groupe choisit un soutien. Pilote : une extraction rapide. Hacker : une fois, une porte, une caméra, ou un jet d'Informatique avec 2 dés d'avantage. Médecin : une fois, par radio, 1 dé d'avantage sur un jet de Biologie ou un conseil sur un poison ou une entité.
+- **R239.** Un agent mort est remplacé par un nouvel agent, au niveau le plus bas du groupe.
+- **R240.** Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ.
 
 ## Monstres et entités
 
-- **R215.** Cinq catégories de danger. Valeurs de départ, que chaque fiche change : I : 15 PV, Esquive 80, attaque +40, d8. II : 35 PV, Esquive 90, +55, 2d6. III : 70 PV, Esquive 100, +70, 2d8. IV : 120 PV, Esquive 110, +85, 3d8. V : 200 PV, Esquive 120, +100, 4d8. Endurance : 8, 10, 12, 14, 16.
-- **R216.** Les monstres paient en endurance comme les agents : chacun a une endurance et une récupération par tour, et les mêmes coûts. Foundry fait les comptes.
-- **R217.** Exemple, la goule (II) : 35 PV, Esquive 90, armure 1, griffes +55 (2d6 tranchant), Vitesse 40, endurance 10 (+6). Briques : régénération (2 PV par tour, sauf après du feu), repaire. Faiblesse : l'argent. Résiste au froid. La voir : 1d6 de santé mentale.
-- **R218.** Une fiche de monstre, c'est sa catégorie plus des briques à activer : aura de peur, nuée, phases, régénération, parties à détruire, repaire, déguisement humain, règle propre, résistance légendaire.
-- **R219.** Résistance légendaire : 1 à 3 fois par combat, le monstre change un jet raté en réussite. Chaque coup sur sa faiblesse en fait sauter une.
-- **R220.** Par type de dégâts ou par matière : résistance, la moitié ; immunité, rien ; faiblesse, le double.
-- **R221.** Effets étranges durables, propres à chaque entité (une marque, une maladie, une voix dans la tête), écrits sur sa fiche.
-- **R222.** Ennemis humains (cultistes, mercenaires, agents rivaux) : la même fiche, sans briques, en général de catégorie I ou II.
-- **R223.** Un boss n'a pas besoin de règle à part : une Vitesse plus haute lui donne plus de tours, et ses phases changent ses briques.
+- **R241.** Cinq catégories de danger. Valeurs de départ, que chaque fiche change : I : 15 PV, Esquive 80, attaque +40, d8. II : 35 PV, Esquive 90, +55, 2d6. III : 70 PV, Esquive 100, +70, 2d8. IV : 120 PV, Esquive 110, +85, 3d8. V : 200 PV, Esquive 120, +100, 4d8. Endurance : 8, 10, 12, 14, 16.
+- **R242.** Les monstres paient en endurance comme les agents : chacun a une endurance et une récupération par tour, et les mêmes coûts. Foundry fait les comptes.
+- **R243.** Exemple, la goule (II) : 35 PV, Esquive 90, armure 1, griffes +55 (2d6 tranchant), Vitesse 40, endurance 10 (+6). Briques : régénération (2 PV par tour, sauf après du feu), repaire. Faiblesse : l'argent. Résiste au froid. La voir : 1d6 de santé mentale.
+- **R244.** Une fiche de monstre, c'est sa catégorie plus des briques à activer : aura de peur, nuée, phases, régénération, parties à détruire, repaire, déguisement humain, règle propre, résistance légendaire.
+- **R245.** Résistance légendaire : 1 à 3 fois par combat, le monstre change un jet raté en réussite. Chaque coup sur sa faiblesse en fait sauter une.
+- **R246.** Par type de dégâts ou par matière : résistance, la moitié ; immunité, rien ; faiblesse, le double.
+- **R247.** Effets étranges durables, propres à chaque entité (une marque, une maladie, une voix dans la tête), écrits sur sa fiche.
+- **R248.** Ennemis humains (cultistes, mercenaires, agents rivaux) : la même fiche, sans briques, en général de catégorie I ou II.
+- **R249.** Un boss n'a pas besoin de règle à part : une Vitesse plus haute lui donne plus de tours, et ses phases changent ses briques.

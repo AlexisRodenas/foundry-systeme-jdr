@@ -1073,3 +1073,53 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Par type de dégâts ou par matière : résistance, la moitié ; immunité, rien ; faiblesse, le double. | oui |
 | Effets étranges durables, propres à chaque entité (une marque, une maladie, une voix dans la tête), écrits sur sa fiche. | oui |
 | Un boss n'a pas besoin de règle à part : une Vitesse plus haute lui donne plus de tours, et ses phases changent ses briques. | oui |
+
+## L'Assaut, complet
+
+### L'Assaut : niveau 1 et améliorations
+
+| Point | Avis |
+| --- | --- |
+| Niveau 1 : lames et armes d'épaule, la réaction parer, et Élan : l'endurance qu'il ne dépense pas reste, jusqu'à 4 au-dessus de son maximum. | oui |
+| Niveau 5 : Charge. Une fois par tour, se déplacer de 4 cases au plus vers un ennemi ne coûte rien s'il l'attaque au corps à corps juste après. | oui |
+| Niveau 10 : Élan monte à 8 au-dessus du maximum, et parer lui coûte 2 d'endurance au lieu de 3. | oui |
+| Niveau 15 : Déchaînement. Une fois par combat, pendant un tour, ses attaques coûtent moitié moins d'endurance (arrondi au-dessus). | oui |
+| Niveau 20 : Inarrêtable. Une fois par combat, quand il tombe à 0 PV, il joue encore un tour complet avant de tomber. | oui |
+
+### L'Assaut : ses huit techniques (il en choisit cinq)
+
+| Point | Avis |
+| --- | --- |
+| Enchaînement : quand il met un ennemi à 0 PV au corps à corps, il fait une attaque légère gratuite contre un autre ennemi collé à lui. | oui |
+| Suppression : une rafale sans viser (3 balles, attaque normale) sur une cible à couvert. Jusqu'à son prochain tour, si la cible sort de son couvert, elle prend les dégâts de l'arme. | oui |
+| Désarmer : quand il pare avec 30 points d'écart ou plus, l'attaquant lâche son arme. | oui |
+| Coup de bélier : une attaque lourde au corps à corps qui touche fait tomber une cible de taille humaine. | oui |
+| Dos au mur : sous la moitié de ses PV, il récupère 2 d'endurance de plus par tour. | oui |
+| Rechargement éclair : recharger lui coûte 1 d'endurance (2 au lieu de 4 pour un revolver ou une arbalète). | oui |
+| Bond : une fois par tour, se jeter à couvert derrière un obstacle à 2 cases au plus ne coûte rien. | oui |
+| Gros calibre : il maîtrise aussi les armes lourdes et explosifs, et ses grenades touchent 3 cases autour du point d'impact au lieu de 2. | oui |
+
+## Le Traqueur, complet
+
+### Le Traqueur : niveau 1 et améliorations
+
+| Point | Avis |
+| --- | --- |
+| Niveau 1 : lames et armes de poing, la réaction parer, et Marquer : pour 2 d'endurance, il marque une entité qu'il voit. Contre elle : 1 dé d'avantage pour la toucher, et il apprend une de ses résistances. Une marque à la fois, jusqu'à la fin du combat. (Précisé : « une marque à la fois ».) | oui |
+| Niveau 5 : Pisteur. Une entité qu'il a marquée laisse une trace qu'il peut suivre jusqu'à la fin de la mission : 1 dé d'avantage en Survie pour la retrouver. | oui |
+| Niveau 10 : marquer ne coûte plus d'endurance, et la marque lui apprend toutes les résistances de l'entité et sa faiblesse. | oui |
+| Niveau 15 : deux marques à la fois. | oui |
+| Niveau 20 : Exécuteur. Contre une entité marquée, ses critiques (96 à 99) deviennent des super critiques. | oui |
+
+### Le Traqueur : ses huit techniques (il en choisit cinq)
+
+| Point | Avis |
+| --- | --- |
+| Savoir des entités : 1 dé d'avantage en Investigation pour reconnaître une entité, un rituel ou un symbole. | oui |
+| Instinct du chasseur : il sait toujours dans quelle direction se trouve l'entité marquée, même sans la voir. | oui |
+| Piégeur : poser un piège lui prend un tour au lieu d'une minute. Une entité marquée prise dedans ne peut pas bouger à son prochain tour. | oui |
+| Munitions préparées : entre deux missions, en plus de son activité, il prépare 6 balles spéciales (argent, fer ou sel) sans les payer. | oui |
+| Endurci : face à un type d'entité qu'il a déjà marqué, chaque rencontre retire deux dés à la perte de santé mentale au lieu d'un. | oui |
+| Point faible : contre l'entité marquée, il ignore 2 points d'armure. | oui |
+| Désigner : une fois par tour, pour 1 d'endurance, un allié qui l'entend a aussi 1 dé d'avantage à sa prochaine attaque contre l'entité marquée. | oui |
+| Plaie ouverte : quand il touche l'entité marquée, elle ne régénère pas jusqu'à son prochain tour. | oui |
