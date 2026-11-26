@@ -8,3 +8,4 @@ Un système de jeu de rôle original pour [Foundry Virtual Tabletop](https://fou
 - **Décisions :** [docs/conception.md](docs/conception.md)
 - **Points à trancher :** [docs/points-a-voir.md](docs/points-a-voir.md)
 - **Règles (brouillon) :** [docs/regles.md](docs/regles.md)
+- **Mis de côté pour plus tard :** [docs/plus-tard.md](docs/plus-tard.md)

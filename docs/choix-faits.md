@@ -821,3 +821,90 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Chasseur d'entités, puis Tueur d'entités (+5 en Esprit) : contre un type d'entité déjà rencontré, ton arme lance un dé de plus. | oui |
 | Observateur, puis Œil de lynx (+5 en Esprit) : 1 dé d'avantage pour repérer une entité déguisée en humain. | oui |
 | Coriace, puis Increvable : ces deux dons existent déjà, Increvable demanderait maintenant Coriace. | oui |
+
+## Les corps des autres espèces
+
+### Les huit tables (effet léger / grave)
+
+| Point | Avis |
+| --- | --- |
+| Vampire : comme l'humain, mais 4 et 5 sont le cœur. Cœur : il perd son prochain geste / paralysé, sa jauge retombe à 0. Un pieu dans le cœur le paralyse jusqu'à ce qu'on le retire. Pas de poumons (ni gaz ni noyade), saignements divisés par deux. |  |
+| Changelin : comme l'humain, mais ses organes bougent. Critique : on relance le dé de zone, la blessure va ailleurs. Super critique : aucune blessure, mais il montre son vrai visage pendant un tour. Viser sa tête ne donne pas le +1d6. |  |
+| Psychique : comme l'humain, mais la tête est fragile. Tête : sonné, et 1d4 de santé mentale en moins / assommé, et ses pouvoirs sont coupés jusqu'à la fin de la scène. |  |
+| Possédé : comme l'humain, mais 5 est le nœud où l'entité s'accroche. Nœud : l'entité perd son prochain geste / son pouvoir est coupé pour la scène, et l'hôte perd 1d6 de santé mentale. À 0 PV, l'entité garde le corps debout un tour de plus. |  |
+| Hybride des profondeurs (1d10) : 1 tête, 2 branchies, 3 à 5 torse, 6 et 7 bras, 8 et 9 jambes, 10 au choix. Branchies : souffle court, 2 d'endurance de moins au prochain tour / il étouffe, sa jauge retombe à 0. Le reste comme l'humain. Ses organes sont déplacés : on le soigne avec 1 dé de désavantage. |  |
+| Être artificiel (1d10) : 1 capteurs, 2 à 4 coque, 5 noyau, 6 et 7 bras, 8 et 9 jambes, 10 au choix. Capteurs : aveugle jusqu'à son prochain tour / jusqu'à la réparation. Coque : rien / fuite, 2 d'endurance de moins par tour. Noyau : sa jauge perd 50 / arrêté, jauge à 0. Membres : rien / hors service, à remplacer. Ni sang ni douleur. |  |
+| Ruche (1d10) : 1 et 2 la reine, 3 à 10 l'essaim. Reine : 1 dé de désavantage au prochain jet / 1 dé de désavantage partout jusqu'au repos. Essaim : son pouvoir porte deux fois moins loin / l'essaim se disperse, pouvoir coupé jusqu'au repos. Ni fracture ni saignement. |  |
+| Cobaye : comme l'humain, plus sa mutation. Griffes : la blessure grave au bras les casse jusqu'au repos. Peau dure : armure 2 au torse. Vision de nuit : une lumière forte l'aveugle un tour. Venin : une glande au cou (zone 1, avec la tête) ; blessure grave : le venin coule en lui, 1d6 de dégâts toxiques. |  |
+
+### Un détail qui manquait
+
+| Point | Avis |
+| --- | --- |
+| Quand le dé de zone vient d'une grosse perte (un tiers des PV d'un coup) sans critique : l'effet léger. Si c'est aussi un super critique : l'effet grave, comme d'habitude. | oui |
+
+## Monter de niveau
+
+### Combien rapporte une mission, et combien coûte un niveau ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Des XP selon la note | Un niveau coûte toujours 10 XP. Note S : 10, A : 7, B : 5, C : 3. Capturer une entité au lieu de la tuer : +2. *Un niveau toutes les une ou deux missions : environ 30 missions pour arriver au niveau 20.* |  |
+| Des XP selon la note, et des niveaux de plus en plus chers | Mêmes XP (S 10, A 7, B 5, C 3, capture +2). Un niveau coûte 10 XP jusqu'au niveau 5, puis 15 jusqu'au niveau 10, puis 20. *Rapide au début, lent à la fin : environ 50 missions pour arriver au niveau 20.* |  |
+| **Le MJ décide** (choisi) | Pas d'XP : le MJ annonce le niveau à la fin des missions importantes, comme les jalons de D&D. La note ne donne que l'argent. *Le plus simple, mais une bonne note ne fait pas monter plus vite.* |  |
+
+### Ce que donne chaque niveau (déjà décidé)
+
+| Point | Avis |
+| --- | --- |
+| Niveau 1 : la classe (deux familles d'armes et sa mécanique) et un don d'origine, deux pour l'humain. PV : 12 + Constitution ÷ 5. Santé mentale : 5 + Esprit ÷ 2. | oui |
+| À chaque niveau : 3 + Constitution ÷ 20 PV et 1 de santé mentale. Les talents et les domaines ne montent pas avec le niveau, seulement en jouant. | oui |
+| Niveaux 4, 8, 12 et 16 : un don général, avec +5 à une caractéristique. Niveau 19 : une faveur épique. Niveaux 10 et 20 : la maîtrise passe à +15, puis +20. La classe : voir l'écran suivant. | oui |
+
+### Quatre petits points
+
+| Point | Avis |
+| --- | --- |
+| L'XP en trop est gardée pour le niveau suivant. On ne monte que d'un niveau à la fois, à la fin d'une mission. | oui |
+| Un agent mort est remplacé par un nouvel agent, au niveau le plus bas du groupe, avec 0 XP. | oui |
+| Les points de domaines (Intelligence ÷ 2) ne se donnent qu'à la création. Si l'Intelligence monte plus tard, les domaines n'en gagnent pas : ils montent en jouant. | changé |
+| Prendre un coup quand on est déjà à 0 PV : un échec au jet de survie ; sur un critique, deux échecs. | oui |
+
+## Les classes
+
+### Quand la classe donne-t-elle quelque chose ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Aux niveaux 5, 10, 15, 20, plus des techniques** (choisi) | La mécanique s'améliore aux niveaux 5, 10, 15 et 20. Aux niveaux 3, 7, 11, 14 et 18, on choisit une technique dans la liste de sa classe (huit par classe). *Rempart, niveau 3 : Bousculer (après avoir pris un coup pour un allié, il repousse l'attaquant de 3 m) ou Garde haute (+5 en Esquive pour les alliés collés à lui). Il reste cinq niveaux avec seulement des PV. À écrire : 72 techniques.* |  |
+| Seulement aux niveaux 5, 10, 15 et 20 | Ta règle actuelle : la mécanique s'améliore quatre fois. Les niveaux 2, 3, 6, 7, 9, 11, 13, 14, 17 et 18 ne donnent que des PV. *Peu à écrire : 36 améliorations en tout. Mais dix niveaux sans rien de neuf.* |  |
+| À chaque niveau, comme D&D | Chaque niveau sans don donne une capacité de classe, fixée d'avance. *Le plus riche : 14 capacités par classe, 126 à écrire. Tu avais dit qu'un arbre serait lourd à développer.* |  |
+
+### Éviter, parer et encaisser : qui les a ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **La classe en donne une** (choisi) | Chaque classe donne une des trois réactions au niveau 1. Un don général permet d'en prendre une autre. *Éviter : Infiltré, Médecin, Chercheur, Médium. Parer : Assaut, Traqueur, Maudit. Encaisser : Rempart, Technicien.* |  |
+| Seulement par des dons | Trois nouveaux dons généraux, un par réaction. Personne ne les a au niveau 1. *Marc prend Roc (encaisser) au niveau 4. Avant, il ne peut qu'espérer que le coup rate.* |  |
+
+### Les trois réactions (proposition)
+
+| Point | Avis |
+| --- | --- |
+| Éviter : quand une attaque te touche, 2 d'endurance : +10 en Esquive contre elle. Si elle ne dépasse plus ton Esquive, elle rate. | oui |
+| Parer (au corps à corps, avec une arme ou un bouclier) : quand une attaque te touche, 3 d'endurance : 1d100 + Force ou Agilité + maîtrise. Plus haut que le jet de l'attaquant : le coup est paré. | oui |
+| Encaisser : quand un coup te touche, 2 d'endurance : ton armure compte double contre ce coup. Sans armure, tu retires Constitution ÷ 10. | oui |
+
+### Tes neuf idées de classes, réécrites
+
+| Point | Avis |
+| --- | --- |
+| Assaut : garde l'endurance qu'il n'a pas dépensée, jusqu'à 4 au-dessus de son maximum. Familles : lames, armes d'épaule. | oui |
+| Traqueur : marque une entité qu'il voit (2 d'endurance). Contre elle : 1 dé d'avantage pour la toucher, et il apprend une de ses résistances. Familles : lames, armes de poing. | oui |
+| Infiltré : tant qu'il n'est pas vu, son premier geste de chaque tour ne coûte pas d'endurance. Familles : lames, armes de poing. | oui |
+| Rempart : prend à sa place un coup qui touche un allié collé à lui, pour 1 d'endurance. Familles : armes contondantes, armes d'épaule. | oui |
+| Médecin : calme un allié en plein combat (3 d'endurance, +1d6 de santé mentale). Quand il soigne quelqu'un, il efface aussi une de ses chutes à 0 PV. Familles : lames, armes de poing. | oui |
+| Technicien : pilote un drone ou des pièges qui ont leur propre endurance (6 par tour) ; il ne paie que ses gestes à lui. Familles : armes de poing, armes lourdes et explosifs. | oui |
+| Chercheur : chaque information vraie trouvée sur l'entité met 1 dé d'avantage dans une réserve du groupe. N'importe qui le dépense contre elle. Familles : armes de poing, armes de jet et arcs. | oui |
+| Médium : sent les entités à 30 m et peut parler à un mort pendant une minute. Il paie ses pouvoirs, ceux de son espèce compris, en santé mentale au lieu d'endurance. Familles : armes contondantes, armes de poing. | oui |
+| Maudit : ses pouvoirs ne coûtent rien, mais chacun a un contrecoup : 1d10 sur sa table de malédiction ; de 1 à 3, quelque chose de mauvais arrive. Familles : lames, armes contondantes. | oui |
