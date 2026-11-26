@@ -1,0 +1,83 @@
+<div class="atlas-monstre">
+  <header class="atlas-entete">
+    <img class="portrait" src="{{actor.img}}" alt="{{actor.name}}" data-action="editImage" data-edit="img" data-tooltip="{{localize 'ATLAS.ChangerImage'}}">
+    <div class="identite">
+      <input class="nom" type="text" name="name" value="{{actor.name}}" placeholder="{{localize 'ATLAS.Nom'}}" aria-label="{{localize 'ATLAS.Nom'}}">
+      <div class="champs">
+        <label>{{localize "ATLAS.Categorie"}}
+          <select name="system.categorie">{{selectOptions categories selected=system.categorie}}</select>
+        </label>
+        <label>{{localize "ATLAS.Vitesse"}} <input type="number" name="system.vitesse" value="{{system.vitesse}}" min="0" max="300"></label>
+      </div>
+      <p class="aide">{{localize "ATLAS.Aide.Categorie"}}</p>
+      <div class="barres">
+        {{#each barres}}
+        <div class="barre {{cle}}">
+          <div class="haut">
+            <span>{{localize label}}</span>
+            <span class="chiffres"><input type="number" name="system.{{cle}}.value" value="{{value}}" min="0" aria-label="{{localize label}}"> / <input type="number" name="system.{{cle}}.max" value="{{max}}" min="0" aria-label="{{localize label}} max"></span>
+          </div>
+          <div class="piste"><i style="width: {{pct}}%"></i></div>
+        </div>
+        {{/each}}
+      </div>
+    </div>
+  </header>
+
+  <div class="colonnes">
+    <div>
+      <h3>{{localize "ATLAS.Combat"}}</h3>
+      <div class="champs">
+        <label>{{localize "ATLAS.Esquive"}} <input type="number" name="system.esquive" value="{{system.esquive}}" min="0"></label>
+        <label>{{localize "ATLAS.Armure"}} <input type="number" name="system.armure" value="{{system.armure}}" min="0"></label>
+        <label>{{localize "ATLAS.Recuperation"}} <input type="number" name="system.recuperation" value="{{system.recuperation}}" min="0"></label>
+      </div>
+      <h3>{{localize "ATLAS.Monstre.attaque"}}</h3>
+      <div class="champs">
+        <label>{{localize "ATLAS.Bonus"}} <input type="number" name="system.attaque" value="{{system.attaque}}" min="0"></label>
+        <label>{{localize "ATLAS.Degats.titre"}} <input type="text" name="system.degats" value="{{system.degats}}"></label>
+        <label>{{localize "ATLAS.Degats.type"}} <select name="system.typeDegats">{{selectOptions typesDegats selected=system.typeDegats localize=true}}</select></label>
+        <label>{{localize "ATLAS.Portee.titre"}} <select name="system.portee">{{selectOptions portees selected=system.portee localize=true}}</select></label>
+      </div>
+      <button type="button" class="jet large" data-action="attaqueMonstre"><i class="fa-solid fa-crosshairs" inert></i> {{localize "ATLAS.Attaquer"}} (+{{system.attaque}}, {{system.degats}})</button>
+    </div>
+    <div>
+      <h3>{{localize "ATLAS.Reactions"}}</h3>
+      <div class="cases">
+        {{#each reactions}}
+        <label><input type="checkbox" name="system.reactions" value="{{k}}" {{checked on}}> {{localize label}}</label>
+        {{/each}}
+      </div>
+      <label class="bloc">{{localize "ATLAS.Monstre.vue"}} <input type="text" name="system.vue" value="{{system.vue}}" placeholder="1d6"></label>
+      <label class="bloc">{{localize "ATLAS.Monstre.resistances"}} <input type="text" name="system.resistances" value="{{system.resistances}}" placeholder="{{localize 'ATLAS.Aide.ResistancesExemple'}}"></label>
+      <label class="bloc">{{localize "ATLAS.Monstre.faiblesses"}} <input type="text" name="system.faiblesses" value="{{system.faiblesses}}" placeholder="{{localize 'ATLAS.Aide.FaiblessesExemple'}}"></label>
+    </div>
+  </div>
+
+  <label class="bloc">{{localize "ATLAS.Monstre.briques"}}
+    <textarea name="system.briques" rows="4" placeholder="{{localize 'ATLAS.Aide.BriquesExemple'}}">{{system.briques}}</textarea>
+  </label>
+
+  <h3>{{localize "ATLAS.Armes"}} <button type="button" class="ajouter" data-action="creerObjet" data-type="arme"><i class="fa-solid fa-plus" inert></i> {{localize "ATLAS.Ajouter"}}</button></h3>
+  <ul class="objets">
+    {{#each armes}}
+    <li data-item-id="{{id}}">
+      <img src="{{img}}" alt="">
+      <button type="button" class="jet" data-action="attaque"><i class="fa-solid fa-crosshairs" inert></i> {{nom}}</button>
+      <span>{{degats}} {{type}}</span>
+      <span></span><span></span>
+      <span>{{#if munitions.max}}{{munitions.value}} / {{munitions.max}}{{/if}}</span>
+      <span class="outils">
+        <a data-action="editerObjet" data-tooltip="{{localize 'ATLAS.Modifier'}}"><i class="fa-solid fa-pen" inert></i></a>
+        <a data-action="supprimerObjet" data-tooltip="{{localize 'ATLAS.Supprimer'}}"><i class="fa-solid fa-trash" inert></i></a>
+      </span>
+    </li>
+    {{else}}
+    <li class="vide">{{localize "ATLAS.Aide.ArmesMonstre"}}</li>
+    {{/each}}
+  </ul>
+
+  <label class="bloc">{{localize "ATLAS.Notes"}}
+    <textarea name="system.notes" rows="5">{{system.notes}}</textarea>
+  </label>
+</div>

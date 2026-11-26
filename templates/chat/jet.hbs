@@ -1,0 +1,6 @@
+<div class="atlas-carte {{verdict.classe}}">
+  <header><b>{{label}}</b><span>{{difficulte}} ({{seuil}})</span></header>
+  <div class="total"><b>{{total}}</b><span>{{verdict.texte}}</span></div>
+  <p class="detail">d100 : {{d100}} · {{localize "ATLAS.Score"}} {{score}}{{#each d10}} · d10 : {{this}}{{/each}}{{#if modif}} · {{modif}}{{/if}}</p>
+  {{#if coche}}<p class="note"><i class="fa-solid fa-check" inert></i> {{localize "ATLAS.Chat.Coche"}}</p>{{/if}}
+</div>

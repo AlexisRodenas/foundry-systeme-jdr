@@ -1,0 +1,168 @@
+{
+  "TYPES": {
+    "Actor": { "agent": "Agent", "monstre": "Monstre ou ennemi" },
+    "Item": { "arme": "Arme", "armure": "Armure", "objet": "Objet" }
+  },
+  "ATLAS": {
+    "Fiche": { "agent": "Fiche d'agent A.T.L.A.S.", "monstre": "Fiche de monstre A.T.L.A.S.", "objet": "Fiche d'objet A.T.L.A.S." },
+    "Onglet": { "agent": "Agent", "talents": "Talents", "combat": "Combat", "classe": "Classe et dons", "notes": "Notes" },
+    "Nouveau": { "arme": "Nouvelle arme", "armure": "Nouvelle armure", "objet": "Nouvel objet" },
+
+    "Carac": {
+      "force": "Force", "agilite": "Agilité", "constitution": "Constitution", "stamina": "Stamina",
+      "intelligence": "Intelligence", "esprit": "Esprit", "presence": "Présence"
+    },
+    "Talent": {
+      "titre": "Talent",
+      "athletisme": "Athlétisme", "discretion": "Discrétion", "adresse": "Adresse", "acrobatie": "Acrobatie",
+      "investigation": "Investigation", "perception": "Perception", "instinct": "Instinct", "survie": "Survie",
+      "persuasion": "Persuasion", "tromperie": "Tromperie"
+    },
+    "Domaine": {
+      "titre": "Domaine",
+      "biologie": "Biologie", "chimie": "Chimie", "physique": "Physique",
+      "mecanique": "Mécanique", "electronique": "Électronique", "informatique": "Informatique"
+    },
+    "Difficulte": {
+      "titre": "Difficulté",
+      "facile": "Facile (80)", "normal": "Normal (100)", "dur": "Dur (120)",
+      "tresDur": "Très dur (140)", "presqueImpossible": "Presque impossible (160)"
+    },
+    "Famille": {
+      "titre": "Famille",
+      "lames": "Lames", "contondantes": "Armes contondantes", "poing": "Armes de poing",
+      "epaule": "Armes d'épaule", "lourdes": "Armes lourdes et explosifs", "jet": "Armes de jet et arcs"
+    },
+    "Portee": { "titre": "Portée", "melee": "Corps à corps (Force)", "distance": "À distance (Agilité)" },
+    "Degats": {
+      "titre": "Dégâts", "type": "Type de dégâts",
+      "perforant": "perforant", "tranchant": "tranchant", "contondant": "contondant", "feu": "feu", "froid": "froid",
+      "electrique": "électrique", "acide": "acide", "toxique": "toxique", "radiation": "radiation",
+      "sonique": "sonique", "necrose": "nécrose", "mental": "mental"
+    },
+    "Reaction": { "eviter": "Éviter", "parer": "Parer", "encaisser": "Encaisser" },
+    "Attaque": {
+      "titre": "Attaque",
+      "legere": "Légère (2 d'endurance)", "normale": "Normale (3 d'endurance)", "lourde": "Lourde (5 d'endurance)"
+    },
+    "Resultat": {
+      "reussi": "Réussi", "rate": "Raté", "touche": "Touché", "manque": "Manqué",
+      "critique": "Critique !", "superCritique": "Super critique !",
+      "catastrophe": "Catastrophe", "superCatastrophe": "Super catastrophe",
+      "sansCible": "À comparer avec l'Esquive de la cible"
+    },
+    "Jet": {
+      "Lancer": "Lancer",
+      "TitreAttaque": "Attaque : {arme}",
+      "Cible": "Cible",
+      "PasDeCible": "Aucune cible visée : vise un jeton (touche T) pour comparer avec son Esquive.",
+      "Avantages": "Dés d'avantage",
+      "AideAvantages": "+1 à +3 : un d10 en plus par avantage. −1 à −3 : un d10 en moins par désavantage.",
+      "Modificateur": "Modificateur"
+    },
+    "Monstre": {
+      "attaque": "Attaque principale", "vue": "Le voir (perte de santé mentale)",
+      "resistances": "Résistances et immunités", "faiblesses": "Faiblesses", "briques": "Briques"
+    },
+    "Chat": {
+      "Appliquer": "Appliquer les dégâts",
+      "EncaisserAppliquer": "Encaisser et appliquer",
+      "AideBoutons": "Le MJ (ou le joueur de la cible) clique. Éviter et parer se décident avant d'appliquer les dégâts.",
+      "Evite": "{nom} évite : {total} ne dépasse pas son Esquive de {esquive}. Pas de dégâts.",
+      "EviteRate": "{nom} essaie d'éviter, mais {total} dépasse encore son Esquive de {esquive}.",
+      "Pare": "{nom} pare : {total} contre {attaque}. Pas de dégâts.",
+      "PareRate": "{nom} rate sa parade : {total} contre {attaque}.",
+      "Degats": "{nom} perd {pertes} PV ({avant} → {apres}), armure retirée : {armure}.",
+      "ArmureUsee": "{armure} est traversée et perd 1 (reste {valeur}).",
+      "Tiers": "Un tiers des PV ou plus d'un coup : 1d10 sur la table du corps, effet léger.",
+      "ZeroPV": "{nom} tombe à 0 PV : inconscient. Jets de survie (Constitution contre 80) à chaque tour.",
+      "Coche": "Talent coché pour la fin de mission.",
+      "Critique": "Critique : dés de dégâts doublés, et 1d10 sur la table du corps (effet léger).",
+      "SuperCritique": "Super critique : dés doublés, l'armure ne compte pas, et 1d10 sur la table du corps (effet grave).",
+      "Catastrophe": "Catastrophe : l'arme s'enraye (3 d'endurance pour la débloquer), on tombe, ou on fait du bruit."
+    },
+    "Avis": {
+      "PasAssezEndurance": "{nom} n'a que {reste} d'endurance : il en faut {cout} pour « {raison} ».",
+      "PlusDeBalles": "{arme} n'a plus de balles : il faut recharger (2 d'endurance).",
+      "CibleIntrouvable": "La cible de cette attaque n'existe plus.",
+      "PasProprietaire": "Seul le MJ ou le joueur de {nom} peut faire ça."
+    },
+    "Aide": {
+      "Caracs": "Clique sur un nom pour lancer la caractéristique seule (quand aucun talent ne colle).",
+      "Calculs": "Calculé tout seul : Esquive = 50 + Agilité + équipement ; Perception passive = 50 + Esprit + Perception.",
+      "Talents": "Score = caractéristique + bonus : c'est ta chance en % sur un jet normal. Un talent réussi se coche tout seul.",
+      "Reactions": "Celle que donne ta classe, plus celle d'un don (Réactif).",
+      "Familles": "+ maîtrise pour attaquer avec ces armes. La classe en donne deux.",
+      "Armes": "Vise un jeton (touche T), puis clique sur l'arme pour attaquer. Tu peux aussi glisser une arme ici.",
+      "ClasseExemple": "Traqueur",
+      "ClasseTexte": "Pour l'instant, la classe, les dons et les techniques sont écrits ici ; le MJ applique leurs effets à la main.",
+      "DonsExemple": "Secouriste : soigner avec du matériel rend 1d6 PV de plus et coûte 1 d'endurance de moins.",
+      "TechniquesExemple": "Niveau 3 : Savoir des entités…",
+      "Notes": "En attendant l'étape 2 : blessures, fêlures et phobies se notent ici.",
+      "BlessuresExemple": "Bras gauche : fracture. Phobie : le noir. Fêlure : peureux.",
+      "Categorie": "Changer la catégorie remplit les valeurs de départ (PV, Esquive, attaque, dégâts, endurance). Tu peux ensuite tout modifier.",
+      "ResistancesExemple": "froid (moitié)",
+      "FaiblessesExemple": "argent (double)",
+      "BriquesExemple": "Régénération : 2 PV par tour, sauf après du feu. Repaire.",
+      "ArmesMonstre": "Facultatif : l'attaque principale suffit pour la plupart des monstres.",
+      "Arme": "Dégâts : le dé de l'arme (par exemple 1d8, ou 2d6 pour une arme militaire). Au corps à corps, Force ÷ 10 s'ajoute tout seul.",
+      "Armure": "Armure : ce qu'elle retire à chaque coup ; elle perd 1 quand un coup la traverse. Esquive : +10 bouclier, +5 protections souples, −10 armure lourde."
+    },
+
+    "PV": "PV",
+    "SM": "Santé mentale",
+    "Endurance": "Endurance",
+    "DEndurance": "d'endurance",
+    "Fatigue": "Fatigue",
+    "AuxJets": "aux jets",
+    "AuJet": "au jet",
+    "Chutes": "Chutes à 0 PV",
+    "ChangerImage": "Changer l'image",
+    "Nom": "Nom",
+    "Niveau": "niveau",
+    "Caracteristiques": "Caractéristiques",
+    "ValeursCalculees": "Valeurs calculées",
+    "Esquive": "Esquive",
+    "Armure": "Armure",
+    "Maitrise": "Maîtrise",
+    "PerceptionPassive": "Perception passive",
+    "Vitesse": "Vitesse",
+    "Deplacement": "Déplacement",
+    "Cases": "cases",
+    "Recuperation": "Récupération",
+    "ParTour": "par tour",
+    "Bonus": "Bonus",
+    "Score": "Score",
+    "Coche": "Coché",
+    "Sciences": "Sciences",
+    "Reactions": "Réactions",
+    "FamillesMaitrisees": "Familles d'armes maîtrisées",
+    "Armes": "Armes",
+    "Armures": "Armures",
+    "Objets": "Objets",
+    "Ajouter": "Ajouter",
+    "Attaquer": "Attaquer",
+    "Bruit": "Bruit",
+    "Balles": "Balles",
+    "Modifier": "Modifier",
+    "Supprimer": "Supprimer",
+    "AucuneArme": "Aucune arme. Ajoutes-en une, ou glisse-la depuis la liste des objets.",
+    "AucuneArmure": "Aucune armure.",
+    "AucunObjet": "Aucun objet.",
+    "Equipee": "Portée",
+    "Rangee": "Rangée",
+    "Classe": "Classe",
+    "Espece": "Espèce",
+    "Metier": "Ancien métier",
+    "BonusPV": "Bonus de PV (dons)",
+    "BonusEsquive": "Bonus d'Esquive",
+    "Dons": "Dons",
+    "Techniques": "Techniques et améliorations",
+    "Blessures": "Blessures, fêlures, phobies",
+    "Notes": "Notes",
+    "Categorie": "Catégorie",
+    "Combat": "Combat",
+    "Quantite": "Quantité",
+    "Description": "Description"
+  }
+}

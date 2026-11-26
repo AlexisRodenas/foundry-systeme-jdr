@@ -1,0 +1,37 @@
+<div class="atlas-objet">
+  <header class="atlas-entete petit">
+    <img class="portrait" src="{{item.img}}" alt="{{item.name}}" data-action="editImage" data-edit="img" data-tooltip="{{localize 'ATLAS.ChangerImage'}}">
+    <input class="nom" type="text" name="name" value="{{item.name}}" placeholder="{{localize 'ATLAS.Nom'}}" aria-label="{{localize 'ATLAS.Nom'}}">
+  </header>
+
+  {{#if estArme}}
+  <div class="champs">
+    <label>{{localize "ATLAS.Famille.titre"}} <select name="system.famille">{{selectOptions config.familles selected=system.famille localize=true}}</select></label>
+    <label>{{localize "ATLAS.Portee.titre"}} <select name="system.portee">{{selectOptions config.portees selected=system.portee localize=true}}</select></label>
+    <label>{{localize "ATLAS.Degats.titre"}} <input type="text" name="system.degats" value="{{system.degats}}" placeholder="1d8"></label>
+    <label>{{localize "ATLAS.Degats.type"}} <select name="system.typeDegats">{{selectOptions config.typesDegats selected=system.typeDegats localize=true}}</select></label>
+    <label>{{localize "ATLAS.Bruit"}} <input type="number" name="system.bruit" value="{{system.bruit}}" min="0" max="5"></label>
+    <label>{{localize "ATLAS.Balles"}} <span class="paire"><input type="number" name="system.munitions.value" value="{{system.munitions.value}}" min="0"> / <input type="number" name="system.munitions.max" value="{{system.munitions.max}}" min="0"></span></label>
+  </div>
+  <p class="aide">{{localize "ATLAS.Aide.Arme"}}</p>
+  {{/if}}
+
+  {{#if estArmure}}
+  <div class="champs">
+    <label>{{localize "ATLAS.Armure"}} <span class="paire"><input type="number" name="system.valeur.value" value="{{system.valeur.value}}" min="0"> / <input type="number" name="system.valeur.max" value="{{system.valeur.max}}" min="0"></span></label>
+    <label>{{localize "ATLAS.Esquive"}} <input type="number" name="system.esquive" value="{{system.esquive}}" min="-50" max="50"></label>
+    <label class="case"><input type="checkbox" name="system.equipee" {{checked system.equipee}}> {{localize "ATLAS.Equipee"}}</label>
+  </div>
+  <p class="aide">{{localize "ATLAS.Aide.Armure"}}</p>
+  {{/if}}
+
+  {{#if estObjet}}
+  <div class="champs">
+    <label>{{localize "ATLAS.Quantite"}} <input type="number" name="system.quantite" value="{{system.quantite}}" min="0"></label>
+  </div>
+  {{/if}}
+
+  <label class="bloc">{{localize "ATLAS.Description"}}
+    <textarea name="system.description" rows="5">{{system.description}}</textarea>
+  </label>
+</div>

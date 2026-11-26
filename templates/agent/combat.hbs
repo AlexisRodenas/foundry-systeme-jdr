@@ -1,0 +1,81 @@
+<section class="tab {{tab.cssClass}}" data-group="primary" data-tab="combat">
+  <div class="colonnes">
+    <div>
+      <h3>{{localize "ATLAS.Reactions"}}</h3>
+      <p class="aide">{{localize "ATLAS.Aide.Reactions"}}</p>
+      <div class="cases">
+        {{#each reactions}}
+        <label><input type="checkbox" name="system.reactions" value="{{k}}" {{checked on}}> {{localize label}}</label>
+        {{/each}}
+      </div>
+    </div>
+    <div>
+      <h3>{{localize "ATLAS.FamillesMaitrisees"}}</h3>
+      <p class="aide">{{localize "ATLAS.Aide.Familles"}}</p>
+      <div class="cases">
+        {{#each familles}}
+        <label><input type="checkbox" name="system.familles" value="{{k}}" {{checked on}}> {{localize label}}</label>
+        {{/each}}
+      </div>
+    </div>
+  </div>
+
+  <h3>{{localize "ATLAS.Armes"}} <button type="button" class="ajouter" data-action="creerObjet" data-type="arme"><i class="fa-solid fa-plus" inert></i> {{localize "ATLAS.Ajouter"}}</button></h3>
+  <p class="aide">{{localize "ATLAS.Aide.Armes"}}</p>
+  <ul class="objets">
+    {{#each armes}}
+    <li data-item-id="{{id}}">
+      <img src="{{img}}" alt="">
+      <button type="button" class="jet" data-action="attaque" data-tooltip="{{localize 'ATLAS.Attaquer'}}"><i class="fa-solid fa-crosshairs" inert></i> {{nom}}</button>
+      <span>{{degats}} {{type}}</span>
+      <span>{{famille}}{{#if maitrisee}} <b class="ok">+{{@root.system.maitrise}}</b>{{/if}}</span>
+      <span>{{localize "ATLAS.Bruit"}} {{bruit}}</span>
+      <span>{{#if munitions.max}}{{munitions.value}} / {{munitions.max}}{{/if}}</span>
+      <span class="outils">
+        <a data-action="editerObjet" data-tooltip="{{localize 'ATLAS.Modifier'}}"><i class="fa-solid fa-pen" inert></i></a>
+        <a data-action="supprimerObjet" data-tooltip="{{localize 'ATLAS.Supprimer'}}"><i class="fa-solid fa-trash" inert></i></a>
+      </span>
+    </li>
+    {{else}}
+    <li class="vide">{{localize "ATLAS.AucuneArme"}}</li>
+    {{/each}}
+  </ul>
+
+  <h3>{{localize "ATLAS.Armures"}} <button type="button" class="ajouter" data-action="creerObjet" data-type="armure"><i class="fa-solid fa-plus" inert></i> {{localize "ATLAS.Ajouter"}}</button></h3>
+  <ul class="objets">
+    {{#each armures}}
+    <li data-item-id="{{id}}">
+      <img src="{{img}}" alt="">
+      <span class="nom-objet">{{name}}</span>
+      <span>{{localize "ATLAS.Armure"}} {{system.valeur.value}} / {{system.valeur.max}}</span>
+      <span>{{localize "ATLAS.Esquive"}} {{#if system.esquive}}{{system.esquive}}{{else}}0{{/if}}</span>
+      <span><a data-action="equiper">{{#if system.equipee}}<i class="fa-solid fa-shirt" inert></i> {{localize "ATLAS.Equipee"}}{{else}}<i class="fa-regular fa-circle" inert></i> {{localize "ATLAS.Rangee"}}{{/if}}</a></span>
+      <span></span>
+      <span class="outils">
+        <a data-action="editerObjet" data-tooltip="{{localize 'ATLAS.Modifier'}}"><i class="fa-solid fa-pen" inert></i></a>
+        <a data-action="supprimerObjet" data-tooltip="{{localize 'ATLAS.Supprimer'}}"><i class="fa-solid fa-trash" inert></i></a>
+      </span>
+    </li>
+    {{else}}
+    <li class="vide">{{localize "ATLAS.AucuneArmure"}}</li>
+    {{/each}}
+  </ul>
+
+  <h3>{{localize "ATLAS.Objets"}} <button type="button" class="ajouter" data-action="creerObjet" data-type="objet"><i class="fa-solid fa-plus" inert></i> {{localize "ATLAS.Ajouter"}}</button></h3>
+  <ul class="objets">
+    {{#each objets}}
+    <li data-item-id="{{id}}">
+      <img src="{{img}}" alt="">
+      <span class="nom-objet">{{name}}</span>
+      <span>× {{system.quantite}}</span>
+      <span></span><span></span><span></span>
+      <span class="outils">
+        <a data-action="editerObjet" data-tooltip="{{localize 'ATLAS.Modifier'}}"><i class="fa-solid fa-pen" inert></i></a>
+        <a data-action="supprimerObjet" data-tooltip="{{localize 'ATLAS.Supprimer'}}"><i class="fa-solid fa-trash" inert></i></a>
+      </span>
+    </li>
+    {{else}}
+    <li class="vide">{{localize "ATLAS.AucunObjet"}}</li>
+    {{/each}}
+  </ul>
+</section>

@@ -1,0 +1,30 @@
+<section class="tab {{tab.cssClass}}" data-group="primary" data-tab="talents">
+  <p class="aide">{{localize "ATLAS.Aide.Talents"}}</p>
+  <table class="tableau">
+    <thead><tr><th>{{localize "ATLAS.Talent.titre"}}</th><th>{{localize "ATLAS.Bonus"}}</th><th>{{localize "ATLAS.Score"}}</th><th>{{localize "ATLAS.Coche"}}</th></tr></thead>
+    <tbody>
+      {{#each talents}}
+      <tr>
+        <td><button type="button" class="jet" data-action="jetTalent" data-talent="{{k}}"><i class="fa-solid fa-dice-d20" inert></i> {{localize label}}</button> <small>{{localize carac}}</small></td>
+        <td><input type="number" name="system.talents.{{k}}.bonus" value="{{bonus}}" min="0" max="100" step="1" aria-label="{{localize 'ATLAS.Bonus'}} {{localize label}}"></td>
+        <td class="score">{{score}}</td>
+        <td><input type="checkbox" name="system.talents.{{k}}.coche" {{checked coche}} aria-label="{{localize 'ATLAS.Coche'}} {{localize label}}"></td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+  <h3>{{localize "ATLAS.Sciences"}}</h3>
+  <table class="tableau">
+    <thead><tr><th>{{localize "ATLAS.Domaine.titre"}}</th><th>{{localize "ATLAS.Bonus"}}</th><th>{{localize "ATLAS.Score"}}</th><th>{{localize "ATLAS.Coche"}}</th></tr></thead>
+    <tbody>
+      {{#each domaines}}
+      <tr>
+        <td><button type="button" class="jet" data-action="jetDomaine" data-domaine="{{k}}"><i class="fa-solid fa-dice-d20" inert></i> {{localize label}}</button> <small>{{localize "ATLAS.Carac.intelligence"}}</small></td>
+        <td><input type="number" name="system.domaines.{{k}}.bonus" value="{{bonus}}" min="0" max="100" step="1" aria-label="{{localize 'ATLAS.Bonus'}} {{localize label}}"></td>
+        <td class="score">{{score}}</td>
+        <td><input type="checkbox" name="system.domaines.{{k}}.coche" {{checked coche}} aria-label="{{localize 'ATLAS.Coche'}} {{localize label}}"></td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</section>

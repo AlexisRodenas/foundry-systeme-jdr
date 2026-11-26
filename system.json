@@ -1,0 +1,40 @@
+{
+  "id": "atlas",
+  "title": "A.T.L.A.S.",
+  "description": "Autorité de Traitement et de Localisation des Anomalies Surnaturelles. Un jeu de rôle d'horreur moderne : un jet d100 à faire dépasser 100, l'endurance pour chaque geste, la santé mentale comme deuxième barre de vie. Étape 1 : jouable.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.369"
+  },
+  "authors": [
+    { "name": "AlexisRodenas", "url": "https://github.com/AlexisRodenas" }
+  ],
+  "url": "https://github.com/AlexisRodenas/foundry-systeme-jdr",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "esmodules": ["module/atlas.mjs"],
+  "styles": [{ "src": "styles/atlas.css" }],
+  "languages": [
+    { "lang": "fr", "name": "Français", "path": "lang/fr.json" },
+    { "lang": "en", "name": "English (textes en français pour l'instant)", "path": "lang/fr.json" }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "agent": {},
+      "monstre": {}
+    },
+    "Item": {
+      "arme": {},
+      "armure": {},
+      "objet": {}
+    }
+  },
+  "grid": {
+    "type": 1,
+    "distance": 1.5,
+    "units": "m"
+  },
+  "primaryTokenAttribute": "pv",
+  "secondaryTokenAttribute": "endurance"
+}

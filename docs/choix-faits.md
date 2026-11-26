@@ -1195,3 +1195,39 @@ Aucun de ces sigles : chercher encore.
 | **Le français d'abord, l'anglais plus tard** (choisi) | Tous les textes sont rangés dans un fichier de langue français. On pourra ajouter l'anglais plus tard sans toucher au code. *Dans six mois, un fichier anglais suffit pour que ton ami joue.* |  |
 | Français et anglais dès le début | Chaque texte est écrit deux fois. On peut partager le système tout de suite, mais chaque changement coûte double. *Tu renommes « Esquive » : il faut aussi choisir le mot anglais.* |  |
 | Le français seulement | Pas d'anglais prévu. Les textes restent quand même dans un fichier de langue, comme le veut Foundry. *Ton ami anglophone devra faire sa traduction lui-même.* |  |
+
+## Le nom : nouvelle fournée
+
+### Quel genre de sigle te parle le plus ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Un mot anglais, comme SHIELD | Court, se dit facilement, sonne « agence secrète ». *HUSH, GRAVE, WARD, DUSK, ASH.* |  |
+| Un mot français | Plus proche de ta table, qui joue en français. *GLAS, NOIR, ARCHE, CENT.* |  |
+| Des lettres qu'on épelle, comme SCP | Trois ou quatre lettres qui ne forment pas un mot. Dis-moi dans la note, je chercherai dans ce style. *« Le S-C-P a envoyé une équipe. »* |  |
+| Peu importe, c'est le sens qui compte | Je chercherai d'abord un sigle qui parle de discrétion, de mort ou d'enfermement. *HUSH (le silence), GLAS (la mort), ARCHE (l'enfermement).* |  |
+
+Nom trouvé : A.T.L.A.S., Autorité de Traitement et de Localisation des Anomalies Surnaturelles.
+
+### Les neuf sigles
+
+| Point | Avis |
+| --- | --- |
+| H.U.S.H. : Hidden Unit for Supernatural Hazards. « Hush » veut dire « chut » : l'unité qui fait taire. |  |
+| G.R.A.V.E. : Global Response Agency for Violent Entities. « Grave », c'est la tombe. |  |
+| W.A.R.D. : Watch Against Rifts and Demons. Un « ward », c'est une protection, un garde. |  |
+| D.U.S.K. : Division for Unnatural Sightings and Kills. « Dusk », c'est le crépuscule. |  |
+| A.S.H. : Anomalies, Spirits and Hauntings. « Ash », c'est la cendre ; trois lettres, comme SCP. |  |
+| G.L.A.S. : Groupe de Lutte contre les Apparitions Surnaturelles. On sonne le glas pour les morts. |  |
+| N.O.I.R. : Neutralisation des Occurrences Inexpliquées et Rituelles. Le noir, et le roman noir. |  |
+| A.R.C.H.E. : Agence de Recherche et de Confinement des Hantises et Entités. L'arche qui enferme et protège. |  |
+| C.E.N.T. : Cellule d'Enquête et de Neutralisation des Ténèbres. Cent, c'est la barre du d100 à dépasser. |  |
+
+## En attendant le nom
+
+### On commence le code avant d'avoir le nom ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Oui, avec le nom provisoire | Le système s'appelle « systeme-jdr » le temps des tests. Je le remplace partout le jour où tu choisis le nom. *Tu testes la fiche de Hugo pendant qu'on cherche encore le nom.* |  |
+| **Non, attendre le nom** (choisi) | Rien n'est codé tant que le nom n'est pas trouvé. *On choisit d'abord le nom, puis le code commence.* |  |

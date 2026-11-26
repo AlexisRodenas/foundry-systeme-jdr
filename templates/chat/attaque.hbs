@@ -1,0 +1,21 @@
+<div class="atlas-carte attaque {{verdict.classe}}">
+  <header><b>{{arme}}</b><span>{{typeAttaque}} · {{cout}} {{localize "ATLAS.DEndurance"}}</span></header>
+  <p class="cible">{{#if cible}}<i class="fa-solid fa-bullseye" inert></i> {{cible}} · {{localize "ATLAS.Esquive"}} {{esquive}}{{else}}{{localize "ATLAS.Jet.PasDeCible"}}{{/if}}</p>
+  <div class="total"><b>{{total}}</b><span>{{verdict.texte}}</span></div>
+  <p class="detail">d100 : {{d100}} · {{localize "ATLAS.Score"}} {{score}}{{#each d10}} · d10 : {{this}}{{/each}}{{#if modif}} · {{modif}}{{/if}}</p>
+  {{#if superCritique}}<p class="note">{{localize "ATLAS.Chat.SuperCritique"}}</p>{{else if critique}}<p class="note">{{localize "ATLAS.Chat.Critique"}}</p>{{/if}}
+  {{#if catastrophe}}<p class="note">{{localize "ATLAS.Chat.Catastrophe"}}</p>{{/if}}
+  {{#if bruit}}<p class="note discret">{{localize "ATLAS.Bruit"}} {{bruit}}</p>{{/if}}
+  {{#if degats}}
+  <div class="degats"><span>{{localize "ATLAS.Degats.titre"}}</span><b>{{degats}}</b><span>{{typeDegats}} · {{formuleDegats}}</span></div>
+  {{/if}}
+  {{#if boutons}}
+  <div class="boutons">
+    <button type="button" data-atlas="degats"><i class="fa-solid fa-heart-crack" inert></i> {{localize "ATLAS.Chat.Appliquer"}}</button>
+    {{#if reactions.eviter}}<button type="button" data-atlas="eviter">{{localize "ATLAS.Reaction.eviter"}} (2)</button>{{/if}}
+    {{#if reactions.parer}}<button type="button" data-atlas="parer">{{localize "ATLAS.Reaction.parer"}} (3)</button>{{/if}}
+    {{#if reactions.encaisser}}<button type="button" data-atlas="encaisser">{{localize "ATLAS.Chat.EncaisserAppliquer"}} (2)</button>{{/if}}
+  </div>
+  <p class="aide">{{localize "ATLAS.Chat.AideBoutons"}}</p>
+  {{/if}}
+</div>

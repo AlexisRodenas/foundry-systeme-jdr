@@ -1,0 +1,29 @@
+<section class="tab {{tab.cssClass}}" data-group="primary" data-tab="agent">
+  <div class="colonnes">
+    <div>
+      <h3>{{localize "ATLAS.Caracteristiques"}}</h3>
+      <p class="aide">{{localize "ATLAS.Aide.Caracs"}}</p>
+      <ul class="lignes">
+        {{#each caracs}}
+        <li>
+          <button type="button" class="jet" data-action="jetCarac" data-carac="{{k}}"><i class="fa-solid fa-dice-d20" inert></i> {{localize label}}</button>
+          <input type="number" name="system.caracs.{{k}}" value="{{valeur}}" min="0" max="200" aria-label="{{localize label}}">
+        </li>
+        {{/each}}
+      </ul>
+    </div>
+    <div>
+      <h3>{{localize "ATLAS.ValeursCalculees"}}</h3>
+      <dl class="kv">
+        <dt>{{localize "ATLAS.Esquive"}}</dt><dd>{{system.esquive}}</dd>
+        <dt>{{localize "ATLAS.Armure"}}</dt><dd>{{system.armure}}</dd>
+        <dt>{{localize "ATLAS.Maitrise"}}</dt><dd>+{{system.maitrise}}</dd>
+        <dt>{{localize "ATLAS.PerceptionPassive"}}</dt><dd>{{system.perceptionPassive}}</dd>
+        <dt>{{localize "ATLAS.Vitesse"}}</dt><dd>{{system.vitesse}}</dd>
+        <dt>{{localize "ATLAS.Deplacement"}}</dt><dd>{{system.deplacement.cases}} {{localize "ATLAS.Cases"}} ({{system.deplacement.metres}} m)</dd>
+        <dt>{{localize "ATLAS.Recuperation"}}</dt><dd>+{{system.endurance.recuperation}} {{localize "ATLAS.ParTour"}}</dd>
+      </dl>
+      <p class="aide">{{localize "ATLAS.Aide.Calculs"}}</p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,30 @@
+<header class="atlas-entete">
+  <img class="portrait" src="{{actor.img}}" alt="{{actor.name}}" data-action="editImage" data-edit="img" data-tooltip="{{localize 'ATLAS.ChangerImage'}}">
+  <div class="identite">
+    <input class="nom" type="text" name="name" value="{{actor.name}}" placeholder="{{localize 'ATLAS.Nom'}}" aria-label="{{localize 'ATLAS.Nom'}}">
+    <p class="sous-titre">
+      <span>{{system.espece}}</span>
+      {{#if system.metier}}<span>{{system.metier}}</span>{{/if}}
+      <span>{{#if system.classe}}{{system.classe}}, {{/if}}{{localize "ATLAS.Niveau"}} {{system.niveau}}</span>
+    </p>
+    <div class="barres">
+      {{#each barres}}
+      <div class="barre {{cle}}">
+        <div class="haut">
+          <span>{{localize label}}</span>
+          <span class="chiffres"><input type="number" name="system.{{cle}}.value" value="{{value}}" min="0" aria-label="{{localize label}}"> / {{max}}</span>
+        </div>
+        <div class="piste"><i style="width: {{pct}}%"></i>{{#if (eq cle "sm")}}{{#each @root.paliers}}<u style="left: {{this}}%"></u>{{/each}}{{/if}}</div>
+      </div>
+      {{/each}}
+    </div>
+    <div class="fatigue">
+      <label for="{{rootId}}-fatigue">{{localize "ATLAS.Fatigue"}}</label>
+      <input id="{{rootId}}-fatigue" type="number" name="system.fatigue" value="{{system.fatigue}}" min="0" max="5">
+      <span class="crans" aria-hidden="true">{{#each fatigue}}<i class="{{#if on}}on{{/if}}"></i>{{/each}}</span>
+      {{#if malusFatigue}}<span class="malus">−{{malusFatigue}} {{localize "ATLAS.AuxJets"}}</span>{{/if}}
+      <label for="{{rootId}}-chutes">{{localize "ATLAS.Chutes"}}</label>
+      <input id="{{rootId}}-chutes" type="number" name="system.chutes" value="{{system.chutes}}" min="0" max="9">
+    </div>
+  </div>
+</header>

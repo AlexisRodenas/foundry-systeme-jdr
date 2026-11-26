@@ -1,0 +1,18 @@
+<section class="tab {{tab.cssClass}}" data-group="primary" data-tab="classe">
+  <div class="champs">
+    <label>{{localize "ATLAS.Classe"}} <input type="text" name="system.classe" value="{{system.classe}}" placeholder="{{localize 'ATLAS.Aide.ClasseExemple'}}"></label>
+    <label>{{localize "ATLAS.Niveau"}} <input type="number" name="system.niveau" value="{{system.niveau}}" min="1" max="20"></label>
+    <label>{{localize "ATLAS.Espece"}} <input type="text" name="system.espece" value="{{system.espece}}"></label>
+    <label>{{localize "ATLAS.Metier"}} <input type="text" name="system.metier" value="{{system.metier}}"></label>
+    <label>{{localize "ATLAS.Vitesse"}} <input type="number" name="system.vitesse" value="{{system.vitesse}}" min="0" max="300"></label>
+    <label>{{localize "ATLAS.BonusPV"}} <input type="number" name="system.bonus.pv" value="{{system.bonus.pv}}"></label>
+    <label>{{localize "ATLAS.BonusEsquive"}} <input type="number" name="system.bonus.esquive" value="{{system.bonus.esquive}}"></label>
+  </div>
+  <p class="aide">{{localize "ATLAS.Aide.ClasseTexte"}}</p>
+  <label class="bloc">{{localize "ATLAS.Dons"}}
+    <textarea name="system.dons" rows="6" placeholder="{{localize 'ATLAS.Aide.DonsExemple'}}">{{system.dons}}</textarea>
+  </label>
+  <label class="bloc">{{localize "ATLAS.Techniques"}}
+    <textarea name="system.techniques" rows="6" placeholder="{{localize 'ATLAS.Aide.TechniquesExemple'}}">{{system.techniques}}</textarea>
+  </label>
+</section>

@@ -12,7 +12,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 | Sujet | Décision |
 | --- | --- |
-| Nom | Provisoire (`systeme-jdr`). Ce sera un sigle, à la façon de SCP ou SHIELD ; une deuxième série est proposée (HUSH, GRAVE, WARD, DUSK, ASH, GLAS, NOIR, ARCHE, CENT). À fixer avant de créer un vrai monde Foundry. |
+| Nom | **A.T.L.A.S.** : Autorité de Traitement et de Localisation des Anomalies Surnaturelles. Identifiant Foundry : `atlas`. Le nom ne change aucune règle : le MJ garde l'organisation qu'il veut. |
 | Ambiance | Dark fantasy / moderne / horreur |
 | Univers | Un seul, qui mélange les trois |
 | Cadre | Une organisation secrète qui règle le paranormal sans se faire remarquer |
@@ -57,8 +57,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 ## À choisir
 
-1. Le nom : un sigle (deuxième série proposée)
-2. Commencer le code avec le nom provisoire, ou attendre le nom
+1. Tester la première version dans Foundry (étape 1), puis corriger
 
 ## Écarté
 
@@ -72,7 +71,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 - XP chiffrée selon la note de mission ; classe qui s'améliore seulement aux niveaux 5, 10, 15 et 20, ou à chaque niveau ; réactions seulement par des dons
 - Rangs de prix au lieu de prix chiffrés
 - Les noms Fêlures, Au-delà et Seuil (le nom sera un sigle) ; Brèche, déjà pris par un autre jeu
-- Les sigles S.C.E.L.L.É., D.É.N.I., S.E.U.I.L. et F.Ê.L.U.R.E.S. ; SHROUD, déjà pris par un système amateur
+- Les sigles S.C.E.L.L.É., D.É.N.I., S.E.U.I.L., F.Ê.L.U.R.E.S., HUSH, GRAVE, WARD, DUSK, ASH, GLAS, NOIR, ARCHE et CENT ; SHROUD, déjà pris par un système amateur
 - Textes du système en anglais dès le début, ou en français seulement
 - Pour les règles, les licences CC BY et « tous droits réservés » ; pour le code, GPL 3 et aucune licence
 - Discrétion en quatre paliers avancés par le MJ, ou comptée seulement dans la note de fin
@@ -87,6 +86,6 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 Le code se fait en trois étapes. Le contenu de l'étape 1 est validé ; le reste se gère à la main en attendant.
 
-1. **Jouable** (validée) : fiche d'agent calculée, jet et sa petite fenêtre, trois barres sur le jeton, attaque contre l'Esquive, réactions, jauge de tour, endurance qui revient à chaque tour, fiche de monstre simple, armes et armures, classes et dons écrits sans calcul.
+1. **Jouable** (codée, version 0.1.0, en test) : fiche d'agent calculée, jet et sa petite fenêtre, trois barres sur le jeton, attaque contre l'Esquive, réactions, jauge de tour, endurance qui revient à chaque tour, fiche de monstre simple, armes et armures, classes et dons écrits sans calcul.
 2. **Horreur** : paliers de santé mentale, fêlures et crises, table du corps et blessures, jets à 0 PV, inventaire en grille et poids, classes, dons et techniques calculés, pouvoirs et objets anormaux.
 3. **Campagne** : missions, note de fin et argent, jauge de discrétion, activités entre deux missions et soutien, véhicules, briques de monstres.

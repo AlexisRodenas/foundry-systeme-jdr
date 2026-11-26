@@ -1,0 +1,27 @@
+<div class="atlas-fenetre-jet">
+  {{#if cible}}
+  <p class="cible"><i class="fa-solid fa-bullseye" inert></i> {{localize "ATLAS.Jet.Cible"}} : <b>{{cible.nom}}</b>{{#if cible.esquive}} ({{localize "ATLAS.Esquive"}} {{cible.esquive}}){{/if}}</p>
+  {{else if attaque}}
+  <p class="cible aucune">{{localize "ATLAS.Jet.PasDeCible"}}</p>
+  {{/if}}
+  <p>{{localize "ATLAS.Score"}} : <b>{{score}}</b></p>
+  <div class="form-group">
+    {{#if attaque}}
+    <label for="atlas-jet-type">{{localize "ATLAS.Attaque.titre"}}</label>
+    <select id="atlas-jet-type" name="typeAttaque">{{selectOptions attaques selected="normale" localize=true}}</select>
+    {{else}}
+    <label for="atlas-jet-difficulte">{{localize "ATLAS.Difficulte.titre"}}</label>
+    <select id="atlas-jet-difficulte" name="difficulte">{{selectOptions difficultes selected="normal" localize=true}}</select>
+    {{/if}}
+  </div>
+  <div class="form-group">
+    <label for="atlas-jet-avantages">{{localize "ATLAS.Jet.Avantages"}}</label>
+    <input id="atlas-jet-avantages" type="number" name="avantages" value="0" min="-3" max="3" step="1">
+  </div>
+  <p class="hint">{{localize "ATLAS.Jet.AideAvantages"}}</p>
+  <div class="form-group">
+    <label for="atlas-jet-modif">{{localize "ATLAS.Jet.Modificateur"}}</label>
+    <input id="atlas-jet-modif" type="number" name="modif" value="0" step="5">
+  </div>
+  {{#if fatigue}}<p class="hint">{{localize "ATLAS.Fatigue"}} : {{fatigue}} {{localize "ATLAS.AuJet"}}</p>{{/if}}
+</div>
