@@ -1,4 +1,4 @@
-# Conception du système
+| Espèces | Un modèle fixe : une Vitesse, +10 et −10 en caractéristiques, un pouvoir, une faiblesse. Huit exemples : vampire, changelin, psychique, possédé, hybride des profondeurs, être artificiel, ruche, cobaye. L'humain a un don gratuit. Chaque espèce a son corps : une table de zones en 1d10, des organes et leurs effets. Elles remplacent les origines. || Dons | Comme D&D 5.5, sans lien avec les talents : un don d'origine au niveau 1 (deux pour l'humain), un don général aux niveaux 4, 8, 12 et 16 (+5 à une caractéristique, limite 70), une faveur épique au niveau 19. Conditions : le niveau, parfois une caractéristique, et des chaînes de dons. || Attaque | 1d100 + Force ou Agilité + maîtrise (+10, +15 au niveau 10, +20 au niveau 20) contre l'Esquive. Six familles d'armes, deux maîtrisées au départ grâce à la classe. Les dégâts montent avec la qualité de l'arme (standard, militaire, exceptionnelle : un, deux ou trois dés), pas avec le niveau. || Talents | Onze : Athlétisme, Discrétion, Adresse, Acrobatie, Investigation, Sciences, Perception, Instinct, Survie, Persuasion, Tromperie. Un bonus de 0 à 50 ajouté au jet, avec une caractéristique par défaut ; sans talent, la caractéristique seule. Au départ : +15, +15, +10, +10, +5, +5. Sciences est une famille de six domaines (Biologie avec la médecine, Chimie, Physique, Mécanique, Électronique, Informatique), chacun avec son bonus, hors des six bonus de départ. Le combat n'est pas un talent. |# Conception du système
 
 Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui est **écarté**.
 
@@ -50,14 +50,13 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 ## À choisir
 
-1. Les dons : quand on les gagne, comment montent les caractéristiques, la liste
-2. Les familles d'armes et la montée du matériel
-3. Les domaines de Sciences et ce que couvre Acrobatie
-4. Le corps des espèces
-5. Deux détails des fêlures
-6. Les règles pas encore relues (44, surtout blessures, progression, classes, équipement, missions, monstres)
-7. Les classes et leur mécanique
-8. Nom définitif et licence
+1. Les tables complètes du corps de chaque espèce
+2. Blessures et soins, et ce qui se passe à 0 PV
+3. Les bonus de départ des domaines de Sciences
+4. Les chaînes de dons
+5. Les autres règles pas encore relues (progression, classes, équipement, missions, monstres)
+6. Les classes et leur mécanique
+7. Nom définitif et licence
 
 ## Écarté
 
@@ -65,7 +64,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 - Six caractéristiques façon D&D ; Sensibilité, Savoir, Corpulence, Combat et Souffle en caractéristiques
 - Talents Mêlée, Lutte, Tir, Esquive, Conduite, Résistance, Effort, Médecine, Informatique, Technique, Occultisme, Intimidation et Commandement (médecine et informatique passent dans Sciences)
 - Paliers de 20 et 40 points dans les jets opposés ; hallucinations qui blessent, maximum de santé mentale qui baisse, désavantage sous 50 % et 75 %
-- Petits avantages de talent à +15, +30 et +45 ; Sciences en un seul bonus ; dégâts qui montent avec le niveau
+- Petits avantages de talent à +15, +30 et +45 ; Sciences en un seul bonus ; domaines de Sciences comptés parmi les six bonus de départ ; quatre familles d'armes ; dégâts qui montent avec le niveau
 - Espèces loup-garou, revenant, goule et demi-démon (comme exemples)
 - Dés de dégâts qui explosent ; réussite critique à 10 d'écart ; un seul dé gardé parmi plusieurs
 - Une action, un mouvement et une réaction par tour

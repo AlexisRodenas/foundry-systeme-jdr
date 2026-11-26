@@ -516,3 +516,203 @@ Aucune option retenue : les petits avantages liés aux talents sont abandonnés.
 | Point | Avis |
 | --- | --- |
 | Jets opposés : chacun lance, le plus haut gagne. À 60 points d'écart ou plus, le plus fort gagne sans jet. L'écart ne donne plus de dés. | oui |
+
+## Les dons
+
+### Quand gagne-t-on un don ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Comme D&D 5.5** (choisi) | Un don d'origine au niveau 1, un don général aux niveaux 4, 8, 12 et 16, une faveur épique au niveau 19. Six dons, sept pour l'humain. *La classe s'améliore aux niveaux 5, 10, 15 et 20 : avec les dons, on gagne quelque chose environ tous les deux niveaux.* | [D&D 5.5](https://www.dndbeyond.com/sources/dnd/br-2024/feats) |
+| Tous les trois niveaux | Un don d'origine au niveau 1, puis un don aux niveaux 3, 6, 9, 12, 15 et 18. Sept dons, huit pour l'humain. *Plus de choix, mais plus de dons à écrire et à équilibrer.* |  |
+| Avec des points | On garde l'ancienne idée : 2 points à chaque niveau. Un don coûte 2 points, un gros don 4. *Le plus libre, mais jusqu'à 19 dons au niveau 20 : les personnages deviennent vite très forts.* |  |
+
+### Comment montent les caractéristiques ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Avec les dons généraux** (choisi) | Chaque don général donne +5 à une caractéristique, écrite sur le don. Le don Amélioration donne +10 à une caractéristique, ou +5 à deux. On ne dépasse pas 70, la limite humaine, sauf avec une faveur épique. *Agilité 50 au départ : 55 au niveau 4 avec Rapide, 65 au niveau 8 avec Amélioration, 70 au niveau 12.* | D&D 5.5, adapté |
+| Avec le niveau | +5 à une caractéristique aux niveaux 5, 10, 15 et 20. Les dons n'en donnent pas. *Tout le monde gagne +20 en tout, quels que soient ses dons.* |  |
+| Presque jamais | Seuls l'espèce, un objet anormal, une malédiction ou un éveil les changent. *Un agent de niveau 20 a la même Force qu'au début : ce sont les talents, la maîtrise et le matériel qui montent. Plus d'horreur.* |  |
+
+### Faut-il des conditions pour prendre un don ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Le niveau, parfois une caractéristique** (choisi) | Dons généraux à partir du niveau 4. Certains demandent 50 dans une caractéristique. *Coup lourd demande 50 en Force. Un agent à 40 doit d'abord la monter, par exemple avec Amélioration.* | D&D 5.5 |
+| En plus, des chaînes de dons | Certains dons en demandent un autre avant. *Tireur posé, puis Tireur d'élite, qui vise la tête sans désavantage.* |  |
+| Aucune | On prend le don qu'on veut, dès qu'on en gagne un. *Un agent de niveau 4 peut prendre un don pensé pour la fin de partie.* |  |
+
+Choix complété : le niveau et parfois une caractéristique, et aussi des chaînes de dons (un don en demande un autre avant).
+
+### Dons d'origine : niveau 1, sans caractéristique
+
+| Point | Avis |
+| --- | --- |
+| Vigilant : +20 à l'initiative. Au début d'un combat, tu peux échanger ta jauge avec celle d'un allié. | oui |
+| Coriace : +2 PV par niveau. | oui |
+| Veinard : 3 chances par mission. Avant un de tes jets, une chance ajoute 1 dé d'avantage. Contre une attaque, elle donne 1 dé de désavantage à l'ennemi. | oui |
+| Secouriste : soigner avec du matériel rend 1d6 PV de plus et coûte 1 d'endurance de moins. | oui |
+| Polyvalent : +5 à trois talents ou domaines de Sciences. | oui |
+| Bagarreur : tes poings font d4 + Force ÷ 10. Après un coup de poing réussi, saisir coûte 1 d'endurance de moins. | oui |
+| Bricoleur : entre deux missions, tu fabriques ou répares un objet en plus de ton activité. | oui |
+| Nerfs solides : la première perte de santé mentale de chaque mission est divisée par deux. | oui |
+| Dur au mal : ton premier cran de fatigue ne retire rien aux jets. | oui |
+
+### Dons généraux : à partir du niveau 4, avec +5 à une caractéristique
+
+| Point | Avis |
+| --- | --- |
+| Maniement (+5 en Force ou en Agilité) : tu maîtrises une famille d'armes de plus. | oui |
+| Tireur posé (+5 en Agilité) : la couverture partielle ne te gêne plus, et viser la tête ne coûte qu'1 dé de désavantage. | oui |
+| Coup lourd (+5 en Force, 50 en Force au moins) : une attaque lourde lance un dé d'arme de plus, avec 1 dé de désavantage pour toucher. | oui |
+| Deux armes (+5 en Agilité) : avec une arme légère dans chaque main, ta deuxième attaque légère coûte 1 d'endurance de moins. | oui |
+| Lutteur (+5 en Force) : saisir ne coûte qu'une attaque légère, et la cible que tu tiens a 1 dé de désavantage pour frapper. | oui |
+| Sentinelle (+5 en Agilité ou en Esprit) : frapper quelqu'un qui s'éloigne ne coûte rien de plus, et un coup réussi l'arrête sur place. | oui |
+| Porte-bouclier (+5 en Force) : ton bouclier donne +15 en Esquive au lieu de +10, et +5 à un allié collé à toi. | oui |
+| Armure lourde (+5 en Force ou en Constitution) : l'armure lourde ne retire plus 10 à ton Esquive. | oui |
+| Observateur (+5 en Intelligence ou en Esprit) : +10 à la Perception passive, et tu lis sur les lèvres. | oui |
+| Rapide (+5 en Agilité ou en Stamina) : +10 en Vitesse. | oui |
+| Increvable (+5 en Constitution) : à 0 PV, 1 dé d'avantage sur les jets de survie. | oui |
+| Meneur (+5 en Présence) : une fois par combat, un allié qui t'entend gagne 1 dé d'avantage sur un jet d'Esprit. | oui |
+| Chasseur d'entités (+5 en Esprit ou en Intelligence) : quand une entité utilise un pouvoir près de toi, tu peux la frapper tout de suite pour 3 d'endurance. | oui |
+| Amélioration : +10 à une caractéristique, ou +5 à deux. Rien d'autre. | oui |
+
+### Faveurs épiques : niveau 19, avec +10 à une caractéristique, même au-delà de 70
+
+| Point | Avis |
+| --- | --- |
+| Faveur de survie : une fois par mission, tu tombes à 1 PV au lieu de 0. | oui |
+| Faveur de l'esprit : une fois par mission, tu ignores une perte de santé mentale. | oui |
+| Faveur du destin : une fois par mission, après un jet que tu vois, tu ajoutes ou retires 2d10. | oui |
+| Faveur de vitesse : +20 en Vitesse. | oui |
+
+## Les armes
+
+### Qu'est-ce qu'on maîtrise ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Quatre familles | Armes blanches, armes de poing, armes d'épaule, armes lourdes et explosifs. *Maîtriser les armes de poing : pistolet, revolver, pistolet-mitrailleur, taser.* |  |
+| **Six familles** (choisi) | Lames, armes contondantes, armes de poing, armes d'épaule, armes lourdes et explosifs, armes de jet et arcs. *Un chasseur peut maîtriser l'arbalète sans maîtriser les fusils.* |  |
+| Chaque arme à part | On maîtrise une arme précise : le revolver, pas le pistolet. *Très spécialisé : changer d'arme coûte cher, et il faut beaucoup de maîtrises.* |  |
+
+### Comment le matériel fait-il monter les dégâts ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **La qualité de l'arme** (choisi) | Standard : un dé. Militaire : deux dés. Exceptionnelle : trois dés. Les munitions spéciales changent le type de dégâts, pas le nombre de dés. *Pistolet standard d8, militaire 2d8, exceptionnel 3d8. Des balles d'argent dans un pistolet standard : toujours d8, mais elles touchent la faiblesse de l'entité.* |  |
+| L'arme et les munitions | Une arme améliorée ajoute un dé, une munition spéciale aussi. *Pistolet amélioré et balles perforantes : 3d8. Sans ces balles : 2d8. Il faut gérer ses munitions.* |  |
+| On améliore sa propre arme | Entre deux missions, on améliore son arme à l'armurerie : un dé de plus par rang, trois rangs au maximum. *On garde son arme préférée toute la campagne.* | [Darkest Dungeon, le forgeron](https://www.gamepressure.com/darkestdungeon/blacksmith/z275b4) |
+
+### Au départ, combien de familles maîtrise-t-on ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Deux, données par la classe** (choisi) | Chaque classe donne deux familles. Le don Maniement en ajoute une. *Assaut : armes d'épaule et armes lourdes. Infiltré : armes blanches et armes de poing.* |  |
+| Une seule | Une famille au départ, les autres avec des dons. *Plus dur : on dépend de son arme.* |  |
+| Une par la classe, une par l'ancien métier | L'ancien métier donne une famille, la classe une autre. *Ancien policier : armes de poing. Ancien chasseur : armes d'épaule.* |  |
+
+### Armes d'exemple, en qualité standard
+
+| Point | Avis |
+| --- | --- |
+| Couteau : d6 tranchant, bruit 0. Se lance à 5 cases. | oui |
+| Machette : d8 tranchant, bruit 1. | oui |
+| Batte ou matraque : d6 contondant, bruit 1. Par-derrière, assomme un humain ordinaire. | oui |
+| Pistolet : d8 perforant, bruit 4, 12 balles. | oui |
+| Revolver : d10 perforant, bruit 5, 6 balles. Recharger coûte 4 d'endurance au lieu de 2. | oui |
+| Fusil à pompe : 2d6 perforant à moins de 5 cases, d6 au-delà. Bruit 5, 6 cartouches. | oui |
+| Fusil d'assaut : d10 perforant, bruit 5, 30 balles, rafale possible. | oui |
+| Fusil de précision : 2d8 perforant, bruit 5, 1 dé de désavantage à moins de 5 cases. | oui |
+| Arbalète : d10 perforant, bruit 1. Recharger coûte 4 d'endurance. | oui |
+| Taser : d4 électrique, bruit 1. Touchée, la cible perd aussi 4 d'endurance. | oui |
+| Lance-flammes : 2d6 de feu sur 3 cases en ligne, bruit 3. La cible brûle : 1d6 de plus au tour suivant. | oui |
+| Grenade : 3d6 perforant sur 2 cases autour du point d'impact, bruit 5. | oui |
+
+## Sciences et Acrobatie
+
+### Quels domaines dans Sciences ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Quatre domaines larges | Biologie (le vivant, la médecine, les poisons naturels), Chimie (produits, explosifs, drogues), Physique (mécanique, électricité, véhicules), Informatique (ordinateurs, réseaux, caméras). *Réparer un moteur : Physique. Fabriquer une bombe artisanale : Chimie. Recoudre une plaie : Biologie. Couper une alarme connectée : Informatique.* |  |
+| **Six domaines plus précis** (choisi) | Biologie (avec la médecine), Chimie, Physique, Mécanique, Électronique, Informatique. *Réparer un moteur : Mécanique. Couper une alarme : Électronique. Plus précis, mais chaque domaine sert moins souvent.* |  |
+| Des domaines libres | Le joueur nomme son domaine et le MJ l'accepte : Botanique, Pharmacie, Médecine légale, Cryptographie… *Très riche, mais chaque table aura sa propre liste.* | [L'Appel de Cthulhu](https://roll20.net/compendium/coc/Rules:Part%20Three%20Occupation%20and%20Skills) |
+
+### D'autres talents deviennent-ils des familles ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Non, seulement Sciences** (choisi) | Les autres talents gardent un seul bonus. *Adresse +15 sert pour crocheter, voler à la tire et désamorcer.* |  |
+| Aussi Adresse | Trois domaines : Crochetage, Vol à la tire, Pièges et explosifs. *Un voleur doué pour les serrures n'est pas forcément bon avec une bombe.* |  |
+| Adresse et Survie | En plus, Survie par milieu : Ville, Nature, Souterrains. *Un agent qui connaît les égouts peut se perdre en forêt.* |  |
+
+### Ce que fait Acrobatie (Agilité)
+
+| Point | Avis |
+| --- | --- |
+| Garder l'équilibre : poutre, toit glissant, bateau qui tangue. | oui |
+| Amortir une chute : réussi, les dégâts de chute sont divisés par deux. | oui |
+| Sauter par-dessus un obstacle, ou passer à côté d'un ennemi sans s'arrêter. | oui |
+| Se libérer d'une prise : Acrobatie ou Athlétisme, au choix. | oui |
+| Se faufiler : fenêtre, conduit, trou dans un grillage. | oui |
+| Cascades : sauter d'une voiture en marche, glisser sous une porte qui se ferme. | oui |
+
+### Les domaines, à vérifier
+
+| Point | Avis |
+| --- | --- |
+| Au départ, un domaine de Sciences compte comme un talent pour les six bonus. | non |
+| Chaque domaine se coche et monte seul. | oui |
+| L'ancien métier peut donner +5 à un domaine. | oui |
+| Pour aider, il faut au moins +5 dans le même domaine. | oui |
+
+## Le corps des espèces
+
+### Où arrive un coup quand on ne vise pas ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Au dé, seulement quand ça compte** (choisi) | Sur un critique, un super critique ou une grosse blessure : 1d10 sur la table de l'espèce. Le reste du temps, on ne note pas l'endroit. *Humain : 1 tête, 2 à 5 torse, 6 et 7 bras, 8 à 10 jambes.* | [RuneQuest, adapté](https://basicroleplaying.org/topic/1444-non-human-missile-hit-locations/) |
+| À chaque coup | Chaque coup qui touche tire un endroit. Foundry le ferait tout seul. *Utile si l'armure change selon l'endroit : casque, gilet, jambières.* |  |
+| Seulement quand on vise | Sans visée, un super critique blesse toujours le torse. *Le plus simple, mais moins de surprises.* |  |
+
+### Combien de détails par espèce ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Seulement ce qui change | La fiche de l'espèce dit, en trois à cinq lignes, ce qui diffère d'un humain : zones, point vital, sang, souffle, soins. *Être artificiel : pas de sang, un noyau à la place du cœur, il se répare au lieu de se soigner.* |  |
+| **Un schéma complet** (choisi) | Chaque espèce a sa table de zones, ses organes, et l'effet de chacun quand il est touché. *Ruche : 1 et 2 la reine, 3 à 10 l'essaim. Reine touchée : 1 dé de désavantage partout jusqu'au repos.* | [RuneQuest, une table par forme de corps](https://basicroleplaying.org/topic/1444-non-human-missile-hit-locations/) |
+| Une simple description | Un paragraphe sur le corps ; le MJ invente les effets. *Rapide à écrire, mais deux MJ ne joueront pas pareil.* |  |
+
+### Qui soigne une autre espèce ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Le bon domaine, avec un malus si le corps est étrange** (choisi) | Biologie pour tout ce qui vit, avec 1 dé de désavantage si le corps est très différent. L'être artificiel se répare. *Recoudre une psychique : normal. Recoudre un hybride des profondeurs : 1 dé de désavantage.* |  |
+| Comme un humain | Les soins marchent sur tout le monde, sans malus. *Plus simple, mais moins étrange.* |  |
+| Chacun son soin | Chaque espèce dit ce qui la soigne : sang, réparation, chaleur, eau, sommeil… *Le vampire se soigne surtout en buvant, l'hybride des profondeurs en restant dans l'eau.* |  |
+
+### Le corps des huit espèces gardées, et de l'humain
+
+| Point | Avis |
+| --- | --- |
+| Humain : tête, torse, deux bras, deux jambes. Il saigne, il respire, il dort ; tous les soins marchent. | oui |
+| Vampire : ne respire pas (ni gaz ni noyade) et saigne peu (saignements divisés par deux). Point vital : le cœur ; un super critique au torse le paralyse un tour. Les soins rendent la moitié, sauf le sang qu'il vole. | oui |
+| Changelin : ses organes bougent avec sa forme. Un super critique ne blesse aucun membre, mais montre son vrai visage pendant un tour. | oui |
+| Psychique : corps humain, mais la tête est fragile. Un coup à la tête fait aussi perdre 1d4 de santé mentale. | oui |
+| Possédé : corps humain, deux esprits. À 0 PV, l'entité garde le corps debout un tour de plus, et c'est le MJ qui le joue. | oui |
+| Hybride des profondeurs : des branchies au cou, une zone en plus. Un coup aux branchies : il étouffe un tour. Plus d'un jour sans eau : 1 cran de fatigue. | oui |
+| Être artificiel : ni sang, ni souffle, ni douleur (les fractures ne le gênent pas). Un noyau à la place du cœur : un super critique au torse l'arrête un tour. Un membre perdu se remplace comme une pièce. | oui |
+| Ruche : aucun organe vital, le corps est un essaim. Pas de fracture ni de saignement, mais chaque critique tue une partie de l'essaim : son pouvoir porte deux fois moins loin jusqu'au repos. | oui |
+| Cobaye : la mutation change une zone. Griffes : le bras devient une arme d6. Peau dure : armure 2 au torse. Vision de nuit : 1 dé de désavantage en pleine lumière. | oui |
+
+## Deux vérifications
+
+### À vérifier
+
+| Point | Avis |
+| --- | --- |
+| Avec plusieurs fêlures, un dé choisit laquelle décide quand on perd le contrôle. | oui |
+| Crise ratée : on craque comme le dit une de ses fêlures, au lieu de fuir, se figer ou frapper au hasard. | oui |
