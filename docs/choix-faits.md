@@ -981,3 +981,95 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Objets anormaux : puissants, avec un effet secondaire écrit sur l'objet. Pour l'instant, ce sont eux qui donnent la plupart des pouvoirs. | oui |
 | Véhicules : PV, armure, Vitesse et places. Conduire : Agilité plus le bonus du véhicule ; une poursuite se joue en jets opposés. | oui |
 | Fabriquer ou améliorer entre deux missions, avec le bon domaine : Mécanique pour une arme, Chimie pour une drogue ou un explosif, Électronique pour un détecteur. Un jet réussi : l'objet est prêt pour la mission suivante. | oui |
+
+## Le Médecin, complet
+
+### Le Médecin : niveau 1 et améliorations
+
+| Point | Avis |
+| --- | --- |
+| Niveau 1 : lames et armes de poing, la réaction éviter, et Calmer en plein combat : une fois par tour, pour 3 d'endurance et sans jet, un allié qui l'entend regagne 1d6 de santé mentale. Quand il soigne quelqu'un, il efface aussi une de ses chutes à 0 PV. (Précisé : « sans jet » et « une fois par tour ».) | oui |
+| Niveau 5 : il peut soigner deux fois le même blessé dans une scène, et soigner lui coûte 2 d'endurance au lieu de 3. | oui |
+| Niveau 10 : calmer et soigner rendent un dé de plus (2d6 au lieu de 1d6). | oui |
+| Niveau 15 : une fois par mission, il ramène un allié mort depuis un tour au plus. L'allié revient à 0 PV, stable, et garde ses chutes. | oui |
+| Niveau 20 : ses soins rendent toujours le maximum des dés. | oui |
+
+### Le Médecin : ses huit techniques (il en choisit cinq)
+
+| Point | Avis |
+| --- | --- |
+| Triage : sans dépenser de geste, il sait combien de PV et quelles blessures ont tous ceux qu'il voit. | oui |
+| Adrénaline : une drogue de combat qu'il donne n'apporte pas de cran de fatigue ensuite. | oui |
+| Garrot express : arrêter un saignement, léger ou grave, lui coûte 1 d'endurance et ne demande pas de jet. | oui |
+| Sang-froid sous le feu : 1 dé d'avantage pour soigner ou stabiliser quand un ennemi peut le viser. | oui |
+| Thérapeute : entre deux missions, un allié dont il s'occupe regagne 1d6 de santé mentale de plus, en plus de sa propre activité. | oui |
+| Toxicologue : il reconnaît un poison ou une drogue sans jet, et un antidote qu'il donne arrête l'effet tout de suite. | oui |
+| Anatomie : avec une lame, viser une zone (bras, jambes, tête) lui coûte 1 dé de désavantage de moins. | oui |
+| Infirmier de campagne : un repos court qu'il surveille rend la moitié des PV au lieu d'un quart. | oui |
+
+## L'Infiltré, complet
+
+### L'Infiltré : niveau 1 et améliorations
+
+| Point | Avis |
+| --- | --- |
+| Niveau 1 : lames et armes de poing, la réaction éviter, et Invisible : tant qu'il n'est pas vu, son premier geste de chaque tour ne coûte pas d'endurance. | oui |
+| Niveau 5 : il peut se cacher en plein combat derrière une couverture lourde : 2 d'endurance et un jet de Discrétion contre la Perception passive des ennemis. | oui |
+| Niveau 10 : ses deux premiers gestes du tour sont gratuits tant qu'il n'est pas vu. | oui |
+| Niveau 15 : son élimination silencieuse marche aussi de face, sur une cible qui ne l'a pas encore vu. Contre une créature, elle donne un super critique au lieu d'un critique. | oui |
+| Niveau 20 : Fantôme. Une fois par mission, pendant 10 tours, personne ne peut le voir ni l'entendre tant qu'il ne frappe pas. | oui |
+
+### L'Infiltré : ses huit techniques (il en choisit cinq)
+
+| Point | Avis |
+| --- | --- |
+| Crocheteur : 1 dé d'avantage sur les serrures, et il crochète deux fois plus vite. | oui |
+| Déguisement : 1 dé d'avantage en Tromperie pour se faire passer pour quelqu'un, avec une tenue ou un badge. | oui |
+| Pas léger : courir ne fait pas de bruit, et il reste caché même en courant. | oui |
+| Lame dans le dos : contre une cible qui ne l'a pas vu, son arme lance un dé de plus. | oui |
+| Diversion (2 d'endurance) : un bruit ou un objet lancé attire un ennemi qui ne l'a pas vu vers un point à 7 cases au plus. | oui |
+| Sans traces : cacher un corps lui prend un tour au lieu d'une minute, et un corps qu'il a caché ne fait pas baisser la discrétion de la mission. | oui |
+| Esquive vive : éviter lui coûte 1 d'endurance au lieu de 2. | oui |
+| Repérage : en une minute dans un lieu, il repère les caméras, les alarmes et les rondes des gardes (Investigation avec 1 dé d'avantage). | oui |
+
+## Les missions
+
+### Comment marche la discrétion ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Une jauge de 10** (choisi) | La mission annonce son niveau : aucune (pas de jauge), faible (publique à 0), forte (publique à 5), absolue (publique au premier point perdu). Chaque scène où l'on entend une arme de bruit 4 ou 5 : −1. Un témoin qui s'enfuit : −2. Un corps trouvé : −3. Publique : la note de fin ne peut pas dépasser C, et l'entité est prévenue. *Mission absolue : un seul coup de revolver entendu, et c'est raté.* |  |
+| Quatre paliers que le MJ avance | Calme, rumeurs, enquête, public. Le MJ avance d'un palier à chaque gros bruit, témoin ou corps trouvé. *Moins de calcul, plus de liberté pour le MJ.* |  |
+| Seulement dans la note de fin | Pas de jauge pendant la mission : le bruit, les témoins et les corps baissent la note. *Le plus simple, mais rien ne presse pendant la mission.* |  |
+
+### Les règles réécrites
+
+| Point | Avis |
+| --- | --- |
+| Le MJ propose deux ou trois missions, le groupe en choisit une. Celles qu'on laisse peuvent empirer, ou être prises par une organisation rivale si le MJ en veut une. | oui |
+| Entre deux missions, chacun récupère ses PV et sa fatigue, et les chutes repartent à zéro. Puis une activité par agent : s'entraîner (un talent au choix fait le jet de progression, même sans être coché), soigner une blessure grave (fracture, prothèse), thérapie, chercher (une information sur la prochaine mission), fabriquer. | oui |
+| Thérapie, à la base : jet du thérapeute (1d100 + 60 contre 100 ; un agent peut le faire avec sa Persuasion). Réussi : 2d6 de santé mentale ; raté : 1d6. Bar ou chapelle : 1d6 sans jet, mais on commence la mission suivante avec 1 cran de fatigue. | oui |
+| Avant la mission, le groupe choisit un soutien. Pilote : une extraction rapide. Hacker : une fois, une porte, une caméra, ou un jet d'Informatique avec 2 dés d'avantage. Médecin : une fois, par radio, 1 dé d'avantage sur un jet de Biologie ou un conseil sur un poison ou une entité. | oui |
+| Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ. | oui |
+
+## Les monstres
+
+### Les monstres paient-ils en endurance ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Oui, comme les agents** (choisi) | Chaque monstre a une endurance et une récupération, et les mêmes coûts. Foundry fait les comptes. *Goule : endurance 10, +6 par tour : deux attaques normales (6) et un bond de 4 cases (2).* |  |
+| Non, des gestes par tour | Pas d'endurance : chaque monstre a un nombre de gestes par tour, de 1 à 4 selon sa catégorie, et une seule réaction. *Goule (II) : 2 gestes, attaquer deux fois ou attaquer et bondir. Plus simple à jouer pour le MJ.* |  |
+
+### Les règles réécrites
+
+| Point | Avis |
+| --- | --- |
+| Cinq catégories de danger. Valeurs de départ, que chaque fiche change : I : 15 PV, Esquive 80, attaque +40, d8. II : 35 PV, Esquive 90, +55, 2d6. III : 70 PV, Esquive 100, +70, 2d8. IV : 120 PV, Esquive 110, +85, 3d8. V : 200 PV, Esquive 120, +100, 4d8. Endurance (si on la garde) : 8, 10, 12, 14, 16. | oui |
+| Exemple, la goule (II) : 35 PV, Esquive 90, armure 1, griffes +55 (2d6 tranchant), Vitesse 40, endurance 10 (+6). Briques : régénération (2 PV par tour, sauf après du feu), repaire. Faiblesse : l'argent. Résiste au froid. La voir : 1d6 de santé mentale. | oui |
+| Ennemis humains (cultistes, mercenaires, agents rivaux) : la même fiche, sans briques, en général de catégorie I ou II. | oui |
+| Une fiche de monstre, c'est sa catégorie plus des briques à activer : aura de peur, nuée, phases, régénération, parties à détruire, repaire, déguisement humain, règle propre, résistance légendaire. | oui |
+| Résistance légendaire : 1 à 3 fois par combat, le monstre change un jet raté en réussite. Chaque coup sur sa faiblesse en fait sauter une. | oui |
+| Par type de dégâts ou par matière : résistance, la moitié ; immunité, rien ; faiblesse, le double. | oui |
+| Effets étranges durables, propres à chaque entité (une marque, une maladie, une voix dans la tête), écrits sur sa fiche. | oui |
+| Un boss n'a pas besoin de règle à part : une Vitesse plus haute lui donne plus de tours, et ses phases changent ses briques. | oui |

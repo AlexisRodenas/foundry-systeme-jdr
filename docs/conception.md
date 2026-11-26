@@ -43,21 +43,20 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 | Crise réussie | On récupère un quart de la santé mentale |
 | Types de dégâts | Perforant, tranchant, contondant, feu, froid, électrique, acide, toxique, radiation, sonique, nécrose, mental. Pour les résistances et faiblesses ; effets plus tard. |
 | Progression | Niveaux 1 à 20, par jalons : le MJ annonce le niveau à la fin des missions importantes, un niveau à la fois. La note de fin donne l'argent. PV : 12 + Constitution ÷ 5, puis 3 + Constitution ÷ 20 par niveau. |
-| Classes | Une classe légère. Au niveau 1 : deux familles d'armes, une réaction et une mécanique à elle. La mécanique s'améliore aux niveaux 5, 10, 15 et 20 ; une technique au choix parmi huit aux niveaux 3, 7, 11, 14 et 18. Le reste vient des dons. Cinq classes pour commencer : Assaut, Rempart (complet), Infiltré, Médecin, Traqueur ; les quatre autres attendent dans [plus-tard.md](plus-tard.md). |
+| Classes | Une classe légère. Au niveau 1 : deux familles d'armes, une réaction et une mécanique à elle. La mécanique s'améliore aux niveaux 5, 10, 15 et 20 ; une technique au choix parmi huit aux niveaux 3, 7, 11, 14 et 18. Le reste vient des dons. Cinq classes pour commencer : Rempart, Médecin et Infiltré (complets), Assaut et Traqueur (détail proposé) ; les quatre autres attendent dans [plus-tard.md](plus-tard.md). |
 | Inventaire | Des poches en cases, un sac en grille (objets de formes différentes) agrandi par le matériel, et un poids maximal. On combine, on empile, les accessoires agrandissent l'arme. |
 | Argent et équipement | Des prix chiffrés, unité au choix du MJ. Un budget d'armurerie par mission ; l'argent personnel vient de la note de fin. Demander plus que le budget : Persuasion. Accessoires d'arme, munitions spéciales, gadgets, objets anormaux, véhicules, fabrication entre les missions. |
 | Pouvoirs | Pour l'instant, ils viennent d'un objet, d'une malédiction ou d'un éveil pendant le jeu. Le contrecoup, s'il y en a un, est écrit sur le pouvoir. |
-| Monstres | Des fiches faites de briques à activer, selon le monstre |
+| Missions | Le MJ propose deux ou trois missions, le groupe en choisit une. Chaque mission annonce sa discrétion (aucune, faible, forte, absolue) : une jauge de 10 que le bruit, les témoins et les corps font baisser. Un soutien au choix : pilote, hacker ou médecin. Entre deux missions, une activité par agent ; la thérapie se fait à la base, le bar et la chapelle coûtent 1 cran de fatigue. |
+| Monstres | Cinq catégories de danger (I à V), avec des valeurs de départ que chaque fiche change. Une fiche, c'est sa catégorie plus des briques à activer. Résistance, immunité ou faiblesse par type de dégâts ; résistance légendaire. Ils paient en endurance comme les agents. Les ennemis humains utilisent la même fiche, sans briques. |
 | Magie par cercles | Pas au cœur du système. Ajout possible plus tard. |
 | Plateforme | Foundry VTT v14, dépôt public |
-| Méthode | On trie de petites idées venues d'autres jeux, on écrit un brouillon, on corrige, puis on code. Tant que la base n'est pas finie, on en fait le moins possible (une seule espèce pour l'instant). |
+| Méthode | On trie de petites idées venues d'autres jeux, on écrit un brouillon, on corrige, puis on code. Tant que la base n'est pas finie, on en fait le moins possible (une seule espèce, cinq classes) : ce qui attend va dans [plus-tard.md](plus-tard.md). La page de vote montre aussi le système en schémas, pour s'y retrouver. |
 
 ## À choisir
 
-1. Le Médecin et l'Infiltré complets ; ensuite l'Assaut et le Traqueur
-2. Les missions : discrétion, entre deux missions, thérapie, soutien
-3. Les monstres : catégories, fiche d'exemple, endurance
-4. Nom définitif et licence
+1. L'Assaut et le Traqueur complets
+2. Nom définitif et licence
 
 ## Écarté
 
@@ -70,6 +69,8 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 - Blessure du corps seulement sur un super critique ; compte à rebours ou PV négatifs à 0 PV ; chaînes de dons de deux maillons ou sans limite ; faveurs épiques qui demandent un don
 - XP chiffrée selon la note de mission ; classe qui s'améliore seulement aux niveaux 5, 10, 15 et 20, ou à chaque niveau ; réactions seulement par des dons
 - Rangs de prix au lieu de prix chiffrés
+- Discrétion en quatre paliers avancés par le MJ, ou comptée seulement dans la note de fin
+- Monstres sans endurance, avec un nombre de gestes par tour
 - Dés de dégâts qui explosent ; réussite critique à 10 d'écart ; un seul dé gardé parmi plusieurs
 - Une action, un mouvement et une réaction par tour
 - Médicaments qui soignent l'esprit tout de suite ; traits gagnés après les missions
