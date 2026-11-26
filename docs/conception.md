@@ -25,15 +25,17 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 | Extrêmes | 96 à 99 critique, 100 super critique ; 2 à 5 catastrophe, 1 super catastrophe, peu importe le score. En combat, un critique double les dés ; un super critique ignore aussi l'armure et blesse le membre. |
 | Jets opposés | Chacun lance, le plus haut gagne. À 60 points d'écart ou plus, le plus fort gagne sans jet. |
 | Caractéristiques | Sept : Force, Agilité, Constitution, Stamina, Intelligence, Esprit, Présence. 30 pour une personne normale, 70 pour la limite humaine. |
-| Talents | Dix : Athlétisme, Discrétion, Adresse, Investigation, Sciences, Perception, Instinct, Survie, Persuasion, Tromperie. Un bonus de 0 à 50 ajouté au jet, avec une caractéristique par défaut. Le combat n'est pas un talent. |
-| Progression des talents | Une réussite coche le talent. En fin de mission, 1d100 au-dessus du double du bonus : +1d6. Petit avantage à +15, +30 et +45. |
+| Talents | Onze : Athlétisme, Discrétion, Adresse, Acrobatie, Investigation, Sciences, Perception, Instinct, Survie, Persuasion, Tromperie. Un bonus de 0 à 50 ajouté au jet, avec une caractéristique par défaut ; sans talent, la caractéristique seule. Au départ : +15, +15, +10, +10, +5, +5. Sciences est une famille : chaque domaine (la Biologie, qui comprend la médecine ; l'Informatique ; …) a son propre bonus. Le combat n'est pas un talent. |
+| Progression des talents | Une réussite coche le talent. En fin de mission, 1d100 au-dessus du double du bonus : +1d6. |
 | Fatigue | De 0 à 5 : chaque cran retire 10 à tous les jets et 1 d'endurance par tour. À 5, on s'écroule. |
-| Espèces | Stats secondaires, caractéristiques, un pouvoir et une faiblesse. Elles remplacent les origines. |
-| Santé mentale | Une deuxième barre de vie : 5 + Esprit ÷ 2, +1 par niveau. Sous 75 %, phobies et manies ; sous 50 % et 25 %, 10 % puis 25 % de risque par tour de perdre le contrôle ; sous 25 %, 2 dés de désavantage partout ; une fêlure à chaque palier. |
+| Espèces | Un modèle fixe : une Vitesse, +10 et −10 en caractéristiques, un pouvoir, une faiblesse. Huit exemples : vampire, changelin, psychique, possédé, hybride des profondeurs, être artificiel, ruche, cobaye. L'humain a un don gratuit. Elles remplacent les origines. |
+| Santé mentale | Une deuxième barre de vie : 5 + Esprit ÷ 2, +1 par niveau. Sous 75 %, phobies et manies ; sous 50 % et 25 %, 10 % puis 25 % de risque par tour de perdre le contrôle ; sous 25 %, 2 dés de désavantage partout. Une fêlure à chaque palier, trois au plus ; sans contrôle, on fait ce que dit sa fêlure (dix fêlures d'exemple). |
 | Endurance | 6 + Stamina ÷ 10, et 4 + Stamina ÷ 20 reviennent à chaque tour. Chaque geste en coûte, déplacement et réactions compris. La Stamina donne aussi le poids porté. |
 | Vitesse | Stat secondaire donnée par l'espèce (humain : 30) et d'autres sources |
 | Tour de jeu | Une jauge remplace les rounds : elle se remplit de 50 + Vitesse, on joue à 100, puis elle repart. L'initiative donne le remplissage de départ. |
-| Défense | Une valeur fixe, l'Esquive : 50 + Agilité, plus ce qui reste à choisir. Elle marche comme l'AC de D&D et n'est pas un talent. Éviter, parer et encaisser sont des capacités de certains personnages, payées en endurance. |
+| Attaque | 1d100 + Force ou Agilité + maîtrise (+10, +15 au niveau 10, +20 au niveau 20) contre l'Esquive. Les dégâts montent avec le matériel, pas avec le niveau. |
+| Dons | Proches des dons de D&D 5.5, sans lien avec les talents. Le détail est à choisir. |
+| Défense | Une valeur fixe, l'Esquive : 50 + Agilité + équipement (bouclier +10, protections souples +5, armure lourde −10). Elle marche comme l'AC de D&D et n'est pas un talent. Éviter, parer et encaisser sont des capacités de certains personnages, payées en endurance. |
 | À 0 PV | Des jets de survie |
 | Forcer un jet raté | D'abord de l'endurance et du temps, puis de la santé mentale, de plus en plus |
 | Crise réussie | On récupère un quart de la santé mentale |
@@ -48,12 +50,12 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 ## À choisir
 
-1. Ce qui s'ajoute à l'attaque, à l'Esquive et aux dégâts
-2. Les talents de départ, et où vont les actions des talents enlevés
-3. La façon de fabriquer une espèce, et la liste
-4. Les fêlures et la perte de contrôle
-5. Les petits avantages de talent
-6. La suite des règles, à partir de R50, presque pas relue
+1. Les dons : quand on les gagne, comment montent les caractéristiques, la liste
+2. Les familles d'armes et la montée du matériel
+3. Les domaines de Sciences et ce que couvre Acrobatie
+4. Le corps des espèces
+5. Deux détails des fêlures
+6. Les règles pas encore relues (44, surtout blessures, progression, classes, équipement, missions, monstres)
 7. Les classes et leur mécanique
 8. Nom définitif et licence
 
@@ -63,6 +65,8 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 - Six caractéristiques façon D&D ; Sensibilité, Savoir, Corpulence, Combat et Souffle en caractéristiques
 - Talents Mêlée, Lutte, Tir, Esquive, Conduite, Résistance, Effort, Médecine, Informatique, Technique, Occultisme, Intimidation et Commandement (médecine et informatique passent dans Sciences)
 - Paliers de 20 et 40 points dans les jets opposés ; hallucinations qui blessent, maximum de santé mentale qui baisse, désavantage sous 50 % et 75 %
+- Petits avantages de talent à +15, +30 et +45 ; Sciences en un seul bonus ; dégâts qui montent avec le niveau
+- Espèces loup-garou, revenant, goule et demi-démon (comme exemples)
 - Dés de dégâts qui explosent ; réussite critique à 10 d'écart ; un seul dé gardé parmi plusieurs
 - Une action, un mouvement et une réaction par tour
 - Médicaments qui soignent l'esprit tout de suite ; traits gagnés après les missions

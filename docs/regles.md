@@ -1,6 +1,6 @@
-# Règles, version 3
+# Règles, version 4
 
-> **Brouillon.** Rien n'est codé. 47 règles fixées, 4 qui attendent les [points à voir](points-a-voir.md). À partir de R50, presque aucune n'a encore été relue : elles parlent encore de d20 et de d6.
+> **Brouillon.** Rien n'est codé. 72 règles fixées, 3 qui attendent les [points à voir](points-a-voir.md), 44 pas encore relues : celles-là parlent encore de d20 et de d6.
 
 ## Les jets
 
@@ -22,114 +22,143 @@
 
 ## Les talents
 
-- **R13.** Dix talents : Athlétisme (Force) ; Discrétion, Adresse (Agilité) ; Investigation, Sciences (Intelligence) ; Perception, Instinct, Survie (Esprit) ; Persuasion, Tromperie (Présence). C'est la caractéristique par défaut : le MJ peut en autoriser une autre.
-- **R14.** Un talent donne un bonus de 0 à 50, ajouté au jet, et un petit avantage à +15, +30 et +45. Bonus de départ : à choisir. **(à voir)**
-- **R15.** Un talent réussi pendant la mission est coché, une fois au maximum. En fin de mission, on lance 1d100 par talent coché : au-dessus du double du bonus, il gagne 1d6.
-- **R16.** L'ancien métier donne +5 à trois talents liés.
-- **R17.** Perception passive, sans jet : 50 + Esprit + talent Perception.
+- **R13.** Onze talents : Athlétisme (Force) ; Discrétion, Adresse, Acrobatie (Agilité) ; Investigation, Sciences (Intelligence) ; Perception, Instinct, Survie (Esprit) ; Persuasion, Tromperie (Présence). C'est la caractéristique par défaut : le MJ peut en autoriser une autre.
+- **R14.** Sciences est une famille : chaque domaine a son propre bonus, et c'est lui qu'on lance. La médecine est dans la Biologie, l'Informatique est un domaine. Liste des domaines : à choisir. **(à voir)**
+- **R15.** Un talent donne un bonus de 0 à 50, ajouté au jet. Au départ : +15, +15, +10, +10, +5 et +5 sur six talents, 0 sur les autres.
+- **R16.** Quand aucun talent ne colle : 1d100 + caractéristique seule.
+- **R17.** Conduire : Agilité seule, plus le bonus du véhicule. Réparer, bricoler : Sciences. Poser ou désamorcer un piège, une bombe : Adresse. Reconnaître une entité, un rituel, un symbole : Investigation. Menacer, interroger : Persuasion, avec Présence ou Force. Donner des ordres, encourager : Persuasion. Poison, maladie, alcool : Constitution seule. Courir longtemps, porter un blessé, retenir son souffle : Stamina seule.
+- **R18.** Un talent réussi pendant la mission est coché, une fois au maximum. En fin de mission, on lance 1d100 par talent coché : au-dessus du double du bonus, il gagne 1d6.
+- **R19.** L'ancien métier donne +5 à trois talents liés.
+- **R20.** Perception passive, sans jet : 50 + Esprit + talent Perception.
 
 ## Les barres
 
-- **R18.** PV : 12 + Constitution ÷ 5, puis 3 + Constitution ÷ 20 par niveau.
-- **R19.** Santé mentale : 5 + Esprit ÷ 2, puis 1 par niveau.
-- **R20.** Endurance : 6 + Stamina ÷ 10. Au début de chaque tour, 4 + Stamina ÷ 20 reviennent ; hors combat, elle remonte toute seule.
-- **R21.** Fatigue, de 0 à 5. Chaque cran : −10 à tous les jets et −1 d'endurance par tour. À 5, on s'écroule.
-- **R22.** Sauter un repas, de l'eau ou une nuit de sommeil : 1 cran de fatigue. *(option à activer)*
-- **R23.** Douze types de dégâts : perforant, tranchant, contondant, feu, froid, électrique, acide, toxique, radiation, sonique, nécrose, mental. Pour l'instant, ils servent aux résistances et aux faiblesses.
-- **R24.** L'armure retire un montant fixe à chaque coup, et perd 1 quand un coup la traverse.
-- **R25.** La défense mentale retire un montant fixe aux dégâts mentaux.
+- **R21.** PV : 12 + Constitution ÷ 5, puis 3 + Constitution ÷ 20 par niveau.
+- **R22.** Santé mentale : 5 + Esprit ÷ 2, puis 1 par niveau.
+- **R23.** Endurance : 6 + Stamina ÷ 10. Au début de chaque tour, 4 + Stamina ÷ 20 reviennent ; hors combat, elle remonte toute seule.
+- **R24.** Fatigue, de 0 à 5. Chaque cran : −10 à tous les jets et −1 d'endurance par tour. À 5, on s'écroule.
+- **R25.** Sauter un repas, de l'eau ou une nuit de sommeil : 1 cran de fatigue. *(option à activer)*
+- **R26.** Douze types de dégâts : perforant, tranchant, contondant, feu, froid, électrique, acide, toxique, radiation, sonique, nécrose, mental. Pour l'instant, ils servent aux résistances et aux faiblesses.
+- **R27.** L'armure retire un montant fixe à chaque coup, et perd 1 quand un coup la traverse.
+- **R28.** La défense mentale retire un montant fixe aux dégâts mentaux.
 
 ## Le combat
 
-- **R26.** Coûts en endurance : attaque légère 2, normale 3, lourde 5 ; recharger 2 ; sortir un objet à portée 1 ; fouiller le sac 4 ; soigner ou calmer 3 ; se déplacer 1 pour 3 m.
-- **R27.** Déplacement : 1 case (1,5 m) par 5 de Vitesse et par tour, 1 d'endurance pour 2 cases.
-- **R28.** Attaque : 1d100 + Force (mêlée) ou Agilité (tir), contre l'Esquive de la cible, 50 + Agilité ; le défenseur ne lance rien. Ce qui s'ajoute des deux côtés est à choisir. Frapper quelqu'un qui s'éloigne coûte 2 d'endurance. Éviter (bonus d'Esquive), parer (contre-jet) et encaisser (bonus d'armure) sont des capacités de certains personnages, payées en endurance. **(à voir)**
-- **R29.** Couverture partielle : 1 dé de désavantage pour le tireur. Lourde : 2 dés. Totale : on ne peut pas être visé.
-- **R30.** Viser les jambes (1 dé de désavantage) : la cible paie double pour bouger. Les bras (1 dé) : elle lâche ce qu'elle tient. La tête (2 dés) : +1d6 de dégâts et l'armure du torse ne compte pas.
-- **R31.** Chaque arme a son dé : couteau d6, pistolet d8, fusil d10, fusil de précision 2d8. Au corps à corps, on ajoute Force ÷ 10. Ce qui les fait monter avec le niveau est à choisir. **(à voir)**
-- **R32.** Un critique double les dés de dégâts ; un super critique ignore aussi l'armure et blesse le membre touché. Dépasser largement l'Esquive n'augmente les dégâts qu'avec certains dons.
-- **R33.** Rafale : 3 balles, +1d6 de dégâts.
-- **R34.** Catastrophe en combat : l'arme s'enraye (3 d'endurance pour la débloquer), on tombe ou on fait du bruit. Super catastrophe : l'arme casse ou un allié est touché.
-- **R35.** Chargeurs et munitions comptés ; Foundry les décompterait tout seul.
-- **R36.** Chaque arme a un bruit de 0 à 5, qui attire et fait baisser la discrétion.
-- **R37.** Élimination silencieuse par-derrière : un humain ordinaire est neutralisé d'un coup, une créature prend un critique.
-- **R38.** Attaque combinée : deux alliés paient chacun leur attaque, frappent ensemble avec 1 dé d'avantage, et l'armure ne compte qu'une fois.
-- **R39.** Saisir, plaquer, étrangler : jets opposés. Une cible saisie paie 2 d'endurance de plus pour chaque geste.
-- **R40.** Le décor sert d'arme : feu, eau, électricité, chute.
+- **R29.** Coûts en endurance : attaque légère 2, normale 3, lourde 5 ; recharger 2 ; sortir un objet à portée 1 ; fouiller le sac 4 ; soigner ou calmer 3 ; se déplacer 1 pour 3 m.
+- **R30.** Déplacement : 1 case (1,5 m) par 5 de Vitesse et par tour, 1 d'endurance pour 2 cases.
+- **R31.** Attaque : 1d100 + Force (mêlée) ou Agilité (tir) + maîtrise, contre l'Esquive de la cible ; le défenseur ne lance rien. Maîtrise : +10 avec les armes qu'on maîtrise, +15 au niveau 10, +20 au niveau 20 ; rien avec les autres. La classe ou un don donne la maîtrise. Frapper quelqu'un qui s'éloigne coûte 2 d'endurance.
+- **R32.** Esquive : 50 + Agilité + équipement. Bouclier +10, protections souples +5, armure lourde −10 (elle encaisse plus). Elle marche comme l'AC de D&D et n'est pas un talent. Éviter (bonus d'Esquive), parer (contre-jet) et encaisser (bonus d'armure) sont des capacités de certains personnages, payées en endurance.
+- **R33.** Couverture partielle : 1 dé de désavantage pour le tireur. Lourde : 2 dés. Totale : on ne peut pas être visé.
+- **R34.** Viser les jambes (1 dé de désavantage) : la cible paie double pour bouger. Les bras (1 dé) : elle lâche ce qu'elle tient. La tête (2 dés) : +1d6 de dégâts et l'armure du torse ne compte pas.
+- **R35.** Chaque arme a son dé : couteau d6, pistolet d8, fusil d10, fusil de précision 2d8. Au corps à corps, on ajoute Force ÷ 10. Les dégâts ne montent pas avec le niveau, seulement avec le matériel : une meilleure arme ou de meilleures munitions ajoutent des dés (pistolet d8, puis 2d8, puis 3d8). Familles d'armes et paliers de matériel : à choisir. **(à voir)**
+- **R36.** Un critique double les dés de dégâts ; un super critique ignore aussi l'armure et blesse le membre touché. Dépasser largement l'Esquive n'augmente les dégâts qu'avec certains dons.
+- **R37.** Rafale : 3 balles, +1d6 de dégâts.
+- **R38.** Catastrophe en combat : l'arme s'enraye (3 d'endurance pour la débloquer), on tombe ou on fait du bruit. Super catastrophe : l'arme casse ou un allié est touché.
+- **R39.** Chargeurs et munitions comptés ; Foundry les décompterait tout seul.
+- **R40.** Chaque arme a un bruit de 0 à 5, qui attire et fait baisser la discrétion.
+- **R41.** Élimination silencieuse par-derrière : un humain ordinaire est neutralisé d'un coup, une créature prend un critique.
+- **R42.** Attaque combinée : deux alliés paient chacun leur attaque, frappent ensemble avec 1 dé d'avantage, et l'armure ne compte qu'une fois.
+- **R43.** Saisir, plaquer, étrangler : jet opposé d'Athlétisme. Se libérer : Athlétisme ou Acrobatie. Une cible saisie paie 2 d'endurance de plus pour chaque geste.
+- **R44.** Le décor sert d'arme : feu, eau, électricité, chute.
 
 ## La santé mentale
 
-- **R41.** Sous 75 % : phobies et manies se déclenchent. Sous 50 % : à chaque tour, 10 % de risque de perdre le contrôle. Sous 25 % : 25 %, et 2 dés de désavantage partout. Chaque palier franchi : une fêlure tirée au hasard, soignée à la base.
-- **R42.** Quand une entité apparaît, on lance Esprit. Raté : on perd la santé mentale écrite sur sa fiche (par exemple 2d6). Réussi : la moitié.
-- **R43.** Chaque rencontre avec le même type d'entité retire un dé à cette perte.
-- **R44.** Voir un allié tomber : 1d6 de perte. Le voir mourir : 2d6.
-- **R45.** Perdre un tiers de son maximum d'un seul coup : crise immédiate.
-- **R46.** Crise (à 0, ou par choc) : jet d'Esprit dur (120). Réussi : on se révèle et on récupère un quart. Raté : on craque (fuir, se figer ou frapper n'importe qui).
-- **R47.** Après avoir craqué, une suite tirée au hasard : phobie, manie, ou maximum réduit.
-- **R48.** Calmer un allié : jet normal d'Instinct ou de Persuasion, il récupère 1d6. Une fois par scène.
-- **R49.** La santé mentale se soigne à la base : thérapie avec un jet d'efficacité. Le bar ou la chapelle marchent aussi, avec un malus à inventer.
+- **R45.** Sous 75 % : phobies et manies se déclenchent. Sous 50 % : à chaque tour, 10 % de risque de perdre le contrôle. Sous 25 % : 25 %, et 2 dés de désavantage partout. Chaque palier franchi : une fêlure tirée au hasard, soignée à la base. On en garde jusqu'à trois, une par palier.
+- **R46.** Perdre le contrôle : on fait ce que dit sa fêlure. Avec plusieurs fêlures, un dé choisit laquelle.
+- **R47.** Quand une entité apparaît, on lance Esprit. Raté : on perd la santé mentale écrite sur sa fiche (par exemple 2d6). Réussi : la moitié.
+- **R48.** Chaque rencontre avec le même type d'entité retire un dé à cette perte.
+- **R49.** Voir un allié tomber : 1d6 de perte. Le voir mourir : 2d6.
+- **R50.** Perdre un tiers de son maximum d'un seul coup : crise immédiate.
+- **R51.** Crise (à 0, ou par choc) : jet d'Esprit dur (120). Réussi : on se révèle et on récupère un quart. Raté : on craque, comme le dit une de ses fêlures.
+- **R52.** Après avoir craqué, une suite tirée au hasard : une phobie ou une manie.
+- **R53.** Calmer un allié : jet normal d'Instinct ou de Persuasion, il récupère 1d6. Une fois par scène.
+- **R54.** La santé mentale se soigne à la base : thérapie avec un jet d'efficacité. Le bar ou la chapelle marchent aussi, avec un malus à inventer.
+
+## Les fêlures
+
+- **R55.** Paranoïaque : refuse les soins et l'aide. Sans contrôle : attaque l'allié le plus proche.
+- **R56.** Égoïste : ne prête et ne donne rien. Sans contrôle : se met à l'abri et passe son tour.
+- **R57.** Défaitiste : ne peut plus forcer un jet. Sans contrôle : lâche ce qu'il tient.
+- **R58.** Peureux : 1 dé de désavantage contre l'entité. Sans contrôle : fuit aussi loin que possible.
+- **R59.** Cruel : au début de chaque combat, ses alliés proches perdent 1 de santé mentale. Sans contrôle : il les insulte, 1d4 de perte chacun.
+- **R60.** Violent : ne peut ni capturer ni épargner. Sans contrôle : frappe la cible la plus proche, alliée ou non.
+- **R61.** Téméraire : refuse de se mettre à couvert. Sans contrôle : fonce sur l'ennemi le plus dangereux.
+- **R62.** Muet : ne parle plus, donc ni Persuasion ni aide à voix haute. Sans contrôle : se fige.
+- **R63.** Obsédé : doit toucher chaque objet anormal. Sans contrôle : marche vers l'entité.
+- **R64.** Halluciné : voit un ennemi de trop. Sans contrôle : attaque le vide et dépense ses balles.
 
 ## Blessures et soins
 
-- **R50.** À 0 PV, à chaque tour : 1d20 + Constitution contre 10. Sans aide, avec 4 en Constitution : 20 % de risque de mourir la première fois. *(pas encore relue)*
-- **R51.** +3 de difficulté par chute déjà subie : le risque passe à 37 %, puis 56 %. Une opération ou un repos long à la base remet à zéro. *(pas encore relue)*
-- **R52.** Un critique, ou perdre un tiers des PV d'un coup : tirage sur une table de blessures, selon le membre touché. *(pas encore relue)*
-- **R53.** Jambe cassée : bouger coûte double. Bras cassé : 1d6 de désavantage avec ce bras. *(pas encore relue)*
-- **R54.** Saignement léger : 1 PV par round. Grave : 1d6. Un garrot ou un bandage l'arrête. *(pas encore relue)*
-- **R55.** On peut perdre un membre pour de bon ; il existe des prothèses technologiques ou surnaturelles. *(pas encore relue)*
-- **R56.** Soigner demande du matériel : bandage, garrot, trousse. *(pas encore relue)*
-- **R57.** Repos court : un quart des PV et 1 cran de fatigue. Repos long : la moitié des PV et toute la fatigue. La santé mentale ne revient pas en dormant. *(pas encore relue)*
-- **R58.** Infection ou transformation : un compteur d'heures ou de jours, propre à chaque entité. *(pas encore relue)*
-- **R59.** Drogues de combat : endurance ou d6 tout de suite, crans de fatigue après. *(pas encore relue)*
+- **R65.** À 0 PV, à chaque tour : 1d20 + Constitution contre 10. Sans aide, avec 4 en Constitution : 20 % de risque de mourir la première fois. *(pas encore relue)*
+- **R66.** +3 de difficulté par chute déjà subie : le risque passe à 37 %, puis 56 %. Une opération ou un repos long à la base remet à zéro. *(pas encore relue)*
+- **R67.** Un critique, ou perdre un tiers des PV d'un coup : tirage sur une table de blessures, selon le membre touché. *(pas encore relue)*
+- **R68.** Jambe cassée : bouger coûte double. Bras cassé : 1d6 de désavantage avec ce bras. *(pas encore relue)*
+- **R69.** Saignement léger : 1 PV par round. Grave : 1d6. Un garrot ou un bandage l'arrête. *(pas encore relue)*
+- **R70.** On peut perdre un membre pour de bon ; il existe des prothèses technologiques ou surnaturelles. *(pas encore relue)*
+- **R71.** Soigner demande du matériel : bandage, garrot, trousse. *(pas encore relue)*
+- **R72.** Repos court : un quart des PV et 1 cran de fatigue. Repos long : la moitié des PV et toute la fatigue. La santé mentale ne revient pas en dormant. *(pas encore relue)*
+- **R73.** Infection ou transformation : un compteur d'heures ou de jours, propre à chaque entité. *(pas encore relue)*
+- **R74.** Drogues de combat : endurance ou d6 tout de suite, crans de fatigue après. *(pas encore relue)*
 
 ## Progression
 
-- **R60.** Niveaux 1 à 20. L'XP vient des missions. *(pas encore relue)*
-- **R61.** À chaque niveau : des PV et 2 points libres. Un don coûte 2 points, +1 à une caractéristique 3, un pouvoir 2 à 4. *(pas encore relue)*
-- **R62.** Espèce : donne la Vitesse et d'autres stats secondaires, des caractéristiques, un pouvoir et une faiblesse. Liste à choisir. **(à voir)**
-- **R63.** Les pouvoirs viennent de l'espèce, mais aussi d'un objet, d'une malédiction ou d'un éveil pendant le jeu. *(pas encore relue)*
-- **R64.** Le contrecoup n'est pas obligatoire : il est écrit sur le pouvoir. *(pas encore relue)*
-- **R65.** Une classe légère donne une seule mécanique, qui s'améliore aux niveaux 5, 10, 15 et 20. *(pas encore relue)*
+- **R75.** Niveaux 1 à 20. L'XP vient des missions. *(pas encore relue)*
+- **R76.** À chaque niveau : des PV. Quand on gagne un don, et comment montent les caractéristiques : à choisir. **(à voir)**
+- **R77.** Espèce : un modèle fixe. Une Vitesse, +10 à une caractéristique et −10 à une autre, un pouvoir et une faiblesse. L'humain a une Vitesse de 30, rien en plus ni en moins, et un don gratuit au niveau 1.
+- **R78.** Les pouvoirs viennent de l'espèce, mais aussi d'un objet, d'une malédiction ou d'un éveil pendant le jeu. *(pas encore relue)*
+- **R79.** Le contrecoup n'est pas obligatoire : il est écrit sur le pouvoir. *(pas encore relue)*
+- **R80.** Une classe légère donne une seule mécanique, qui s'améliore aux niveaux 5, 10, 15 et 20. *(pas encore relue)*
+
+## Espèces d'exemple
+
+- **R81.** Vampire : Vitesse 40, Agilité +10, Constitution −10. Pouvoir : morsure d6, il récupère ce qu'il vole. Faiblesse : 1d6 de feu par tour en plein soleil.
+- **R82.** Changelin : Vitesse 35, Présence +10, Force −10. Pouvoir : prend l'apparence de quelqu'un qu'il a touché. Faiblesse : le fer le brûle et montre son vrai visage.
+- **R83.** Psychique : Vitesse 30, Esprit +10, Constitution −10. Pouvoir : entend les pensées de surface, bouge un objet à distance (2 de santé mentale). Faiblesse : perd 1 de plus à chaque perte de santé mentale.
+- **R84.** Possédé : Vitesse 30, Force +10, Esprit −10. Pouvoir : laisse l'entité agir, 2 dés d'avantage pendant 3 tours. Faiblesse : ensuite, jet d'Esprit, sinon le MJ joue son prochain tour.
+- **R85.** Hybride des profondeurs : Vitesse 25 (50 dans l'eau), Stamina +10, Présence −10. Pouvoir : respire sous l'eau, repère les sons dans le noir. Faiblesse : l'électricité double les dégâts.
+- **R86.** Être artificiel : Vitesse 25, Force +10, Agilité −10. Pouvoir : ni poison, ni maladie, ni faim. Faiblesse : ne guérit pas seul, il faut le réparer (Sciences).
+- **R87.** Ruche : Vitesse 30, Constitution +10, Présence −10. Pouvoir : détache un essaim qui voit et entend pour elle. Faiblesse : le feu et le froid doublent les dégâts.
+- **R88.** Cobaye : Vitesse 35, +10 et −10 au choix. Pouvoir : une mutation (griffes, peau dure, vision de nuit, venin). Faiblesse : sans son sérum, 1 cran de fatigue par jour.
 
 ## Idées de classes
 
-- **R66.** Assaut : garde son endurance non dépensée, jusqu'à 4 points au-dessus du maximum. *(pas encore relue)*
-- **R67.** Traqueur : marque une entité, gagne 1d6 contre elle et découvre ses résistances. *(pas encore relue)*
-- **R68.** Infiltré : tant qu'il n'est pas vu, son premier geste de chaque tour est gratuit. *(pas encore relue)*
-- **R69.** Rempart : prend un coup à la place d'un allié pour 1 d'endurance. *(pas encore relue)*
-- **R70.** Médecin : soigne aussi la santé mentale en plein combat et efface les chutes. *(pas encore relue)*
-- **R71.** Technicien : pilote un drone ou des pièges avec leur propre endurance. *(pas encore relue)*
-- **R72.** Chercheur : chaque information trouvée sur l'entité devient un bonus pour le groupe. *(pas encore relue)*
-- **R73.** Médium : paie ses pouvoirs en santé mentale. *(pas encore relue)*
-- **R74.** Maudit : ses pouvoirs ne coûtent rien, mais chacun a un contrecoup. *(pas encore relue)*
+- **R89.** Assaut : garde son endurance non dépensée, jusqu'à 4 points au-dessus du maximum. *(pas encore relue)*
+- **R90.** Traqueur : marque une entité, gagne 1d6 contre elle et découvre ses résistances. *(pas encore relue)*
+- **R91.** Infiltré : tant qu'il n'est pas vu, son premier geste de chaque tour est gratuit. *(pas encore relue)*
+- **R92.** Rempart : prend un coup à la place d'un allié pour 1 d'endurance. *(pas encore relue)*
+- **R93.** Médecin : soigne aussi la santé mentale en plein combat et efface les chutes. *(pas encore relue)*
+- **R94.** Technicien : pilote un drone ou des pièges avec leur propre endurance. *(pas encore relue)*
+- **R95.** Chercheur : chaque information trouvée sur l'entité devient un bonus pour le groupe. *(pas encore relue)*
+- **R96.** Médium : paie ses pouvoirs en santé mentale. *(pas encore relue)*
+- **R97.** Maudit : ses pouvoirs ne coûtent rien, mais chacun a un contrecoup. *(pas encore relue)*
 
 ## Équipement
 
-- **R75.** Chaque mission a un budget d'armurerie, plus l'argent personnel de chacun. *(pas encore relue)*
-- **R76.** Demander plus cher : un jet, plus dur selon le prix. *(pas encore relue)*
-- **R77.** Des poches en cases, un sac en grille acheté à l'armurerie, et un poids maximal de 10 + Stamina ÷ 2 kg. Chaque tranche de 5 kg en trop : la jauge de tour se remplit de 10 de moins. On combine, on empile, un accessoire agrandit l'arme, les objets de mission prennent de la place.
-- **R78.** Armes modifiables (silencieux, lunette, lampe) et munitions spéciales (argent, sel, fer, bénites). *(pas encore relue)*
-- **R79.** Détecteurs, drones, grenades, pièges, mines, effaceur de mémoire. *(pas encore relue)*
-- **R80.** Objets anormaux : puissants, avec un effet secondaire. *(pas encore relue)*
-- **R81.** Véhicules avec PV, armure, vitesse et places. *(pas encore relue)*
-- **R82.** Fabriquer ou améliorer ses objets entre les missions. *(pas encore relue)*
+- **R98.** Chaque mission a un budget d'armurerie, plus l'argent personnel de chacun. *(pas encore relue)*
+- **R99.** Demander plus cher : un jet, plus dur selon le prix. *(pas encore relue)*
+- **R100.** Des poches en cases, un sac en grille acheté à l'armurerie, et un poids maximal de 10 + Stamina ÷ 2 kg. Chaque tranche de 5 kg en trop : la jauge de tour se remplit de 10 de moins. On combine, on empile, un accessoire agrandit l'arme, les objets de mission prennent de la place.
+- **R101.** Armes modifiables (silencieux, lunette, lampe) et munitions spéciales (argent, sel, fer, bénites). *(pas encore relue)*
+- **R102.** Détecteurs, drones, grenades, pièges, mines, effaceur de mémoire. *(pas encore relue)*
+- **R103.** Objets anormaux : puissants, avec un effet secondaire. *(pas encore relue)*
+- **R104.** Véhicules avec PV, armure, vitesse et places. *(pas encore relue)*
+- **R105.** Fabriquer ou améliorer ses objets entre les missions. *(pas encore relue)*
 
 ## Les missions
 
-- **R83.** Discrétion réglée mission par mission : aucune, faible, forte, absolue. Bruit, témoins et cadavres la font baisser ; à zéro, l'affaire est publique. *(pas encore relue)*
-- **R84.** Note de fin (S, A, B, C) : elle fixe l'XP et l'argent. Capturer rapporte plus que tuer. *(pas encore relue)*
-- **R85.** Plusieurs missions proposées, le groupe choisit. Des organisations rivales peuvent s'en mêler. *(pas encore relue)*
-- **R86.** Entre deux missions, une activité par personnage : s'entraîner, se soigner, chercher, fabriquer. *(pas encore relue)*
-- **R87.** Une équipe de soutien (pilote, hacker, médecin) donne des bonus. *(pas encore relue)*
-- **R88.** Un mort est remplacé par un nouvel agent, au niveau le plus bas du groupe. *(pas encore relue)*
-- **R89.** Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ. *(pas encore relue)*
+- **R106.** Discrétion réglée mission par mission : aucune, faible, forte, absolue. Bruit, témoins et cadavres la font baisser ; à zéro, l'affaire est publique. *(pas encore relue)*
+- **R107.** Note de fin (S, A, B, C) : elle fixe l'XP et l'argent. Capturer rapporte plus que tuer. *(pas encore relue)*
+- **R108.** Plusieurs missions proposées, le groupe choisit. Des organisations rivales peuvent s'en mêler. *(pas encore relue)*
+- **R109.** Entre deux missions, une activité par personnage : s'entraîner, se soigner, chercher, fabriquer. *(pas encore relue)*
+- **R110.** Une équipe de soutien (pilote, hacker, médecin) donne des bonus. *(pas encore relue)*
+- **R111.** Un mort est remplacé par un nouvel agent, au niveau le plus bas du groupe. *(pas encore relue)*
+- **R112.** Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ. *(pas encore relue)*
 
 ## Monstres et entités
 
-- **R90.** Cinq catégories de danger, de I à V. *(pas encore relue)*
-- **R91.** Une fiche de monstre est faite de briques à activer : aura de peur, nuée, phases, régénération, parties à détruire, repaire, déguisement humain, règle propre, résistance légendaire. *(pas encore relue)*
-- **R92.** Utiliser sa faiblesse fait sauter un effet légendaire. *(pas encore relue)*
-- **R93.** Résistances et immunités par type de dégâts. *(pas encore relue)*
-- **R94.** Des effets étranges durables, propres à chaque entité. *(pas encore relue)*
-- **R95.** Ennemis humains (cultistes, mercenaires, agents rivaux) sur la même fiche, sans briques. *(pas encore relue)*
-- **R96.** Un boss n'a pas besoin de règle à part : sa Vitesse lui donne ses tours en plus. *(pas encore relue)*
+- **R113.** Cinq catégories de danger, de I à V. *(pas encore relue)*
+- **R114.** Une fiche de monstre est faite de briques à activer : aura de peur, nuée, phases, régénération, parties à détruire, repaire, déguisement humain, règle propre, résistance légendaire. *(pas encore relue)*
+- **R115.** Utiliser sa faiblesse fait sauter un effet légendaire. *(pas encore relue)*
+- **R116.** Résistances et immunités par type de dégâts. *(pas encore relue)*
+- **R117.** Des effets étranges durables, propres à chaque entité. *(pas encore relue)*
+- **R118.** Ennemis humains (cultistes, mercenaires, agents rivaux) sur la même fiche, sans briques. *(pas encore relue)*
+- **R119.** Un boss n'a pas besoin de règle à part : sa Vitesse lui donne ses tours en plus. *(pas encore relue)*

@@ -269,7 +269,7 @@
 
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
-| 50 + talent Esquive (conseillé) | L'Esquive progresse comme les autres talents. *65 % au niveau 1, 70 % au niveau 10, 70 % au niveau 20.* |  |
+| 50 + talent Esquive | L'Esquive progresse comme les autres talents. *65 % au niveau 1, 70 % au niveau 10, 70 % au niveau 20.* |  |
 | 60 | Toujours le même. *65 %, puis 85 %, puis 95 % : à haut niveau, on touche presque toujours.* |  |
 | 70 | Toujours le même, combats plus longs au début. *55 %, puis 75 %, puis 90 %.* |  |
 
@@ -340,3 +340,179 @@ Repris autrement : la base reste 50 + Agilité, mais l'Esquive n'est pas un tale
 | Jets opposés : 20 points d'écart, 1 dé d'avantage pour le plus fort (il gagne 72 fois sur 100). 40 : 2 dés (88). 60 : il gagne sans jet. | changé |
 | Douze types de dégâts : perforant, tranchant, contondant, feu, froid, électrique, acide, toxique, radiation, sonique, nécrose, mental. Pour l'instant, ils servent aux résistances et aux faiblesses ; les barres spéciales viendront plus tard. | oui |
 | Inventaire : des poches en cases, un sac en grille acheté à l'armurerie, et le poids en plus. On combine, on empile, un accessoire agrandit l'arme, les objets de mission prennent de la place. Pas de coffre commun. | oui |
+
+## Toucher et esquiver
+
+### Pour attaquer : 1d100 + Force (mêlée) ou Agilité (tir) + quoi ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Une maîtrise des armes** (choisi) | +10 avec les armes que tu maîtrises, +15 au niveau 10, +20 au niveau 20. Rien avec les autres. *Agilité 50, pistolet maîtrisé : 1d100 + 60. La classe ou un don donne la maîtrise.* | D&D 5 |
+| L'arme elle-même | Chaque arme a un bonus selon la distance, et les accessoires l'augmentent. *Fusil de précision : +20 de loin, −20 de près.* | [Cyberpunk RED, adapté](https://crph.pages.dev/Player-Handbook/Combat/Ranged-Combat) |
+| Rien | La caractéristique suffit. *Le plus simple, mais un danseur à 50 en Agilité tire aussi bien qu'un soldat.* |  |
+
+### Esquive = 50 + Agilité + quoi ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **L'équipement** (choisi) | Bouclier +10, protections souples +5. Une armure lourde fait −10, mais elle encaisse plus. *Un voyou reste dangereux, même pour un agent de haut niveau.* | D&D 5 |
+| L'équipement et la maîtrise | En plus, le même bonus de niveau que pour attaquer. *Au niveau 20, un voyou te touche 10 fois sur 100.* | [d20 Modern, adapté](https://www.enworld.org/threads/armor-and-a-defense-bonus-together.143155) |
+| Rien | Les couvertures et les capacités (éviter, parer) font le reste. *À haut niveau, on se touche de plus en plus.* |  |
+
+### Les PV montent de 20 à 115. Et les dégâts ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Un dé d'arme en plus | Aux niveaux 5, 10, 15 et 20. Pistolet : 1d8 au départ, 5d8 au niveau 20. *Environ 7 attaques à tous les niveaux.* | [13th Age, adapté](https://walkingmind.evilhat.com/2013/08/22/13th-age-classes) |
+| Le niveau s'ajoute | Pistolet : 1d8 + niveau. *Environ 6 attaques à tous les niveaux. Moins de dés, donc moins de suspense.* |  |
+| **Le matériel seulement** (choisi) | De meilleures armes et munitions : 1d8, puis 2d8, puis 3d8. *Environ 7, 10, puis 11 attaques. Il faut trouver l'équipement.* |  |
+
+## Les dix talents
+
+### Au départ, quels bonus ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Six talents** (choisi) | +15, +15, +10, +10, +5, +5. Les quatre autres à 0. |  |
+| Quatre talents | +20, +15, +10, +5. Les six autres à 0. *Plus spécialisé : on dépend des autres.* |  |
+| Les dix | L'ancienne répartition, sans rien changer. *Chacun sait tout faire un peu.* |  |
+
+### Sciences est très large. On la garde entière ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Deux domaines | Bonus complet dans deux domaines choisis au départ, moitié dans les autres. *Sciences +20, domaines médecine et biologie : +20 pour soigner, +10 pour pirater.* |  |
+| Oui, entière | Un seul bonus pour tout. *Le même personnage soigne, pirate et analyse.* |  |
+| Deux talents | Sciences (chimie, biologie, médecine, physique) et Informatique à part. |  |
+
+Aucune option retenue : Sciences devient une famille. Chaque domaine (la Biologie, qui comprend la médecine ; l'Informatique ; …) a son propre bonus, et c'est lui qu'on lance. La liste des domaines est dans les points à voir.
+
+### Quand aucun talent ne colle ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **La caractéristique seule** (choisi) | 1d100 + caractéristique. | [D&D 5](https://5thsrd.org/rules/abilities/ability_checks/) |
+| Le talent le plus proche, à moitié | Discrétion +20 pour filer une voiture : +10. |  |
+| Le talent le plus proche, entier | Le MJ choisit lequel. |  |
+
+### Où vont les talents enlevés
+
+| Point | Avis |
+| --- | --- |
+| Saisir, plaquer, étrangler : Athlétisme. Se libérer : Athlétisme ou Adresse. *(D&D 5, adapté)* | changé |
+| Conduire : Agilité seule, plus le bonus du véhicule. | oui |
+| Réparer, bricoler : Sciences. Poser ou désamorcer un piège, une bombe : Adresse. | oui |
+| Reconnaître une entité, un rituel, un symbole : Investigation. | oui |
+| Menacer, interroger : Persuasion, avec Présence ou Force. | oui |
+| Donner des ordres, encourager : Persuasion. Calmer un allié : Instinct ou Persuasion. | oui |
+| Poison, maladie, alcool : Constitution seule. Courir longtemps, porter un blessé, retenir son souffle : Stamina seule. | oui |
+
+## Les espèces
+
+### Comment fabrique-t-on une espèce ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Un modèle fixe** (choisi) | Une Vitesse, +10 et −10 en caractéristiques, un pouvoir, une faiblesse. *Facile à équilibrer, rapide à inventer.* |  |
+| Un prix en points | Les espèces fortes coûtent des points de départ. L'humain garde les siens pour des dons. | Shadowrun |
+| Des briques | Comme pour les monstres : chaque pouvoir coûte, chaque faiblesse rapporte, et le total doit faire zéro. *Le plus libre, mais le plus long à équilibrer.* |  |
+
+### Et l'humain ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Un don gratuit** (choisi) | Au choix, dès le niveau 1. | D&D 5 |
+| Des talents | +5 à quatre talents. |  |
+| Rien | Un humain ordinaire face au reste. *Plus dur, donc plus d'horreur.* |  |
+
+### Idées d'espèces
+
+| Point | Avis |
+| --- | --- |
+| Loup-garou : Vitesse 45, Force +10, Présence −10. Pouvoir : se transforme (3 d'endurance), griffes d8, regagne 2 PV par tour. Faiblesse : l'argent double les dégâts et bloque sa guérison. | non |
+| Vampire : Vitesse 40, Agilité +10, Constitution −10. Pouvoir : morsure d6, il récupère ce qu'il vole. Faiblesse : 1d6 de feu par tour en plein soleil. | oui |
+| Revenant : Vitesse 25, Constitution +10, Présence −10. Pouvoir : une fois par mission, se relève à 0 PV. Faiblesse : les soins rendent la moitié. | non |
+| Goule : Vitesse 30, Stamina +10, Présence −10. Pouvoir : manger un cadavre rend 2d6 PV et montre un souvenir du mort. Faiblesse : un jour sans viande, 1 cran de fatigue. | non |
+| Demi-démon : Vitesse 30, Présence +10, Esprit −10. Pouvoir : flamme d8 (3 d'endurance), résiste au feu. Faiblesse : le froid double les dégâts. | non |
+| Changelin : Vitesse 35, Présence +10, Force −10. Pouvoir : prend l'apparence de quelqu'un qu'il a touché. Faiblesse : le fer le brûle et montre son vrai visage. | oui |
+| Psychique : Vitesse 30, Esprit +10, Constitution −10. Pouvoir : entend les pensées de surface, bouge un objet à distance (2 de santé mentale). Faiblesse : perd 1 de plus à chaque perte de santé mentale. | oui |
+| Possédé : Vitesse 30, Force +10, Esprit −10. Pouvoir : laisse l'entité agir, 2 dés d'avantage pendant 3 tours. Faiblesse : ensuite, jet d'Esprit, sinon le MJ joue son prochain tour. | oui |
+| Hybride des profondeurs : Vitesse 25 (50 dans l'eau), Stamina +10, Présence −10. Pouvoir : respire sous l'eau, repère les sons dans le noir. Faiblesse : l'électricité double les dégâts. | oui |
+| Être artificiel : Vitesse 25, Force +10, Agilité −10. Pouvoir : ni poison, ni maladie, ni faim. Faiblesse : ne guérit pas seul, il faut le réparer (Sciences). | oui |
+| Ruche : Vitesse 30, Constitution +10, Présence −10. Pouvoir : détache un essaim qui voit et entend pour elle. Faiblesse : le feu et le froid doublent les dégâts. | oui |
+| Cobaye : Vitesse 35, +10 et −10 au choix. Pouvoir : une mutation (griffes, peau dure, vision de nuit, venin). Faiblesse : sans son sérum, 1 cran de fatigue par jour. | oui |
+
+## Perdre la tête
+
+### Sans contrôle, qu'est-ce que tu fais ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Ce que dit ta fêlure** (choisi) | Chaque fêlure a sa propre façon de craquer (liste en dessous). *Paranoïaque : tu attaques l'allié le plus proche.* | [Darkest Dungeon](https://darkestdungeon.wiki.gg/wiki/Affliction) |
+| Un dé | 1d6. 1 ou 2 : tu fuis. 3 ou 4 : tu te figes. 5 : tu frappes le plus proche. 6 : tu hurles (bruit 4). |  |
+| Le MJ décide | Selon la scène. |  |
+
+### Combien de fêlures à la fois ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Jusqu'à trois** (choisi) | Une par palier : 75, 50 et 25 %. |  |
+| Une seule | La nouvelle remplace l'ancienne. |  |
+| Une seule, qui empire | Au palier suivant, ses effets doublent. |  |
+
+### Les fêlures
+
+| Point | Avis |
+| --- | --- |
+| Paranoïaque : refuse les soins et l'aide. Sans contrôle : attaque l'allié le plus proche. *(Darkest Dungeon, adapté)* | oui |
+| Égoïste : ne prête et ne donne rien. Sans contrôle : se met à l'abri et passe son tour. *(Darkest Dungeon, adapté)* | oui |
+| Défaitiste : ne peut plus forcer un jet. Sans contrôle : lâche ce qu'il tient. *(Darkest Dungeon, adapté)* | oui |
+| Peureux : 1 dé de désavantage contre l'entité. Sans contrôle : fuit aussi loin que possible. *(Darkest Dungeon, adapté)* | oui |
+| Cruel : au début de chaque combat, ses alliés proches perdent 1 de santé mentale. Sans contrôle : il les insulte, 1d4 de perte chacun. *(Darkest Dungeon, adapté)* | oui |
+| Violent : ne peut ni capturer ni épargner. Sans contrôle : frappe la cible la plus proche, alliée ou non. | oui |
+| Téméraire : refuse de se mettre à couvert. Sans contrôle : fonce sur l'ennemi le plus dangereux. | oui |
+| Muet : ne parle plus, donc ni Persuasion ni aide à voix haute. Sans contrôle : se fige. | oui |
+| Obsédé : doit toucher chaque objet anormal. Sans contrôle : marche vers l'entité. | oui |
+| Halluciné : voit un ennemi de trop. Sans contrôle : attaque le vide et dépense ses balles. | oui |
+
+## Les dons de talent
+
+### Combien de choix à chaque palier ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| Deux, tu en prends un | Deux personnages avec le même talent ne se ressemblent pas. Soixante à écrire. |  |
+| Un seul, le même pour tous | Plus simple. Trente à écrire. |  |
+| Une liste commune | Les mêmes avantages pour tous les talents : relancer un jet, aller plus vite, dépenser moins d'endurance. |  |
+
+Aucune option retenue : les petits avantages liés aux talents sont abandonnés. À la place, des dons proches de ceux de D&D 5.5, sans lien avec les talents : voir les points à voir.
+
+### Discrétion
+
+| Point | Avis |
+| --- | --- |
+| +15 : se déplacer lentement ne fait plus aucun bruit. | non |
+| +30 : se cacher est gratuit une fois par tour. | non |
+| +45 : une fois par mission, disparaître alors qu'on te regarde. | non |
+
+### Sciences
+
+| Point | Avis |
+| --- | --- |
+| +15 : en examinant quelqu'un, tu connais ses PV et ses blessures. | non |
+| +30 : tes soins rendent 1d6 PV de plus. | non |
+| +45 : après une autopsie ou une analyse, le groupe a 1 dé d'avantage contre ce type d'entité jusqu'à la fin de la mission. | non |
+
+### Persuasion
+
+| Point | Avis |
+| --- | --- |
+| +15 : 1 dé d'avantage sur le premier jet face à un inconnu. | non |
+| +30 : calmer un allié rend 2d6 de santé mentale au lieu de 1d6. | non |
+| +45 : une fois par mission, un humain armé t'écoute un tour avant de tirer. | non |
+
+### Une vérification
+
+| Point | Avis |
+| --- | --- |
+| Jets opposés : chacun lance, le plus haut gagne. À 60 points d'écart ou plus, le plus fort gagne sans jet. L'écart ne donne plus de dés. | oui |
