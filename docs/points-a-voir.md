@@ -2,92 +2,118 @@
 
 > Propositions à trancher avant de continuer. Rien n'est décidé ici. Le texte vient de la page de vote et s'adresse à l'auteur du système.
 
-## 1. Tes remarques, appliquées
+## 1. Le Médecin, complet
 
-Tu as écrit : une seule espèce pour l'instant, et pas trop en faire tant que le système n'est pas fini. Tu as choisi les niveaux par jalons, et répondu « si » pour les domaines quand l'Intelligence monte. Voici ce que j'ai changé : vote oui si c'est bien ce que tu voulais.
-
-**Exemples**
-
-- Tous les agents sont humains : Vitesse 30, et deux dons d'origine au niveau 1.
-- Le vampire, la ruche et les six autres, avec leurs corps et leurs tables, sont rangés dans un fichier « plus tard » du dépôt. Rien n'est perdu.
-- Fin d'une mission importante : le MJ annonce « niveau 3 ». La note A donne de l'argent, pas de niveau.
-- Léa passe de 50 à 60 en Intelligence : ses points de domaines passent de 25 à 30, elle place les 5 nouveaux en Chimie.
-
-### Ce qui a changé
-
-- Une seule espèce pour l'instant : l'humain (Vitesse 30, deux dons d'origine). Les huit autres espèces, leurs tables du corps et les soins entre espèces sont rangés pour plus tard, avec le modèle (une Vitesse, +10 et −10, un pouvoir, une faiblesse). *Le dé de zone n'a plus qu'une table : 1 tête, 2 à 5 torse, 6 et 7 bras, 8 et 9 jambes, 10 au choix de l'attaquant.*
-- Les pouvoirs viennent pour l'instant d'un objet, d'une malédiction ou d'un éveil pendant le jeu. Le contrecoup n'est pas obligatoire : il est écrit sur le pouvoir. *Un agent garde une relique : il voit dans le noir, mais perd 1 de santé mentale à chaque usage, comme c'est écrit sur la relique.*
-- Niveaux par jalons : le MJ annonce le niveau à la fin d'une mission importante, un niveau à la fois. La note de fin (S, A, B, C) ne donne que l'argent ; capturer rapporte plus que tuer. *Deux missions notées S : celle où l'entité est capturée rapporte plus d'argent, mais aucune ne donne un niveau de plus.*
-- Ton « si » : les points de domaines suivent l'Intelligence (Intelligence ÷ 2, arrondi à 5 en dessous). Quand elle monte, on place les nouveaux points, 20 au plus par domaine avec ces points. *Intelligence 50 → 55 : 27, arrondi à 25, rien de neuf. 55 → 60 : 30, donc 5 points à placer.*
-
-## 2. Les classes pour commencer
-
-Tu as choisi : la mécanique s'améliore aux niveaux 5, 10, 15 et 20, une technique aux niveaux 3, 7, 11, 14 et 18, et chaque classe donne une réaction. Pour ne pas trop en faire, je propose de commencer avec moins de classes. Et pour valider la forme avant d'écrire les autres, voici une classe complète : le Rempart.
+Tu as validé la forme du Rempart. Voici le Médecin sur le même modèle : son niveau 1, ses quatre améliorations, et huit techniques (il en choisit cinq). Assaut et Traqueur viendront à la prochaine fournée.
 
 **Exemples**
 
-- Marc, Rempart niveau 1 : il maîtrise les armes contondantes et d'épaule, il sait encaisser, et une fois par tour il prend pour 1 d'endurance un coup destiné à Léa, collée à lui.
-- Niveau 3 : il choisit Garde haute. Collée à lui, Léa passe de 70 à 75 en Esquive.
-- Niveau 5 : il protège aussi un allié à 3 m, et fait le pas vers lui sans payer.
-- Niveau 20 : une fois par combat, un coup pris pour un allié qui devrait le mettre à 0 PV le laisse à 1 PV.
+- Marc vient de voir la goule et perd 6 de santé mentale. Léa, Médecin niveau 1, paie 3 d'endurance : il en regagne 4, sans jet.
+- Marc est tombé deux fois à 0 PV dans la mission. Léa le soigne : une chute s'efface, son prochain jet de survie sera contre 90 au lieu de 100.
+- Niveau 3 : Léa choisit Garrot express. Un saignement grave au torse, qui demande d'habitude un jet de Biologie : elle l'arrête pour 1 d'endurance.
+- Niveau 15 : Marc rate son troisième jet de survie. Au tour suivant, Léa le ramène : inconscient, mais vivant.
 
-### Combien de classes pour commencer ?
+### Le Médecin : niveau 1 et améliorations
+
+- Niveau 1 : lames et armes de poing, la réaction éviter, et Calmer en plein combat : une fois par tour, pour 3 d'endurance et sans jet, un allié qui l'entend regagne 1d6 de santé mentale. Quand il soigne quelqu'un, il efface aussi une de ses chutes à 0 PV. (Précisé : « sans jet » et « une fois par tour ».) *La règle de base, pour tout le monde : calmer demande un jet et ne marche qu'une fois par scène. Le Médecin, lui, le fait à chaque tour.*
+- Niveau 5 : il peut soigner deux fois le même blessé dans une scène, et soigner lui coûte 2 d'endurance au lieu de 3. *Marc a perdu 12 PV : Léa le soigne deux fois pendant le combat, 1d6 puis encore 1d6.*
+- Niveau 10 : calmer et soigner rendent un dé de plus (2d6 au lieu de 1d6). *Avec le don Secouriste en plus, un soin rend 3d6.*
+- Niveau 15 : une fois par mission, il ramène un allié mort depuis un tour au plus. L'allié revient à 0 PV, stable, et garde ses chutes. *Si Marc meurt une deuxième fois dans la même mission, Léa ne peut plus rien : c'est une fois par mission.*
+- Niveau 20 : ses soins rendent toujours le maximum des dés. *Un soin à 2d6 rend 12 PV à chaque fois.*
+
+### Le Médecin : ses huit techniques (il en choisit cinq)
+
+- Triage : sans dépenser de geste, il sait combien de PV et quelles blessures ont tous ceux qu'il voit. *Il voit que le cultiste n'a plus que 4 PV, et que Marc saigne gravement.*
+- Adrénaline : une drogue de combat qu'il donne n'apporte pas de cran de fatigue ensuite. *Marc prend +4 d'endurance pour finir le combat, sans être fatigué après.*
+- Garrot express : arrêter un saignement, léger ou grave, lui coûte 1 d'endurance et ne demande pas de jet. *Torse en saignement grave : pas de garrot possible d'habitude, il faut un jet de Biologie. Léa l'arrête pour 1 d'endurance.*
+- Sang-froid sous le feu : 1 dé d'avantage pour soigner ou stabiliser quand un ennemi peut le viser. *Léa stabilise Marc au milieu de la fusillade avec 1d10 en plus.*
+- Thérapeute : entre deux missions, un allié dont il s'occupe regagne 1d6 de santé mentale de plus, en plus de sa propre activité. *Marc va en thérapie (2d6) ; Léa l'accompagne : encore 1d6.*
+- Toxicologue : il reconnaît un poison ou une drogue sans jet, et un antidote qu'il donne arrête l'effet tout de suite. *Morsure venimeuse : dès le premier tour, Léa sait quoi faire et l'arrête.*
+- Anatomie : avec une lame, viser une zone (bras, jambes, tête) lui coûte 1 dé de désavantage de moins. *Viser la tête au scalpel : 1 dé de désavantage au lieu de 2.*
+- Infirmier de campagne : un repos court qu'il surveille rend la moitié des PV au lieu d'un quart. *Marc, 40 PV au maximum, se repose une heure : 20 PV au lieu de 10.*
+
+## 2. L'Infiltré, complet
+
+Même modèle pour l'Infiltré. Ses techniques jouent beaucoup avec la discrétion de la mission (écran 3).
+
+**Exemples**
+
+- Sam, Infiltré niveau 1, est caché derrière une caisse. Il frappe au couteau : 0 d'endurance au lieu de 3. Ensuite, on l'a vu.
+- Niveau 5 : en plein combat, il se cache derrière un mur. Discrétion 65 contre la Perception passive d'un cultiste (80) : il réussit 85 fois sur 100.
+- Niveau 7 : il choisit Lame dans le dos. Contre une cible qui ne l'a pas vu, son couteau fait 2d6 au lieu de d6.
+- Niveau 20 : une fois par mission, pendant 10 tours, personne ne peut le voir ni l'entendre tant qu'il ne frappe pas.
+
+### L'Infiltré : niveau 1 et améliorations
+
+- Niveau 1 : lames et armes de poing, la réaction éviter, et Invisible : tant qu'il n'est pas vu, son premier geste de chaque tour ne coûte pas d'endurance. *Il ouvre une porte, puis sort son arme : la porte est gratuite, l'arme coûte 1.*
+- Niveau 5 : il peut se cacher en plein combat derrière une couverture lourde : 2 d'endurance et un jet de Discrétion contre la Perception passive des ennemis. *Un tour plus tard, il est de nouveau caché, et son premier geste redevient gratuit.*
+- Niveau 10 : ses deux premiers gestes du tour sont gratuits tant qu'il n'est pas vu. *Il s'approche (3 m) et frappe : 0 d'endurance pour les deux.*
+- Niveau 15 : son élimination silencieuse marche aussi de face, sur une cible qui ne l'a pas encore vu. Contre une créature, elle donne un super critique au lieu d'un critique. *Une goule qui n'a pas vu Sam prend un super critique : dés doublés, armure ignorée, blessure grave.*
+- Niveau 20 : Fantôme. Une fois par mission, pendant 10 tours, personne ne peut le voir ni l'entendre tant qu'il ne frappe pas. *Il traverse une salle pleine de gardes jusqu'à la cible.*
+
+### L'Infiltré : ses huit techniques (il en choisit cinq)
+
+- Crocheteur : 1 dé d'avantage sur les serrures, et il crochète deux fois plus vite. *Une porte de bureau : un tour au lieu de deux.*
+- Déguisement : 1 dé d'avantage en Tromperie pour se faire passer pour quelqu'un, avec une tenue ou un badge. *En blouse blanche, il entre à la morgue comme un employé.*
+- Pas léger : courir ne fait pas de bruit, et il reste caché même en courant. *Il traverse le parking en courant sans perdre sa cachette.*
+- Lame dans le dos : contre une cible qui ne l'a pas vu, son arme lance un dé de plus. *Couteau : 2d6 au lieu de d6.*
+- Diversion (2 d'endurance) : un bruit ou un objet lancé attire un ennemi qui ne l'a pas vu vers un point à 7 cases au plus. *Une canette jetée au fond du couloir : le garde va voir, Sam passe.*
+- Sans traces : cacher un corps lui prend un tour au lieu d'une minute, et un corps qu'il a caché ne fait pas baisser la discrétion de la mission. *Le garde neutralisé finit dans un placard : la jauge de discrétion ne bouge pas.*
+- Esquive vive : éviter lui coûte 1 d'endurance au lieu de 2. *Il évite deux tirs dans le même tour pour 2 d'endurance.*
+- Repérage : en une minute dans un lieu, il repère les caméras, les alarmes et les rondes des gardes (Investigation avec 1 dé d'avantage). *Il sait qu'une ronde passe toutes les cinq minutes devant la porte du sous-sol.*
+
+## 3. Les missions
+
+Cinq règles de missions pas encore relues, et la thérapie attend son malus depuis longtemps. Une question : comment marche la discrétion. Tu avais dit que toutes les missions ne demandent pas le même niveau de discrétion.
+
+**Exemples**
+
+- Mission en « discrétion forte » : la jauge part de 10, l'affaire devient publique à 5. Un coup de fusil entendu (−1), un témoin qui s'enfuit (−2) : il reste 7.
+- Entre deux missions, Léa va en thérapie (jet réussi : 2d6 de santé mentale). Marc s'entraîne : sa Persuasion fait le jet de progression même sans être cochée.
+- Le hacker de soutien ouvre la porte blindée à distance : une seule fois dans la mission.
+- On laisse la maison hantée pour le cargo : à la mission suivante, la maison a fait deux victimes.
+
+### Comment marche la discrétion ?
 
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
-| Cinq : Assaut, Rempart, Infiltré, Médecin, Traqueur (conseillé) | Une par rôle : frapper, protéger, se cacher, soigner, chasser les entités. Technicien, Chercheur, Médium et Maudit attendent, comme les espèces. *À écrire : 5 classes × (4 améliorations + 8 techniques) = 60 capacités.* |  |
-| Trois : Rempart, Infiltré, Médecin | Le minimum pour une équipe : protéger, se cacher, soigner. Les autres attendent. *36 capacités à écrire. Pour frapper fort, on compte sur les dons.* |  |
-| Les neuf tout de suite | Toutes tes idées de classes, avant de jouer. *108 capacités à écrire avant la première partie.* |  |
+| Une jauge de 10 (conseillé) | La mission annonce son niveau : aucune (pas de jauge), faible (publique à 0), forte (publique à 5), absolue (publique au premier point perdu). Chaque scène où l'on entend une arme de bruit 4 ou 5 : −1. Un témoin qui s'enfuit : −2. Un corps trouvé : −3. Publique : la note de fin ne peut pas dépasser C, et l'entité est prévenue. *Mission absolue : un seul coup de revolver entendu, et c'est raté.* |  |
+| Quatre paliers que le MJ avance | Calme, rumeurs, enquête, public. Le MJ avance d'un palier à chaque gros bruit, témoin ou corps trouvé. *Moins de calcul, plus de liberté pour le MJ.* |  |
+| Seulement dans la note de fin | Pas de jauge pendant la mission : le bruit, les témoins et les corps baissent la note. *Le plus simple, mais rien ne presse pendant la mission.* |  |
 
-### Le Rempart : niveau 1 et améliorations
+### Les règles réécrites
 
-- Niveau 1 : armes contondantes et d'épaule, la réaction encaisser, et Protéger : une fois par tour, il prend à sa place un coup qui touche un allié collé à lui, pour 1 d'endurance. (Nouveau : « une fois par tour », pour que le niveau 15 serve à quelque chose.) *Léa prend un coup de 8. Marc paie 1 et le prend : son armure en retire 3, il perd 5 PV.*
-- Niveau 5 : Protéger marche aussi pour un allié à 3 m ; il fait le pas vers lui sans payer de déplacement. *Léa est à 2 cases. Un tir la touche : Marc la rejoint et prend la balle, pour 1 d'endurance seulement.*
-- Niveau 10 : sur un coup pris à la place d'un allié, encaisser ne coûte rien. *Marc protège Léa et encaisse sans payer les 2 d'endurance : son gilet de 3 compte pour 6.*
-- Niveau 15 : Protéger deux fois par tour. *Deux cultistes frappent Léa et Tom dans le même tour : Marc prend les deux coups, si chacun est collé à lui ou à 3 m.*
-- Niveau 20 : une fois par combat, un coup pris pour un allié qui devrait le mettre à 0 PV le laisse à 1 PV. *Marc a 6 PV, il prend pour Léa un coup de 14 : il reste debout à 1 PV.*
+- Le MJ propose deux ou trois missions, le groupe en choisit une. Celles qu'on laisse peuvent empirer, ou être prises par une organisation rivale si le MJ en veut une. *Une organisation rivale prend le cargo : on y retrouvera peut-être ses agents plus tard.*
+- Entre deux missions, chacun récupère ses PV et sa fatigue, et les chutes repartent à zéro. Puis une activité par agent : s'entraîner (un talent au choix fait le jet de progression, même sans être coché), soigner une blessure grave (fracture, prothèse), thérapie, chercher (une information sur la prochaine mission), fabriquer. *Marc a le bras cassé : il passe son activité à se faire soigner, et ne s'entraîne pas.*
+- Thérapie, à la base : jet du thérapeute (1d100 + 60 contre 100 ; un agent peut le faire avec sa Persuasion). Réussi : 2d6 de santé mentale ; raté : 1d6. Bar ou chapelle : 1d6 sans jet, mais on commence la mission suivante avec 1 cran de fatigue. *Marc préfère le bar : 4 de santé mentale, mais −10 à tous ses jets jusqu'à son premier repos de la mission.*
+- Avant la mission, le groupe choisit un soutien. Pilote : une extraction rapide. Hacker : une fois, une porte, une caméra, ou un jet d'Informatique avec 2 dés d'avantage. Médecin : une fois, par radio, 1 dé d'avantage sur un jet de Biologie ou un conseil sur un poison ou une entité. *Avec le pilote, le groupe quitte le toit en hélicoptère au lieu de traverser la ville à pied.*
+- Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ. *Agence secrète, secte de chasseurs ou police spéciale : les mêmes règles marchent.*
 
-### Le Rempart : ses huit techniques (il en choisit cinq)
+## 4. Les monstres
 
-- Bousculer : après avoir protégé, il repousse l'attaquant de 2 cases (2 d'endurance). S'il heurte un mur : 1d6 contondant. *Le cultiste qui a frappé Léa recule contre le mur et prend 4 dégâts.*
-- Garde haute : les alliés collés à lui ont +5 en Esquive. *Léa, Esquive 70, passe à 75 tant qu'elle reste contre Marc.*
-- Provocation (2 d'endurance) : un ennemi qui l'entend, à 7 cases au plus, a 1 dé de désavantage pour attaquer quelqu'un d'autre que lui, jusqu'au prochain tour de Marc. *Le cultiste vise Léa avec 1d10 de moins. Il préfère frapper Marc.*
-- Riposte : après avoir encaissé un coup au corps à corps, il fait une attaque légère contre l'attaquant pour 1 d'endurance au lieu de 2. *Marc encaisse le coup de machette, puis frappe à la batte : 1 d'endurance.*
-- Second souffle : une fois par combat, pour 3 d'endurance, il regagne 1d6 + Constitution ÷ 10 PV. *Constitution 40 : 1d6 + 4. Il tire 3 et regagne 7 PV.*
-- Ancré : on ne peut ni le faire tomber ni le déplacer contre son gré, et le saisir coûte 2 d'endurance de plus. *Une goule veut le plaquer pour atteindre Léa : impossible, et le saisir lui coûte 2 de plus.*
-- Escorte : un allié qui se déplace collé à lui compte comme à couvert partiel contre les tirs. *Tant que Léa avance contre Marc, le tireur a 1 dé de désavantage pour la viser.*
-- Sauveteur : porter un allié ne le ralentit pas, et stabiliser un allié à 0 PV lui coûte 1 d'endurance au lieu de 3. *Léa tombe à 0 PV : Marc la stabilise (1 d'endurance), la charge et recule à pleine vitesse.*
-
-### Le don pour une deuxième réaction
-
-- Réactif (don général, +5 en Agilité ou en Constitution) : tu gagnes une deuxième réaction, au choix : éviter, parer ou encaisser. *Léa, Médecin, sait éviter. Au niveau 4, elle prend Réactif et apprend à parer au couteau.*
-
-## 3. L'équipement, l'essentiel
-
-Il reste sept règles d'équipement pas encore relues. Je les ai réécrites avec le d100, les cases et l'endurance. Une question : comment on compte l'argent. Pour ce qui peut attendre que le système soit fini, vote bof : je le rangerai pour plus tard.
+Sept règles de monstres pas encore relues. Je les ai réécrites, avec des chiffres par catégorie et une fiche d'exemple, la goule. Une question : les monstres paient-ils en endurance comme les agents ?
 
 **Exemples**
 
-- Budget de mission : 1 500. Marc prend un fusil à pompe (800) et deux grenades (2 × 150). Il reste 400 pour l'équipe.
-- Léa veut un lance-flammes (2 500), au-dessus du budget : elle le demande. Jet de Persuasion dur (120), réussi : elle l'a pour cette mission.
-- Contre une goule qui craint l'argent, Marc charge des balles d'argent : elles gardent leurs dégâts perforants, mais touchent sa faiblesse.
-- Un silencieux sur le pistolet : le bruit passe de 4 à 1, et l'arme prend une case de plus dans le sac.
+- Léa (+60 au pistolet) touche une créature de catégorie I 80 fois sur 100, II 70, III 60, IV 50, V 40.
+- Une créature III (+70) touche Marc (Esquive 100) 70 fois sur 100. S'il évite, son Esquive passe à 110 : 60 fois sur 100.
+- Quatre agents de niveau 1 tuent une goule en deux tours environ ; d'ici là, elle peut mettre l'un d'eux à terre.
+- Marc tire une balle d'argent sur la goule : c'est sa faiblesse, les dégâts sont doublés (5 sur le dé, donc 10).
 
-### Comment compter l'argent ?
+### Les monstres paient-ils en endurance ?
 
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
-| Des prix chiffrés (conseillé) | Chaque objet a un prix (pistolet 300, gilet pare-balles 500, trousse de soins 50). La mission donne un budget d'armurerie ; la note de fin donne l'argent personnel. L'unité, c'est le MJ qui la choisit. *Concret, et Foundry fait les comptes tout seul.* |  |
-| Des rangs de prix, de 1 à 5 | Chaque objet a un rang. La mission donne un rang maximal : on prend ce qu'il faut en dessous, sans compter. Au-dessus, on demande. *Mission de rang 2 : pistolets, gilets et trousses à volonté ; un fusil d'assaut (rang 3) se demande. Pas de comptes, mais moins de choix serrés.* |  |
-| Des rangs pour l'armurerie, des prix pour soi | L'équipement de mission par rangs ; l'argent personnel, gagné avec la note, en prix chiffrés pour ce qu'on garde. *L'armurerie va vite, mais il y a deux façons de compter.* |  |
+| Oui, comme les agents (conseillé) | Chaque monstre a une endurance et une récupération, et les mêmes coûts. Foundry fait les comptes. *Goule : endurance 10, +6 par tour : deux attaques normales (6) et un bond de 4 cases (2).* |  |
+| Non, des gestes par tour | Pas d'endurance : chaque monstre a un nombre de gestes par tour, de 1 à 4 selon sa catégorie, et une seule réaction. *Goule (II) : 2 gestes, attaquer deux fois ou attaquer et bondir. Plus simple à jouer pour le MJ.* |  |
 
-### Les sept règles réécrites
+### Les règles réécrites
 
-- Chaque mission donne un budget d'armurerie ; chacun a aussi son argent personnel, gagné avec la note de fin. Le matériel de l'armurerie se rend à la fin de la mission. *Marc garde le fusil à pompe s'il le paie avec son argent ; sinon, il le rend.*
-- Demander plus que le budget : jet de Persuasion, normal (100) un peu au-dessus, dur (120) jusqu'au double, très dur (140) au-delà. Raté : on redemande à la mission suivante. *Budget 1 500, lance-flammes 2 500 : moins du double, donc dur (120).*
-- Accessoires d'arme : silencieux (bruit −3), lunette (se préparer à plus de 10 cases donne 2 dés d'avantage au lieu d'1), lampe (on voit à 10 cases dans le noir, mais on est vu de loin), chargeur long (deux fois plus de balles). Chacun agrandit l'arme d'une case dans le sac. *Fusil de précision avec lunette : Marc vise un tour, puis tire à 20 cases avec 2d10 en plus.*
-- Munitions spéciales : incendiaires (feu), électriques, acides : elles changent le type de dégâts. Argent, fer, sel : même type, mais elles touchent la faiblesse d'une entité si c'est la sienne. Les balles bénites disparaissent, puisqu'il n'y a pas de dégâts sacrés. *Balles incendiaires contre une entité que le feu blesse plus : bon choix. Balles de fer contre un humain : rien de plus.*
-- Gadgets : détecteurs (mouvement, chaleur, champ électrique), drones, grenades (fumée, aveuglante, fragmentation), pièges et mines, effaceur de mémoire. Chacun a sa règle sur sa fiche d'objet. *Grenade aveuglante : à 3 cases autour, jet de Constitution, sinon 2 dés de désavantage pendant un tour.*
-- Objets anormaux : puissants, avec un effet secondaire écrit sur l'objet. Pour l'instant, ce sont eux qui donnent la plupart des pouvoirs. *Un briquet qui ne s'éteint jamais : du feu à volonté, mais 1 de santé mentale par heure de flamme.*
-- Véhicules : PV, armure, Vitesse et places. Conduire : Agilité plus le bonus du véhicule ; une poursuite se joue en jets opposés. *Fourgon : 40 PV, armure 4, 5 places, bonus +10. Peut attendre : vote bof si tu veux le ranger.*
-- Fabriquer ou améliorer entre deux missions, avec le bon domaine : Mécanique pour une arme, Chimie pour une drogue ou un explosif, Électronique pour un détecteur. Un jet réussi : l'objet est prêt pour la mission suivante. *Marc (Mécanique +10) monte un silencieux sur son pistolet : jet de Mécanique normal, réussi.*
+- Cinq catégories de danger. Valeurs de départ, que chaque fiche change : I : 15 PV, Esquive 80, attaque +40, d8. II : 35 PV, Esquive 90, +55, 2d6. III : 70 PV, Esquive 100, +70, 2d8. IV : 120 PV, Esquive 110, +85, 3d8. V : 200 PV, Esquive 120, +100, 4d8. Endurance (si on la garde) : 8, 10, 12, 14, 16. *Un chien enragé, c'est I. La goule, II. Une entité qui vide un village, IV ou V.*
+- Exemple, la goule (II) : 35 PV, Esquive 90, armure 1, griffes +55 (2d6 tranchant), Vitesse 40, endurance 10 (+6). Briques : régénération (2 PV par tour, sauf après du feu), repaire. Faiblesse : l'argent. Résiste au froid. La voir : 1d6 de santé mentale. *Brûlée au lance-flammes, elle ne régénère plus jusqu'à la fin du combat.*
+- Ennemis humains (cultistes, mercenaires, agents rivaux) : la même fiche, sans briques, en général de catégorie I ou II. *Cultiste (I) : 15 PV, Esquive 80, machette +40 (d8), il fuit à 5 PV.*
+- Une fiche de monstre, c'est sa catégorie plus des briques à activer : aura de peur, nuée, phases, régénération, parties à détruire, repaire, déguisement humain, règle propre, résistance légendaire. *Un spectre : déguisement humain et aura de peur. Une nuée de rats : nuée.*
+- Résistance légendaire : 1 à 3 fois par combat, le monstre change un jet raté en réussite. Chaque coup sur sa faiblesse en fait sauter une. *Le spectre rate son jet contre le sel, mais dépense une résistance et réussit quand même.*
+- Par type de dégâts ou par matière : résistance, la moitié ; immunité, rien ; faiblesse, le double. *Goule résistante au froid : une attaque de froid de 10 ne lui fait que 5.*
+- Effets étranges durables, propres à chaque entité (une marque, une maladie, une voix dans la tête), écrits sur sa fiche. *Griffé par la goule : on a faim de viande crue pendant 1d6 jours.*
+- Un boss n'a pas besoin de règle à part : une Vitesse plus haute lui donne plus de tours, et ses phases changent ses briques. *Vitesse 110 : sa jauge se remplit de 160 quand celle d'un agent se remplit de 80, donc il joue deux fois plus souvent.*

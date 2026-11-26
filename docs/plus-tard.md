@@ -1,6 +1,6 @@
 # Plus tard
 
-> Mis de côté le 26 novembre 2026 : une seule espèce, l'humain, tant que la base du système n'est pas finie. Rien n'est supprimé ; tout cela reviendra ensuite.
+> Mis de côté le 26 novembre 2026 : tant que la base du système n'est pas finie, une seule espèce (l'humain) et cinq classes. Rien n'est supprimé ; tout cela reviendra ensuite.
 
 ## Le modèle d'espèce
 
@@ -41,3 +41,12 @@ Critique : l'effet léger ; super critique : l'effet grave.
 - Être artificiel (1d10) : 1 capteurs, 2 à 4 coque, 5 noyau, 6 et 7 bras, 8 et 9 jambes, 10 au choix. Capteurs : aveugle jusqu'à son prochain tour / jusqu'à la réparation. Coque : rien / fuite, 2 d'endurance de moins par tour. Noyau : sa jauge perd 50 / arrêté, jauge à 0. Membres : rien / hors service, à remplacer. Ni sang ni douleur.
 - Ruche (1d10) : 1 et 2 la reine, 3 à 10 l'essaim. Reine : 1 dé de désavantage au prochain jet / 1 dé de désavantage partout jusqu'au repos. Essaim : son pouvoir porte deux fois moins loin / l'essaim se disperse, pouvoir coupé jusqu'au repos. Ni fracture ni saignement.
 - Cobaye : comme l'humain, plus sa mutation. Griffes : la blessure grave au bras les casse jusqu'au repos. Peau dure : armure 2 au torse. Vision de nuit : une lumière forte l'aveugle un tour. Venin : une glande au cou (zone 1, avec la tête) ; blessure grave : le venin coule en lui, 1d6 de dégâts toxiques.
+
+## Quatre classes (votées, à détailler plus tard)
+
+Même forme que les autres : niveau 1, améliorations aux niveaux 5, 10, 15 et 20, huit techniques.
+
+- Technicien (encaisser) : pilote un drone ou des pièges qui ont leur propre endurance (6 par tour) ; il ne paie que ses gestes à lui. Familles : armes de poing, armes lourdes et explosifs.
+- Chercheur (éviter) : chaque information vraie trouvée sur l'entité met 1 dé d'avantage dans une réserve du groupe. N'importe qui le dépense contre elle. Familles : armes de poing, armes de jet et arcs.
+- Médium (éviter) : sent les entités à 30 m et peut parler à un mort pendant une minute. Il paie ses pouvoirs, ceux de son espèce compris, en santé mentale au lieu d'endurance. Familles : armes contondantes, armes de poing.
+- Maudit (parer) : ses pouvoirs ne coûtent rien, mais chacun a un contrecoup : 1d10 sur sa table de malédiction ; de 1 à 3, quelque chose de mauvais arrive. Familles : lames, armes contondantes.

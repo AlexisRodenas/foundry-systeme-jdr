@@ -1,6 +1,6 @@
-# Règles, version 7
+# Règles, version 8
 
-> **Brouillon.** Rien n'est codé. 162 règles fixées, 1 en attente des [points à voir](points-a-voir.md), 21 pas encore relues : certaines parlent encore de d6.
+> **Brouillon.** Rien n'est codé. 183 règles fixées, 0 en attente des [points à voir](points-a-voir.md), 12 pas encore relues (missions et monstres).
 
 ## Les jets
 
@@ -23,7 +23,7 @@
 ## Les talents
 
 - **R13.** Onze talents : Athlétisme (Force) ; Discrétion, Adresse, Acrobatie (Agilité) ; Investigation, Sciences (Intelligence) ; Perception, Instinct, Survie (Esprit) ; Persuasion, Tromperie (Présence). C'est la caractéristique par défaut : le MJ peut en autoriser une autre.
-- **R14.** Sciences est une famille de six domaines : Biologie (avec la médecine), Chimie, Physique, Mécanique, Électronique, Informatique. Chaque domaine a son propre bonus, et c'est lui qu'on lance. Il se coche et monte seul ; l'ancien métier peut lui donner +5 ; pour aider, il faut +5 dans le même domaine. Points de domaines : Intelligence ÷ 2, arrondi à 5 en dessous, à placer par tranches de 5, 20 au plus par domaine. Quand l'Intelligence monte, on place les nouveaux points. **(à voir)**
+- **R14.** Sciences est une famille de six domaines : Biologie (avec la médecine), Chimie, Physique, Mécanique, Électronique, Informatique. Chaque domaine a son propre bonus, et c'est lui qu'on lance. Il se coche et monte seul ; l'ancien métier peut lui donner +5 ; pour aider, il faut +5 dans le même domaine. Points de domaines : Intelligence ÷ 2, arrondi à 5 en dessous, à placer par tranches de 5, 20 au plus par domaine. Quand l'Intelligence monte, on place les nouveaux points.
 - **R15.** Acrobatie : garder l'équilibre, amortir une chute (réussi : dégâts de chute divisés par deux), sauter un obstacle ou passer à côté d'un ennemi sans s'arrêter, se libérer d'une prise (ou Athlétisme), se faufiler, faire des cascades.
 - **R16.** Un talent donne un bonus de 0 à 50, ajouté au jet. Au départ : +15, +15, +10, +10, +5 et +5 sur six talents, 0 sur les autres. Les domaines de Sciences ne comptent pas parmi ces six.
 - **R17.** Quand aucun talent ne colle : 1d100 + caractéristique seule.
@@ -65,7 +65,7 @@
 - **R44.** Encaisser : quand un coup te touche, 2 d'endurance : ton armure compte double contre ce coup. Sans armure, tu retires Constitution ÷ 10.
 - **R45.** Couverture partielle : 1 dé de désavantage pour le tireur. Lourde : 2 dés. Totale : on ne peut pas être visé.
 - **R46.** Viser les jambes (1 dé de désavantage) : la cible paie double pour bouger. Les bras (1 dé) : elle lâche ce qu'elle tient. La tête (2 dés) : +1d6 de dégâts et l'armure du torse ne compte pas.
-- **R47.** Chaque arme a son dé (voir les armes d'exemple). Au corps à corps, on ajoute Force ÷ 10. Les dégâts ne montent pas avec le niveau, seulement avec la qualité de l'arme : standard un dé, militaire deux, exceptionnelle trois. Les munitions spéciales changent le type de dégâts, pas le nombre de dés.
+- **R47.** Chaque arme a son dé (voir les armes d'exemple). Au corps à corps, on ajoute Force ÷ 10. Les dégâts ne montent pas avec le niveau, seulement avec la qualité de l'arme : standard un dé, militaire deux, exceptionnelle trois. Les munitions spéciales changent le type de dégâts ou visent une faiblesse, jamais le nombre de dés.
 - **R48.** Six familles d'armes : lames, armes contondantes, armes de poing, armes d'épaule, armes lourdes et explosifs, armes de jet et arcs. On maîtrise une famille entière. Au départ, la classe en donne deux ; le don Maniement en ajoute une.
 - **R49.** Un critique double les dés de dégâts et donne l'effet léger de la zone touchée ; un super critique ignore aussi l'armure et donne l'effet grave. Dépasser largement l'Esquive n'augmente les dégâts qu'avec certains dons.
 - **R50.** Rafale : 3 balles, +1d6 de dégâts.
@@ -150,9 +150,9 @@
 - **R111.** Chaque don général donne +5 à une caractéristique, écrite sur le don ; Amélioration donne +10 à une caractéristique, ou +5 à deux. On ne dépasse pas 70, sauf avec une faveur épique, qui donne +10 même au-delà.
 - **R112.** Conditions : les dons généraux s'ouvrent au niveau 4 ; certains demandent 50 dans une caractéristique, ou un autre don avant (voir les chaînes). Une chaîne a trois dons au plus. Les faveurs épiques ne demandent aucun don.
 - **R113.** Espèce : pour l'instant, une seule, l'humain. Vitesse 30, rien en plus ni en moins, et un don d'origine de plus au niveau 1. Les autres espèces reviendront quand la base sera finie.
-- **R114.** Pour l'instant, les pouvoirs viennent d'un objet, d'une malédiction ou d'un éveil pendant le jeu. *(pas encore relue)*
-- **R115.** Le contrecoup n'est pas obligatoire : il est écrit sur le pouvoir. *(pas encore relue)*
-- **R116.** Une classe légère. Au niveau 1 : deux familles d'armes, une réaction (éviter, parer ou encaisser) et une mécanique à elle. La mécanique s'améliore aux niveaux 5, 10, 15 et 20. Aux niveaux 3, 7, 11, 14 et 18 : une technique au choix dans la liste de sa classe (huit par classe).
+- **R114.** Pour l'instant, les pouvoirs viennent d'un objet, d'une malédiction ou d'un éveil pendant le jeu.
+- **R115.** Le contrecoup n'est pas obligatoire : il est écrit sur le pouvoir.
+- **R116.** Une classe légère. Au niveau 1 : deux familles d'armes, une réaction (éviter, parer ou encaisser) et une mécanique à elle. La mécanique s'améliore aux niveaux 5, 10, 15 et 20. Aux niveaux 3, 7, 11, 14 et 18 : une technique au choix parmi les huit de sa classe. Cinq classes pour commencer : Assaut, Rempart, Infiltré, Médecin, Traqueur ; les autres attendent.
 
 ## Dons d'origine
 
@@ -181,67 +181,81 @@
 - **R136.** Increvable (+5 en Constitution, demande Coriace) : à 0 PV, 1 dé d'avantage sur les jets de survie.
 - **R137.** Meneur (+5 en Présence) : une fois par combat, un allié qui t'entend gagne 1 dé d'avantage sur un jet d'Esprit.
 - **R138.** Chasseur d'entités (+5 en Esprit ou en Intelligence) : quand une entité utilise un pouvoir près de toi, tu peux la frapper tout de suite pour 3 d'endurance.
-- **R139.** Amélioration : +10 à une caractéristique, ou +5 à deux. Rien d'autre.
+- **R139.** Réactif (don général, +5 en Agilité ou en Constitution) : tu gagnes une deuxième réaction, au choix : éviter, parer ou encaisser.
+- **R140.** Amélioration : +10 à une caractéristique, ou +5 à deux. Rien d'autre.
 
 ## Chaînes de dons
 
-- **R140.** Tireur posé, puis Tireur d'élite (+5 en Agilité) : viser la tête ne donne plus de désavantage, et un critique à la tête ignore l'armure.
-- **R141.** Bagarreur, puis Lutteur, puis Étrangleur (+5 en Force) : la cible que tu étrangles ne peut ni crier ni parler, et perd 1d6 PV par tour.
-- **R142.** Vigilant, puis Sentinelle, puis Réflexes (+5 en Agilité) : éviter, parer et encaisser te coûtent 1 d'endurance de moins.
-- **R143.** Secouriste, puis Chirurgien de terrain (+5 en Intelligence) : tu soignes une fracture ou un saignement grave en plein combat, pour 4 d'endurance.
-- **R144.** Nerfs solides, puis Inébranlable (+5 en Esprit) : une fois par scène, tu ignores une phobie ou une manie pendant un tour.
-- **R145.** Porte-bouclier, puis Mur vivant (+5 en Constitution) : un allié juste derrière toi a une couverture lourde.
-- **R146.** Deux armes, puis Tourbillon (+5 en Agilité) : une troisième attaque légère dans le tour, pour 2 d'endurance.
-- **R147.** Chasseur d'entités, puis Tueur d'entités (+5 en Esprit) : contre un type d'entité déjà rencontré, ton arme lance un dé de plus.
-- **R148.** Observateur, puis Œil de lynx (+5 en Esprit) : 1 dé d'avantage pour repérer une entité déguisée en humain.
-- **R149.** Coriace, puis Increvable : Increvable demande maintenant Coriace.
+- **R141.** Tireur posé, puis Tireur d'élite (+5 en Agilité) : viser la tête ne donne plus de désavantage, et un critique à la tête ignore l'armure.
+- **R142.** Bagarreur, puis Lutteur, puis Étrangleur (+5 en Force) : la cible que tu étrangles ne peut ni crier ni parler, et perd 1d6 PV par tour.
+- **R143.** Vigilant, puis Sentinelle, puis Réflexes (+5 en Agilité) : éviter, parer et encaisser te coûtent 1 d'endurance de moins.
+- **R144.** Secouriste, puis Chirurgien de terrain (+5 en Intelligence) : tu soignes une fracture ou un saignement grave en plein combat, pour 4 d'endurance.
+- **R145.** Nerfs solides, puis Inébranlable (+5 en Esprit) : une fois par scène, tu ignores une phobie ou une manie pendant un tour.
+- **R146.** Porte-bouclier, puis Mur vivant (+5 en Constitution) : un allié juste derrière toi a une couverture lourde.
+- **R147.** Deux armes, puis Tourbillon (+5 en Agilité) : une troisième attaque légère dans le tour, pour 2 d'endurance.
+- **R148.** Chasseur d'entités, puis Tueur d'entités (+5 en Esprit) : contre un type d'entité déjà rencontré, ton arme lance un dé de plus.
+- **R149.** Observateur, puis Œil de lynx (+5 en Esprit) : 1 dé d'avantage pour repérer une entité déguisée en humain.
+- **R150.** Coriace, puis Increvable : Increvable demande maintenant Coriace.
 
 ## Faveurs épiques
 
-- **R150.** Faveur de survie : une fois par mission, tu tombes à 1 PV au lieu de 0.
-- **R151.** Faveur de l'esprit : une fois par mission, tu ignores une perte de santé mentale.
-- **R152.** Faveur du destin : une fois par mission, après un jet que tu vois, tu ajoutes ou retires 2d10.
-- **R153.** Faveur de vitesse : +20 en Vitesse.
+- **R151.** Faveur de survie : une fois par mission, tu tombes à 1 PV au lieu de 0.
+- **R152.** Faveur de l'esprit : une fois par mission, tu ignores une perte de santé mentale.
+- **R153.** Faveur du destin : une fois par mission, après un jet que tu vois, tu ajoutes ou retires 2d10.
+- **R154.** Faveur de vitesse : +20 en Vitesse.
 
 ## Les classes
 
-- **R154.** Assaut (parer) : garde l'endurance qu'il n'a pas dépensée, jusqu'à 4 au-dessus de son maximum. Familles : lames, armes d'épaule.
-- **R155.** Traqueur (parer) : marque une entité qu'il voit (2 d'endurance). Contre elle : 1 dé d'avantage pour la toucher, et il apprend une de ses résistances. Familles : lames, armes de poing.
-- **R156.** Infiltré (éviter) : tant qu'il n'est pas vu, son premier geste de chaque tour ne coûte pas d'endurance. Familles : lames, armes de poing.
-- **R157.** Rempart (encaisser) : prend à sa place un coup qui touche un allié collé à lui, pour 1 d'endurance. Familles : armes contondantes, armes d'épaule.
-- **R158.** Médecin (éviter) : calme un allié en plein combat (3 d'endurance, +1d6 de santé mentale). Quand il soigne quelqu'un, il efface aussi une de ses chutes à 0 PV. Familles : lames, armes de poing.
-- **R159.** Technicien (encaisser) : pilote un drone ou des pièges qui ont leur propre endurance (6 par tour) ; il ne paie que ses gestes à lui. Familles : armes de poing, armes lourdes et explosifs.
-- **R160.** Chercheur (éviter) : chaque information vraie trouvée sur l'entité met 1 dé d'avantage dans une réserve du groupe. N'importe qui le dépense contre elle. Familles : armes de poing, armes de jet et arcs.
-- **R161.** Médium (éviter) : sent les entités à 30 m et peut parler à un mort pendant une minute. Il paie ses pouvoirs, ceux de son espèce compris, en santé mentale au lieu d'endurance. Familles : armes contondantes, armes de poing.
-- **R162.** Maudit (parer) : ses pouvoirs ne coûtent rien, mais chacun a un contrecoup : 1d10 sur sa table de malédiction ; de 1 à 3, quelque chose de mauvais arrive. Familles : lames, armes contondantes.
+- **R155.** Assaut (parer) : garde l'endurance qu'il n'a pas dépensée, jusqu'à 4 au-dessus de son maximum. Familles : lames, armes d'épaule.
+- **R156.** Traqueur (parer) : marque une entité qu'il voit (2 d'endurance). Contre elle : 1 dé d'avantage pour la toucher, et il apprend une de ses résistances. Familles : lames, armes de poing.
+- **R157.** Infiltré (éviter) : tant qu'il n'est pas vu, son premier geste de chaque tour ne coûte pas d'endurance. Familles : lames, armes de poing.
+- **R158.** Rempart (encaisser) : une fois par tour, prend à sa place un coup qui touche un allié collé à lui, pour 1 d'endurance. Familles : armes contondantes, armes d'épaule. Détail plus bas.
+- **R159.** Médecin (éviter) : calme un allié en plein combat (3 d'endurance, +1d6 de santé mentale). Quand il soigne quelqu'un, il efface aussi une de ses chutes à 0 PV. Familles : lames, armes de poing.
+
+## Le Rempart
+
+- **R160.** Niveau 1 : armes contondantes et d'épaule, la réaction encaisser, et Protéger : une fois par tour, il prend à sa place un coup qui touche un allié collé à lui, pour 1 d'endurance.
+- **R161.** Niveau 5 : Protéger marche aussi pour un allié à 3 m ; il fait le pas vers lui sans payer de déplacement.
+- **R162.** Niveau 10 : sur un coup pris à la place d'un allié, encaisser ne coûte rien.
+- **R163.** Niveau 15 : Protéger deux fois par tour.
+- **R164.** Niveau 20 : une fois par combat, un coup pris pour un allié qui devrait le mettre à 0 PV le laisse à 1 PV.
+- **R165.** Bousculer : après avoir protégé, il repousse l'attaquant de 2 cases (2 d'endurance). S'il heurte un mur : 1d6 contondant.
+- **R166.** Garde haute : les alliés collés à lui ont +5 en Esquive.
+- **R167.** Provocation (2 d'endurance) : un ennemi qui l'entend, à 7 cases au plus, a 1 dé de désavantage pour attaquer quelqu'un d'autre que lui, jusqu'au prochain tour de Marc.
+- **R168.** Riposte : après avoir encaissé un coup au corps à corps, il fait une attaque légère contre l'attaquant pour 1 d'endurance au lieu de 2.
+- **R169.** Second souffle : une fois par combat, pour 3 d'endurance, il regagne 1d6 + Constitution ÷ 10 PV.
+- **R170.** Ancré : on ne peut ni le faire tomber ni le déplacer contre son gré, et le saisir coûte 2 d'endurance de plus.
+- **R171.** Escorte : un allié qui se déplace collé à lui compte comme à couvert partiel contre les tirs.
+- **R172.** Sauveteur : porter un allié ne le ralentit pas, et stabiliser un allié à 0 PV lui coûte 1 d'endurance au lieu de 3.
 
 ## Équipement
 
-- **R163.** Chaque mission a un budget d'armurerie, plus l'argent personnel de chacun. *(pas encore relue)*
-- **R164.** Demander plus cher : un jet, plus dur selon le prix. *(pas encore relue)*
-- **R165.** Des poches en cases, un sac en grille acheté à l'armurerie, et un poids maximal de 10 + Stamina ÷ 2 kg. Chaque tranche de 5 kg en trop : la jauge de tour se remplit de 10 de moins. On combine, on empile, un accessoire agrandit l'arme, les objets de mission prennent de la place.
-- **R166.** Armes modifiables (silencieux, lunette, lampe) et munitions spéciales (argent, sel, fer, bénites). *(pas encore relue)*
-- **R167.** Détecteurs, drones, grenades, pièges, mines, effaceur de mémoire. *(pas encore relue)*
-- **R168.** Objets anormaux : puissants, avec un effet secondaire. *(pas encore relue)*
-- **R169.** Véhicules avec PV, armure, vitesse et places. *(pas encore relue)*
-- **R170.** Fabriquer ou améliorer ses objets entre les missions. *(pas encore relue)*
+- **R173.** Des prix chiffrés, l'unité au choix du MJ : pistolet 300, gilet pare-balles 500, trousse de soins 50. Chaque mission donne un budget d'armurerie ; chacun a aussi son argent personnel, gagné avec la note de fin. Le matériel de l'armurerie se rend à la fin de la mission.
+- **R174.** Demander plus que le budget : jet de Persuasion, normal (100) un peu au-dessus, dur (120) jusqu'au double, très dur (140) au-delà. Raté : on redemande à la mission suivante.
+- **R175.** Des poches en cases, un sac en grille acheté à l'armurerie, et un poids maximal de 10 + Stamina ÷ 2 kg. Chaque tranche de 5 kg en trop : la jauge de tour se remplit de 10 de moins. On combine, on empile, un accessoire agrandit l'arme, les objets de mission prennent de la place.
+- **R176.** Accessoires d'arme : silencieux (bruit −3), lunette (se préparer à plus de 10 cases donne 2 dés d'avantage au lieu d'1), lampe (on voit à 10 cases dans le noir, mais on est vu de loin), chargeur long (deux fois plus de balles). Chacun agrandit l'arme d'une case dans le sac.
+- **R177.** Munitions spéciales : incendiaires (feu), électriques, acides : elles changent le type de dégâts. Argent, fer, sel : même type, mais elles touchent la faiblesse d'une entité si c'est la sienne. Les balles bénites disparaissent, puisqu'il n'y a pas de dégâts sacrés.
+- **R178.** Gadgets : détecteurs (mouvement, chaleur, champ électrique), drones, grenades (fumée, aveuglante, fragmentation), pièges et mines, effaceur de mémoire. Chacun a sa règle sur sa fiche d'objet.
+- **R179.** Objets anormaux : puissants, avec un effet secondaire écrit sur l'objet. Pour l'instant, ce sont eux qui donnent la plupart des pouvoirs.
+- **R180.** Véhicules : PV, armure, Vitesse et places. Conduire : Agilité plus le bonus du véhicule ; une poursuite se joue en jets opposés.
+- **R181.** Fabriquer ou améliorer entre deux missions, avec le bon domaine : Mécanique pour une arme, Chimie pour une drogue ou un explosif, Électronique pour un détecteur. Un jet réussi : l'objet est prêt pour la mission suivante.
 
 ## Les missions
 
-- **R171.** Discrétion réglée mission par mission : aucune, faible, forte, absolue. Bruit, témoins et cadavres la font baisser ; à zéro, l'affaire est publique. *(pas encore relue)*
-- **R172.** Note de fin (S, A, B, C) : elle fixe l'argent, pas les niveaux. Capturer rapporte plus que tuer.
-- **R173.** Plusieurs missions proposées, le groupe choisit. Des organisations rivales peuvent s'en mêler. *(pas encore relue)*
-- **R174.** Entre deux missions, une activité par personnage : s'entraîner, se soigner, chercher, fabriquer. *(pas encore relue)*
-- **R175.** Une équipe de soutien (pilote, hacker, médecin) donne des bonus. *(pas encore relue)*
-- **R176.** Un agent mort est remplacé par un nouvel agent, au niveau le plus bas du groupe.
-- **R177.** Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ. *(pas encore relue)*
+- **R182.** Discrétion réglée mission par mission : aucune, faible, forte, absolue. Bruit, témoins et cadavres la font baisser ; à zéro, l'affaire est publique. *(pas encore relue)*
+- **R183.** Note de fin (S, A, B, C) : elle fixe l'argent, pas les niveaux. Capturer rapporte plus que tuer.
+- **R184.** Plusieurs missions proposées, le groupe choisit. Des organisations rivales peuvent s'en mêler. *(pas encore relue)*
+- **R185.** Entre deux missions, une activité par personnage : s'entraîner, se soigner, chercher, fabriquer. *(pas encore relue)*
+- **R186.** Une équipe de soutien (pilote, hacker, médecin) donne des bonus. *(pas encore relue)*
+- **R187.** Un agent mort est remplacé par un nouvel agent, au niveau le plus bas du groupe.
+- **R188.** Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ. *(pas encore relue)*
 
 ## Monstres et entités
 
-- **R178.** Cinq catégories de danger, de I à V. *(pas encore relue)*
-- **R179.** Une fiche de monstre est faite de briques à activer : aura de peur, nuée, phases, régénération, parties à détruire, repaire, déguisement humain, règle propre, résistance légendaire. *(pas encore relue)*
-- **R180.** Utiliser sa faiblesse fait sauter un effet légendaire. *(pas encore relue)*
-- **R181.** Résistances et immunités par type de dégâts. *(pas encore relue)*
-- **R182.** Des effets étranges durables, propres à chaque entité. *(pas encore relue)*
-- **R183.** Ennemis humains (cultistes, mercenaires, agents rivaux) sur la même fiche, sans briques. *(pas encore relue)*
-- **R184.** Un boss n'a pas besoin de règle à part : sa Vitesse lui donne ses tours en plus. *(pas encore relue)*
+- **R189.** Cinq catégories de danger, de I à V. *(pas encore relue)*
+- **R190.** Une fiche de monstre est faite de briques à activer : aura de peur, nuée, phases, régénération, parties à détruire, repaire, déguisement humain, règle propre, résistance légendaire. *(pas encore relue)*
+- **R191.** Utiliser sa faiblesse fait sauter un effet légendaire. *(pas encore relue)*
+- **R192.** Résistances et immunités par type de dégâts. *(pas encore relue)*
+- **R193.** Des effets étranges durables, propres à chaque entité. *(pas encore relue)*
+- **R194.** Ennemis humains (cultistes, mercenaires, agents rivaux) sur la même fiche, sans briques. *(pas encore relue)*
+- **R195.** Un boss n'a pas besoin de règle à part : sa Vitesse lui donne ses tours en plus. *(pas encore relue)*

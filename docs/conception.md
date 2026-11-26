@@ -43,8 +43,10 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 | Crise réussie | On récupère un quart de la santé mentale |
 | Types de dégâts | Perforant, tranchant, contondant, feu, froid, électrique, acide, toxique, radiation, sonique, nécrose, mental. Pour les résistances et faiblesses ; effets plus tard. |
 | Progression | Niveaux 1 à 20, par jalons : le MJ annonce le niveau à la fin des missions importantes, un niveau à la fois. La note de fin donne l'argent. PV : 12 + Constitution ÷ 5, puis 3 + Constitution ÷ 20 par niveau. |
-| Classes | Une classe légère. Au niveau 1 : deux familles d'armes, une réaction et une mécanique à elle. La mécanique s'améliore aux niveaux 5, 10, 15 et 20 ; une technique au choix aux niveaux 3, 7, 11, 14 et 18. Le reste vient des dons. Neuf idées de classes. |
+| Classes | Une classe légère. Au niveau 1 : deux familles d'armes, une réaction et une mécanique à elle. La mécanique s'améliore aux niveaux 5, 10, 15 et 20 ; une technique au choix parmi huit aux niveaux 3, 7, 11, 14 et 18. Le reste vient des dons. Cinq classes pour commencer : Assaut, Rempart (complet), Infiltré, Médecin, Traqueur ; les quatre autres attendent dans [plus-tard.md](plus-tard.md). |
 | Inventaire | Des poches en cases, un sac en grille (objets de formes différentes) agrandi par le matériel, et un poids maximal. On combine, on empile, les accessoires agrandissent l'arme. |
+| Argent et équipement | Des prix chiffrés, unité au choix du MJ. Un budget d'armurerie par mission ; l'argent personnel vient de la note de fin. Demander plus que le budget : Persuasion. Accessoires d'arme, munitions spéciales, gadgets, objets anormaux, véhicules, fabrication entre les missions. |
+| Pouvoirs | Pour l'instant, ils viennent d'un objet, d'une malédiction ou d'un éveil pendant le jeu. Le contrecoup, s'il y en a un, est écrit sur le pouvoir. |
 | Monstres | Des fiches faites de briques à activer, selon le monstre |
 | Magie par cercles | Pas au cœur du système. Ajout possible plus tard. |
 | Plateforme | Foundry VTT v14, dépôt public |
@@ -52,9 +54,9 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 ## À choisir
 
-1. Combien de classes pour commencer, avec le Rempart complet comme modèle
-2. L'argent et l'équipement
-3. Les autres règles pas encore relues (missions, monstres)
+1. Le Médecin et l'Infiltré complets ; ensuite l'Assaut et le Traqueur
+2. Les missions : discrétion, entre deux missions, thérapie, soutien
+3. Les monstres : catégories, fiche d'exemple, endurance
 4. Nom définitif et licence
 
 ## Écarté
@@ -67,6 +69,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 - Espèces loup-garou, revenant, goule et demi-démon (comme exemples)
 - Blessure du corps seulement sur un super critique ; compte à rebours ou PV négatifs à 0 PV ; chaînes de dons de deux maillons ou sans limite ; faveurs épiques qui demandent un don
 - XP chiffrée selon la note de mission ; classe qui s'améliore seulement aux niveaux 5, 10, 15 et 20, ou à chaque niveau ; réactions seulement par des dons
+- Rangs de prix au lieu de prix chiffrés
 - Dés de dégâts qui explosent ; réussite critique à 10 d'écart ; un seul dé gardé parmi plusieurs
 - Une action, un mouvement et une réaction par tour
 - Médicaments qui soignent l'esprit tout de suite ; traits gagnés après les missions

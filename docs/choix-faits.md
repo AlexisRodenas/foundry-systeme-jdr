@@ -908,3 +908,76 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Chercheur : chaque information vraie trouvée sur l'entité met 1 dé d'avantage dans une réserve du groupe. N'importe qui le dépense contre elle. Familles : armes de poing, armes de jet et arcs. | oui |
 | Médium : sent les entités à 30 m et peut parler à un mort pendant une minute. Il paie ses pouvoirs, ceux de son espèce compris, en santé mentale au lieu d'endurance. Familles : armes contondantes, armes de poing. | oui |
 | Maudit : ses pouvoirs ne coûtent rien, mais chacun a un contrecoup : 1d10 sur sa table de malédiction ; de 1 à 3, quelque chose de mauvais arrive. Familles : lames, armes contondantes. | oui |
+
+## Tes remarques, appliquées
+
+### Ce qui a changé
+
+| Point | Avis |
+| --- | --- |
+| Une seule espèce pour l'instant : l'humain (Vitesse 30, deux dons d'origine). Les huit autres espèces, leurs tables du corps et les soins entre espèces sont rangés pour plus tard, avec le modèle (une Vitesse, +10 et −10, un pouvoir, une faiblesse). | oui |
+| Les pouvoirs viennent pour l'instant d'un objet, d'une malédiction ou d'un éveil pendant le jeu. Le contrecoup n'est pas obligatoire : il est écrit sur le pouvoir. | oui |
+| Niveaux par jalons : le MJ annonce le niveau à la fin d'une mission importante, un niveau à la fois. La note de fin (S, A, B, C) ne donne que l'argent ; capturer rapporte plus que tuer. | oui |
+| Ton « si » : les points de domaines suivent l'Intelligence (Intelligence ÷ 2, arrondi à 5 en dessous). Quand elle monte, on place les nouveaux points, 20 au plus par domaine avec ces points. | oui |
+
+## Les classes pour commencer
+
+### Combien de classes pour commencer ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Cinq : Assaut, Rempart, Infiltré, Médecin, Traqueur** (choisi) | Une par rôle : frapper, protéger, se cacher, soigner, chasser les entités. Technicien, Chercheur, Médium et Maudit attendent, comme les espèces. *À écrire : 5 classes × (4 améliorations + 8 techniques) = 60 capacités.* |  |
+| Trois : Rempart, Infiltré, Médecin | Le minimum pour une équipe : protéger, se cacher, soigner. Les autres attendent. *36 capacités à écrire. Pour frapper fort, on compte sur les dons.* |  |
+| Les neuf tout de suite | Toutes tes idées de classes, avant de jouer. *108 capacités à écrire avant la première partie.* |  |
+
+### Le Rempart : niveau 1 et améliorations
+
+| Point | Avis |
+| --- | --- |
+| Niveau 1 : armes contondantes et d'épaule, la réaction encaisser, et Protéger : une fois par tour, il prend à sa place un coup qui touche un allié collé à lui, pour 1 d'endurance. (Nouveau : « une fois par tour », pour que le niveau 15 serve à quelque chose.) | oui |
+| Niveau 5 : Protéger marche aussi pour un allié à 3 m ; il fait le pas vers lui sans payer de déplacement. | oui |
+| Niveau 10 : sur un coup pris à la place d'un allié, encaisser ne coûte rien. | oui |
+| Niveau 15 : Protéger deux fois par tour. | oui |
+| Niveau 20 : une fois par combat, un coup pris pour un allié qui devrait le mettre à 0 PV le laisse à 1 PV. | oui |
+
+### Le Rempart : ses huit techniques (il en choisit cinq)
+
+| Point | Avis |
+| --- | --- |
+| Bousculer : après avoir protégé, il repousse l'attaquant de 2 cases (2 d'endurance). S'il heurte un mur : 1d6 contondant. | oui |
+| Garde haute : les alliés collés à lui ont +5 en Esquive. | oui |
+| Provocation (2 d'endurance) : un ennemi qui l'entend, à 7 cases au plus, a 1 dé de désavantage pour attaquer quelqu'un d'autre que lui, jusqu'au prochain tour de Marc. | oui |
+| Riposte : après avoir encaissé un coup au corps à corps, il fait une attaque légère contre l'attaquant pour 1 d'endurance au lieu de 2. | oui |
+| Second souffle : une fois par combat, pour 3 d'endurance, il regagne 1d6 + Constitution ÷ 10 PV. | oui |
+| Ancré : on ne peut ni le faire tomber ni le déplacer contre son gré, et le saisir coûte 2 d'endurance de plus. | oui |
+| Escorte : un allié qui se déplace collé à lui compte comme à couvert partiel contre les tirs. | oui |
+| Sauveteur : porter un allié ne le ralentit pas, et stabiliser un allié à 0 PV lui coûte 1 d'endurance au lieu de 3. | oui |
+
+### Le don pour une deuxième réaction
+
+| Point | Avis |
+| --- | --- |
+| Réactif (don général, +5 en Agilité ou en Constitution) : tu gagnes une deuxième réaction, au choix : éviter, parer ou encaisser. | oui |
+
+## L'équipement, l'essentiel
+
+### Comment compter l'argent ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Des prix chiffrés** (choisi) | Chaque objet a un prix (pistolet 300, gilet pare-balles 500, trousse de soins 50). La mission donne un budget d'armurerie ; la note de fin donne l'argent personnel. L'unité, c'est le MJ qui la choisit. *Concret, et Foundry fait les comptes tout seul.* |  |
+| Des rangs de prix, de 1 à 5 | Chaque objet a un rang. La mission donne un rang maximal : on prend ce qu'il faut en dessous, sans compter. Au-dessus, on demande. *Mission de rang 2 : pistolets, gilets et trousses à volonté ; un fusil d'assaut (rang 3) se demande. Pas de comptes, mais moins de choix serrés.* |  |
+| Des rangs pour l'armurerie, des prix pour soi | L'équipement de mission par rangs ; l'argent personnel, gagné avec la note, en prix chiffrés pour ce qu'on garde. *L'armurerie va vite, mais il y a deux façons de compter.* |  |
+
+### Les sept règles réécrites
+
+| Point | Avis |
+| --- | --- |
+| Chaque mission donne un budget d'armurerie ; chacun a aussi son argent personnel, gagné avec la note de fin. Le matériel de l'armurerie se rend à la fin de la mission. | oui |
+| Demander plus que le budget : jet de Persuasion, normal (100) un peu au-dessus, dur (120) jusqu'au double, très dur (140) au-delà. Raté : on redemande à la mission suivante. | oui |
+| Accessoires d'arme : silencieux (bruit −3), lunette (se préparer à plus de 10 cases donne 2 dés d'avantage au lieu d'1), lampe (on voit à 10 cases dans le noir, mais on est vu de loin), chargeur long (deux fois plus de balles). Chacun agrandit l'arme d'une case dans le sac. | oui |
+| Munitions spéciales : incendiaires (feu), électriques, acides : elles changent le type de dégâts. Argent, fer, sel : même type, mais elles touchent la faiblesse d'une entité si c'est la sienne. Les balles bénites disparaissent, puisqu'il n'y a pas de dégâts sacrés. | oui |
+| Gadgets : détecteurs (mouvement, chaleur, champ électrique), drones, grenades (fumée, aveuglante, fragmentation), pièges et mines, effaceur de mémoire. Chacun a sa règle sur sa fiche d'objet. | oui |
+| Objets anormaux : puissants, avec un effet secondaire écrit sur l'objet. Pour l'instant, ce sont eux qui donnent la plupart des pouvoirs. | oui |
+| Véhicules : PV, armure, Vitesse et places. Conduire : Agilité plus le bonus du véhicule ; une poursuite se joue en jets opposés. | oui |
+| Fabriquer ou améliorer entre deux missions, avec le bon domaine : Mécanique pour une arme, Chimie pour une drogue ou un explosif, Électronique pour un détecteur. Un jet réussi : l'objet est prêt pour la mission suivante. | oui |
