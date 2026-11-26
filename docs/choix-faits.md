@@ -1171,3 +1171,27 @@ Aucun des trois : il faut plutôt un sigle, comme SCP ou SHIELD.
 | Une fiche de monstre simple : catégorie, PV, Esquive, armure, attaques, endurance et Vitesse. Sans les briques. | oui |
 | Les armes et les armures comme objets : dé, type de dégâts, bruit, balles. On les glisse sur la fiche. | oui |
 | Les classes, les dons et les techniques écrits sur la fiche, mais pas encore calculés : le MJ les applique à la main. | oui |
+
+## Le nom, en sigle
+
+### Quel sigle pour le système ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| S.C.E.L.L.É. | Service de Confinement des Entités, Lieux et Légendes Étranges. « Sous scellés » : enfermé, à ne pas ouvrir, comme les objets que garde SCP. *« L'objet part sous scellés à la base. »* |  |
+| D.É.N.I. | Division d'Endiguement des Nuisances Inexpliquées. Le déni, c'est ce que l'organisation sert au public : rien ne s'est passé. *« Officiellement, une fuite de gaz. C'est le DÉNI qui a écrit le communiqué. »* |  |
+| S.E.U.I.L. | Service d'Étude et d'Urgence des Incidents Liminaux. Rappelle la barre de 100 à dépasser. *« Le SEUIL envoie une équipe à la maison hantée. »* |  |
+| F.Ê.L.U.R.E.S. | Force d'Élimination et de Lutte contre les Urgences, Résurgences et Entités Surnaturelles. Garde l'idée des fêlures, mais le sigle est long. *« Agent des FÊLURES, montrez votre badge. »* |  |
+| Un sigle à toi | Écris-le dans la note, avec ce que veulent dire les lettres si tu l'as. Je vérifierai qu'aucun jeu connu ne le porte. *Le sigle s'affichera partout : Foundry, fiche, chat et dépôt.* |  |
+
+Aucun de ces sigles : chercher encore.
+
+## La langue du système
+
+### Quelle langue pour la fiche et les fenêtres ?
+
+| Option | Comment ça marche | Vu dans |
+| --- | --- | --- |
+| **Le français d'abord, l'anglais plus tard** (choisi) | Tous les textes sont rangés dans un fichier de langue français. On pourra ajouter l'anglais plus tard sans toucher au code. *Dans six mois, un fichier anglais suffit pour que ton ami joue.* |  |
+| Français et anglais dès le début | Chaque texte est écrit deux fois. On peut partager le système tout de suite, mais chaque changement coûte double. *Tu renommes « Esquive » : il faut aussi choisir le mot anglais.* |  |
+| Le français seulement | Pas d'anglais prévu. Les textes restent quand même dans un fichier de langue, comme le veut Foundry. *Ton ami anglophone devra faire sa traduction lui-même.* |  |

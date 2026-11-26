@@ -12,7 +12,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 
 | Sujet | Décision |
 | --- | --- |
-| Nom | Provisoire (`systeme-jdr`). Ce sera un sigle qui se lit comme un mot, à la façon de SCP ou SHIELD (proposés : S.C.E.L.L.É., D.É.N.I., S.E.U.I.L., F.Ê.L.U.R.E.S.). À fixer avant de créer un vrai monde Foundry. |
+| Nom | Provisoire (`systeme-jdr`). Ce sera un sigle, à la façon de SCP ou SHIELD ; une deuxième série est proposée (HUSH, GRAVE, WARD, DUSK, ASH, GLAS, NOIR, ARCHE, CENT). À fixer avant de créer un vrai monde Foundry. |
 | Ambiance | Dark fantasy / moderne / horreur |
 | Univers | Un seul, qui mélange les trois |
 | Cadre | Une organisation secrète qui règle le paranormal sans se faire remarquer |
@@ -52,12 +52,13 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 | Magie par cercles | Pas au cœur du système. Ajout possible plus tard. |
 | Plateforme | Foundry VTT v14, dépôt public |
 | Licence | Texte des règles (dossier `docs`) : CC BY-NC-SA 4.0. Code : MIT. Voir [LICENSE](../LICENSE) et [LICENSE-REGLES.md](../LICENSE-REGLES.md). |
+| Langue | Le français d'abord. Tous les textes du système sont dans un fichier de langue, pour pouvoir ajouter l'anglais plus tard sans toucher au code. |
 | Méthode | On trie de petites idées venues d'autres jeux, on écrit un brouillon, on corrige, puis on code. Tant que la base n'est pas finie, on en fait le moins possible (une seule espèce, cinq classes) : ce qui attend va dans [plus-tard.md](plus-tard.md). La page de vote montre aussi le système en schémas, pour s'y retrouver. |
 
 ## À choisir
 
-1. Le nom, en sigle
-2. La langue du système (fiche, fenêtres, chat)
+1. Le nom : un sigle (deuxième série proposée)
+2. Commencer le code avec le nom provisoire, ou attendre le nom
 
 ## Écarté
 
@@ -71,6 +72,8 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 - XP chiffrée selon la note de mission ; classe qui s'améliore seulement aux niveaux 5, 10, 15 et 20, ou à chaque niveau ; réactions seulement par des dons
 - Rangs de prix au lieu de prix chiffrés
 - Les noms Fêlures, Au-delà et Seuil (le nom sera un sigle) ; Brèche, déjà pris par un autre jeu
+- Les sigles S.C.E.L.L.É., D.É.N.I., S.E.U.I.L. et F.Ê.L.U.R.E.S. ; SHROUD, déjà pris par un système amateur
+- Textes du système en anglais dès le début, ou en français seulement
 - Pour les règles, les licences CC BY et « tous droits réservés » ; pour le code, GPL 3 et aucune licence
 - Discrétion en quatre paliers avancés par le MJ, ou comptée seulement dans la note de fin
 - Monstres sans endurance, avec un nombre de gestes par tour
