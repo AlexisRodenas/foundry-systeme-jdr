@@ -1,17 +1,17 @@
 # Points à voir
 
-> Propositions à trancher avant de continuer. Rien n'est décidé ici. Le texte vient de la page de vote et s'adresse à l'auteur du système.
+> Ce qui reste à trancher ou à essayer avant de continuer. Rien n'est décidé ici.
 
 ## 1. Tester la première version
 
-Le nom est trouvé : A.T.L.A.S. Le code de l'étape 1 est écrit et relié à ton Foundry. À toi de l'essayer, en suivant le pas à pas ci-dessous. Pour chaque point : « Oui » si ça marche, « À changer » si ça marche mais pas comme tu veux, « Non » si ça ne marche pas (dis ce que tu vois).
+Le nom est trouvé : A.T.L.A.S. Le code de l'étape 1 est écrit. Il reste à l'essayer dans Foundry, point par point, puis à corriger ce qui ne marche pas.
 
 **Exemples**
 
-- Tu changes l'Agilité de Hugo de 50 à 55 : son Esquive passe de 100 à 105, tout seul.
-- Tu cliques sur Biologie, tu choisis « Dur » : la carte dans le chat dit « 64 + 70 = 134 : réussi ».
+- On change l'Agilité de Hugo de 50 à 55 : son Esquive passe de 100 à 105, tout seul.
+- On clique sur Biologie et on choisit « Dur » : la carte dans le chat dit « 64 + 70 = 134 : réussi ».
 - Hugo tire sur la goule : 3 d'endurance et une balle partent, la carte affiche 112 contre 90, touché, 5 dégâts.
-- Tu cliques sur « Tour suivant » : la goule joue, puis le boss deux fois plus souvent que Hugo.
+- On clique sur « Tour suivant » : la goule joue, puis le boss deux fois plus souvent que Hugo.
 
 ### Ce qui doit marcher
 

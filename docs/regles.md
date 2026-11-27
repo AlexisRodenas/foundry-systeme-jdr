@@ -1,6 +1,6 @@
 # Règles, version 10
 
-> **Brouillon.** Rien n'est codé. Les 249 règles sont fixées, et les cinq classes sont complètes. La première version est codée ; les [points à voir](points-a-voir.md) servent à la tester.
+> **Brouillon.** Les 249 règles sont fixées, et les cinq classes sont complètes. La première version est codée ; les [points à voir](points-a-voir.md) servent à la tester.
 
 ## Les jets
 
@@ -312,7 +312,7 @@
 - **R237.** Entre deux missions, chacun récupère ses PV et sa fatigue, et les chutes repartent à zéro. Puis une activité par agent : s'entraîner (un talent au choix fait le jet de progression, même sans être coché), soigner une blessure grave (fracture, prothèse), thérapie, chercher (une information sur la prochaine mission), fabriquer.
 - **R238.** Avant la mission, le groupe choisit un soutien. Pilote : une extraction rapide. Hacker : une fois, une porte, une caméra, ou un jet d'Informatique avec 2 dés d'avantage. Médecin : une fois, par radio, 1 dé d'avantage sur un jet de Biologie ou un conseil sur un poison ou une entité.
 - **R239.** Un agent mort est remplacé par un nouvel agent, au niveau le plus bas du groupe.
-- **R240.** Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ.
+- **R240.** Rien de lié à un univers précis dans les règles : grades, cellules, réputation et renforts restent des choix du MJ.
 
 ## Monstres et entités
 

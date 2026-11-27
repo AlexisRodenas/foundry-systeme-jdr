@@ -8,16 +8,16 @@
 
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
-| **Au-dessus** (choisi) | 1d100 + ton score : il faut dépasser 100. Facile 80, dur 120, très dur 140, presque impossible 160. *Grand chiffre = bonne nouvelle. Un monstre à 150 ne casse rien, et la défense fixe que tu as choisie marche telle quelle.* | [une variante de Basic Roleplaying](https://basicroleplaying.org/topic/2279-inverted-brp/) |
+| **Au-dessus** (choisi) | 1d100 + ton score : il faut dépasser 100. Facile 80, dur 120, très dur 140, presque impossible 160. *Grand chiffre = bonne nouvelle. Un monstre à 150 ne casse rien, et la défense fixe déjà choisie marche telle quelle.* | [une variante de Basic Roleplaying](https://basicroleplaying.org/topic/2279-inverted-brp/) |
 | En dessous | 1d100 : il faut faire ton score ou moins. Facile : +20 au score. Dur : −20. Très dur : −40. *Ta chance est écrite sur la fiche. Moins pratique dès qu'un score dépasse 100.* | [L'Appel de Cthulhu](https://cocwiki.chaosium.com/rules/game-system.html) |
 | En dessous, mais le plus haut possible | Il faut faire ton score ou moins. Contre quelqu'un, si les deux réussissent, le plus haut dé gagne. *Score 65 : 62 est excellent, 08 passe juste, 66 est raté.* | [Delta Green](https://scottmortimer.notion.site/Delta-Green-Basics-258d535ac1e580e2be96ec16f0e81073) |
 
-### Quel dé pour un avantage ? (3 au maximum, ton choix)
+### Quel dé pour un avantage ? (3 au maximum)
 
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
 | Un d20 | Chaque avantage ajoute 1d20, chaque désavantage retire 1d20. *De 50 %, on passe à 60, 71 puis 81 %. Le suspense reste.* |  |
-| Un d6 × 5 | Chaque avantage ajoute 5, 10, 15… jusqu'à 30. *De 50 %, on passe à 68, 84 puis 95 %. Même poids que tes d6 avec le d20.* |  |
+| Un d6 × 5 | Chaque avantage ajoute 5, 10, 15… jusqu'à 30. *De 50 %, on passe à 68, 84 puis 95 %. Même poids que les d6 avec le d20.* |  |
 | **Un d10** (choisi) | Chaque avantage ajoute 1d10. *De 50 %, on passe à 56, 61 puis 67 %. Léger.* |  |
 | Relancer la dizaine | On lance un dé des dizaines de plus et on garde le meilleur. *De 50 %, on passe à 75, 88 puis 94 %. Très fort dès le premier.* | [L'Appel de Cthulhu](https://cocwiki.chaosium.com/rules/game-system.html) |
 
@@ -142,7 +142,7 @@
 | Munitions et bandages s'empilent dans la même place, jusqu'à une limite. | oui |
 | Les objets de mission prennent de la place aussi. | oui |
 
-## Tes corrections
+## Corrections
 
 ### Corrigé
 
@@ -877,8 +877,8 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
 | **Aux niveaux 5, 10, 15, 20, plus des techniques** (choisi) | La mécanique s'améliore aux niveaux 5, 10, 15 et 20. Aux niveaux 3, 7, 11, 14 et 18, on choisit une technique dans la liste de sa classe (huit par classe). *Rempart, niveau 3 : Bousculer (après avoir pris un coup pour un allié, il repousse l'attaquant de 3 m) ou Garde haute (+5 en Esquive pour les alliés collés à lui). Il reste cinq niveaux avec seulement des PV. À écrire : 72 techniques.* |  |
-| Seulement aux niveaux 5, 10, 15 et 20 | Ta règle actuelle : la mécanique s'améliore quatre fois. Les niveaux 2, 3, 6, 7, 9, 11, 13, 14, 17 et 18 ne donnent que des PV. *Peu à écrire : 36 améliorations en tout. Mais dix niveaux sans rien de neuf.* |  |
-| À chaque niveau, comme D&D | Chaque niveau sans don donne une capacité de classe, fixée d'avance. *Le plus riche : 14 capacités par classe, 126 à écrire. Tu avais dit qu'un arbre serait lourd à développer.* |  |
+| Seulement aux niveaux 5, 10, 15 et 20 | La règle de départ : la mécanique s'améliore quatre fois. Les niveaux 2, 3, 6, 7, 9, 11, 13, 14, 17 et 18 ne donnent que des PV. *Peu à écrire : 36 améliorations en tout. Mais dix niveaux sans rien de neuf.* |  |
+| À chaque niveau, comme D&D | Chaque niveau sans don donne une capacité de classe, fixée d'avance. *Le plus riche : 14 capacités par classe, 126 à écrire. Mais un arbre serait lourd à développer.* |  |
 
 ### Éviter, parer et encaisser : qui les a ?
 
@@ -895,7 +895,7 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Parer (au corps à corps, avec une arme ou un bouclier) : quand une attaque te touche, 3 d'endurance : 1d100 + Force ou Agilité + maîtrise. Plus haut que le jet de l'attaquant : le coup est paré. | oui |
 | Encaisser : quand un coup te touche, 2 d'endurance : ton armure compte double contre ce coup. Sans armure, tu retires Constitution ÷ 10. | oui |
 
-### Tes neuf idées de classes, réécrites
+### Les neuf idées de classes, réécrites
 
 | Point | Avis |
 | --- | --- |
@@ -909,7 +909,7 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Médium : sent les entités à 30 m et peut parler à un mort pendant une minute. Il paie ses pouvoirs, ceux de son espèce compris, en santé mentale au lieu d'endurance. Familles : armes contondantes, armes de poing. | oui |
 | Maudit : ses pouvoirs ne coûtent rien, mais chacun a un contrecoup : 1d10 sur sa table de malédiction ; de 1 à 3, quelque chose de mauvais arrive. Familles : lames, armes contondantes. | oui |
 
-## Tes remarques, appliquées
+## Remarques appliquées
 
 ### Ce qui a changé
 
@@ -918,7 +918,7 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Une seule espèce pour l'instant : l'humain (Vitesse 30, deux dons d'origine). Les huit autres espèces, leurs tables du corps et les soins entre espèces sont rangés pour plus tard, avec le modèle (une Vitesse, +10 et −10, un pouvoir, une faiblesse). | oui |
 | Les pouvoirs viennent pour l'instant d'un objet, d'une malédiction ou d'un éveil pendant le jeu. Le contrecoup n'est pas obligatoire : il est écrit sur le pouvoir. | oui |
 | Niveaux par jalons : le MJ annonce le niveau à la fin d'une mission importante, un niveau à la fois. La note de fin (S, A, B, C) ne donne que l'argent ; capturer rapporte plus que tuer. | oui |
-| Ton « si » : les points de domaines suivent l'Intelligence (Intelligence ÷ 2, arrondi à 5 en dessous). Quand elle monte, on place les nouveaux points, 20 au plus par domaine avec ces points. | oui |
+| Changement : les points de domaines suivent l'Intelligence (Intelligence ÷ 2, arrondi à 5 en dessous). Quand elle monte, on place les nouveaux points, 20 au plus par domaine avec ces points. | oui |
 
 ## Les classes pour commencer
 
@@ -928,7 +928,7 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | --- | --- | --- |
 | **Cinq : Assaut, Rempart, Infiltré, Médecin, Traqueur** (choisi) | Une par rôle : frapper, protéger, se cacher, soigner, chasser les entités. Technicien, Chercheur, Médium et Maudit attendent, comme les espèces. *À écrire : 5 classes × (4 améliorations + 8 techniques) = 60 capacités.* |  |
 | Trois : Rempart, Infiltré, Médecin | Le minimum pour une équipe : protéger, se cacher, soigner. Les autres attendent. *36 capacités à écrire. Pour frapper fort, on compte sur les dons.* |  |
-| Les neuf tout de suite | Toutes tes idées de classes, avant de jouer. *108 capacités à écrire avant la première partie.* |  |
+| Les neuf tout de suite | Toutes les idées de classes, avant de jouer. *108 capacités à écrire avant la première partie.* |  |
 
 ### Le Rempart : niveau 1 et améliorations
 
@@ -1050,7 +1050,7 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 | Entre deux missions, chacun récupère ses PV et sa fatigue, et les chutes repartent à zéro. Puis une activité par agent : s'entraîner (un talent au choix fait le jet de progression, même sans être coché), soigner une blessure grave (fracture, prothèse), thérapie, chercher (une information sur la prochaine mission), fabriquer. | oui |
 | Thérapie, à la base : jet du thérapeute (1d100 + 60 contre 100 ; un agent peut le faire avec sa Persuasion). Réussi : 2d6 de santé mentale ; raté : 1d6. Bar ou chapelle : 1d6 sans jet, mais on commence la mission suivante avec 1 cran de fatigue. | oui |
 | Avant la mission, le groupe choisit un soutien. Pilote : une extraction rapide. Hacker : une fois, une porte, une caméra, ou un jet d'Informatique avec 2 dés d'avantage. Médecin : une fois, par radio, 1 dé d'avantage sur un jet de Biologie ou un conseil sur un poison ou une entité. | oui |
-| Rien de lié à ton univers dans les règles : grades, cellules, réputation et renforts restent des choix du MJ. | oui |
+| Rien de lié à un univers précis dans les règles : grades, cellules, réputation et renforts restent des choix du MJ. | oui |
 
 ## Les monstres
 
@@ -1130,10 +1130,10 @@ Choix complété : le niveau et parfois une caractéristique, et aussi des chaî
 
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
-| Fêlures | D'après les fêlures de la santé mentale, la règle la plus à toi. Dit tout de suite que c'est de l'horreur, et que les agents s'abîment. *« On fait une partie de Fêlures ce soir ? »* |  |
+| Fêlures | D'après les fêlures de la santé mentale, la règle la plus propre au système. Dit tout de suite que c'est de l'horreur, et que les agents s'abîment. *« On fait une partie de Fêlures ce soir ? »* |  |
 | Au-delà | Deux sens : dépasser 100 sur le dé, et ce qui vient d'ailleurs. Un jeu vidéo porte déjà ce titre, mais pas de jeu de rôle. *« Jet d'Au-delà : 64 + 70 = 134. »* |  |
 | Seuil | Le seuil de 100 à dépasser, et le seuil entre notre monde et le reste. Court, mais on pense aussi à l'éditeur de livres du même nom. *« Seuil, le jeu où il faut passer la barre. »* |  |
-| Un nom à toi | Écris-le dans la note sous les options. Je vérifierai qu'aucun jeu connu ne le porte avant de l'utiliser. *Le système prendra ton nom partout : Foundry, fiche, chat et dépôt.* |  |
+| Un autre nom | Un nom trouvé à part, à vérifier avant de l'utiliser : aucun jeu connu ne doit le porter. *Le système prendra ce nom partout : Foundry, fiche, chat et dépôt.* |  |
 
 Aucun des trois : il faut plutôt un sigle, comme SCP ou SHIELD.
 
@@ -1144,16 +1144,16 @@ Aucun des trois : il faut plutôt un sigle, comme SCP ou SHIELD.
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
 | **CC BY-NC-SA 4.0** (choisi) | Libre pour jouer, partager et adapter, en te citant, sans le vendre. Les versions modifiées gardent la même licence. *Un fan publie gratuitement sa variante avec d'autres classes : il peut, en te citant.* |  |
-| CC BY 4.0 | Tout le monde peut tout reprendre, même pour le vendre, à condition de te citer. *Un éditeur vend un supplément qui reprend tes règles : permis, avec ton nom crédité.* |  |
-| Tous droits réservés | On peut lire les règles et jouer avec, mais pas copier ni adapter le texte sans ton accord. *Un ami veut publier sa version modifiée : il doit te demander.* |  |
+| CC BY 4.0 | Tout le monde peut tout reprendre, même pour le vendre, à condition de citer l'auteur. *Un éditeur vend un supplément qui reprend les règles : permis, avec l'auteur crédité.* |  |
+| Tous droits réservés | On peut lire les règles et jouer avec, mais pas copier ni adapter le texte sans l'accord de l'auteur. *Un ami veut publier sa version modifiée : il doit demander.* |  |
 
 ### Pour le code Foundry
 
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
-| **MIT** (choisi) | Tout le monde peut réutiliser le code, même dans un projet payant, en gardant ton nom dans le fichier de licence. Très courant pour les systèmes Foundry. *Quelqu'un reprend ta jauge de tour pour son système : permis, ton nom reste dans sa licence.* |  |
-| GPL 3 | On peut réutiliser le code, mais ce qui en est tiré doit publier son code sous la même licence. *Il reprend ta jauge de tour : son système doit aussi être en GPL.* |  |
-| Aucune licence | Le code est visible, mais personne n'a le droit de le réutiliser. *Il voit comment tu as fait la jauge, mais ne peut pas la copier.* |  |
+| **MIT** (choisi) | Tout le monde peut réutiliser le code, même dans un projet payant, en gardant le nom de l'auteur dans le fichier de licence. Très courant pour les systèmes Foundry. *Quelqu'un reprend la jauge de tour pour son système : permis, le nom de l'auteur reste dans sa licence.* |  |
+| GPL 3 | On peut réutiliser le code, mais ce qui en est tiré doit publier son code sous la même licence. *Il reprend la jauge de tour : son système doit aussi être en GPL.* |  |
+| Aucune licence | Le code est visible, mais personne n'a le droit de le réutiliser. *Il voit comment la jauge est faite, mais ne peut pas la copier.* |  |
 
 ## La première version dans Foundry
 
@@ -1182,7 +1182,7 @@ Aucun des trois : il faut plutôt un sigle, comme SCP ou SHIELD.
 | D.É.N.I. | Division d'Endiguement des Nuisances Inexpliquées. Le déni, c'est ce que l'organisation sert au public : rien ne s'est passé. *« Officiellement, une fuite de gaz. C'est le DÉNI qui a écrit le communiqué. »* |  |
 | S.E.U.I.L. | Service d'Étude et d'Urgence des Incidents Liminaux. Rappelle la barre de 100 à dépasser. *« Le SEUIL envoie une équipe à la maison hantée. »* |  |
 | F.Ê.L.U.R.E.S. | Force d'Élimination et de Lutte contre les Urgences, Résurgences et Entités Surnaturelles. Garde l'idée des fêlures, mais le sigle est long. *« Agent des FÊLURES, montrez votre badge. »* |  |
-| Un sigle à toi | Écris-le dans la note, avec ce que veulent dire les lettres si tu l'as. Je vérifierai qu'aucun jeu connu ne le porte. *Le sigle s'affichera partout : Foundry, fiche, chat et dépôt.* |  |
+| Un autre sigle | Un sigle trouvé à part, avec le sens de chaque lettre, à vérifier : aucun jeu connu ne doit le porter. *Le sigle s'affichera partout : Foundry, fiche, chat et dépôt.* |  |
 
 Aucun de ces sigles : chercher encore.
 
@@ -1193,8 +1193,8 @@ Aucun de ces sigles : chercher encore.
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
 | **Le français d'abord, l'anglais plus tard** (choisi) | Tous les textes sont rangés dans un fichier de langue français. On pourra ajouter l'anglais plus tard sans toucher au code. *Dans six mois, un fichier anglais suffit pour que ton ami joue.* |  |
-| Français et anglais dès le début | Chaque texte est écrit deux fois. On peut partager le système tout de suite, mais chaque changement coûte double. *Tu renommes « Esquive » : il faut aussi choisir le mot anglais.* |  |
-| Le français seulement | Pas d'anglais prévu. Les textes restent quand même dans un fichier de langue, comme le veut Foundry. *Ton ami anglophone devra faire sa traduction lui-même.* |  |
+| Français et anglais dès le début | Chaque texte est écrit deux fois. On peut partager le système tout de suite, mais chaque changement coûte double. *Renommer « Esquive » : il faut aussi choisir le mot anglais.* |  |
+| Le français seulement | Pas d'anglais prévu. Les textes restent quand même dans un fichier de langue, comme le veut Foundry. *Un ami anglophone devra faire sa traduction lui-même.* |  |
 
 ## Le nom : nouvelle fournée
 
@@ -1203,9 +1203,9 @@ Aucun de ces sigles : chercher encore.
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
 | Un mot anglais, comme SHIELD | Court, se dit facilement, sonne « agence secrète ». *HUSH, GRAVE, WARD, DUSK, ASH.* |  |
-| Un mot français | Plus proche de ta table, qui joue en français. *GLAS, NOIR, ARCHE, CENT.* |  |
-| Des lettres qu'on épelle, comme SCP | Trois ou quatre lettres qui ne forment pas un mot. Dis-moi dans la note, je chercherai dans ce style. *« Le S-C-P a envoyé une équipe. »* |  |
-| Peu importe, c'est le sens qui compte | Je chercherai d'abord un sigle qui parle de discrétion, de mort ou d'enfermement. *HUSH (le silence), GLAS (la mort), ARCHE (l'enfermement).* |  |
+| Un mot français | Plus proche d'une table qui joue en français. *GLAS, NOIR, ARCHE, CENT.* |  |
+| Des lettres qu'on épelle, comme SCP | Trois ou quatre lettres qui ne forment pas un mot. *« Le S-C-P a envoyé une équipe. »* |  |
+| Peu importe, c'est le sens qui compte | D'abord un sigle qui parle de discrétion, de mort ou d'enfermement. *HUSH (le silence), GLAS (la mort), ARCHE (l'enfermement).* |  |
 
 Nom trouvé : A.T.L.A.S., Autorité de Traitement et de Localisation des Anomalies Surnaturelles.
 
@@ -1229,5 +1229,5 @@ Nom trouvé : A.T.L.A.S., Autorité de Traitement et de Localisation des Anomali
 
 | Option | Comment ça marche | Vu dans |
 | --- | --- | --- |
-| Oui, avec le nom provisoire | Le système s'appelle « systeme-jdr » le temps des tests. Je le remplace partout le jour où tu choisis le nom. *Tu testes la fiche de Hugo pendant qu'on cherche encore le nom.* |  |
+| Oui, avec le nom provisoire | Le système s'appelle « systeme-jdr » le temps des tests. Il est remplacé partout le jour où le nom est choisi. *La fiche de Hugo se teste pendant qu'on cherche encore le nom.* |  |
 | **Non, attendre le nom** (choisi) | Rien n'est codé tant que le nom n'est pas trouvé. *On choisit d'abord le nom, puis le code commence.* |  |

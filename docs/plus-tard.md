@@ -6,7 +6,7 @@
 
 Chaque espèce a une Vitesse, +10 à une caractéristique et −10 à une autre, un pouvoir et une faiblesse. Les espèces remplacent les origines.
 
-## Huit espèces d'exemple (votées)
+## Huit espèces d'exemple (retenues)
 
 - Vampire : Vitesse 40, Agilité +10, Constitution −10. Pouvoir : morsure d6, il récupère ce qu'il vole. Faiblesse : 1d6 de feu par tour en plein soleil.
 - Changelin : Vitesse 35, Présence +10, Force −10. Pouvoir : prend l'apparence de quelqu'un qu'il a touché. Faiblesse : le fer le brûle et montre son vrai visage.
@@ -17,7 +17,7 @@ Chaque espèce a une Vitesse, +10 à une caractéristique et −10 à une autre,
 - Ruche : Vitesse 30, Constitution +10, Présence −10. Pouvoir : détache un essaim qui voit et entend pour elle. Faiblesse : le feu et le froid doublent les dégâts.
 - Cobaye : Vitesse 35, +10 et −10 au choix. Pouvoir : une mutation (griffes, peau dure, vision de nuit, venin). Faiblesse : sans son sérum, 1 cran de fatigue par jour.
 
-## Leur corps et les soins entre espèces (votés)
+## Leur corps et les soins entre espèces (retenus)
 
 - Soigner une autre espèce : le bon domaine (Biologie pour ce qui vit), avec 1 dé de désavantage si le corps est très différent. L'être artificiel se répare.
 - Vampire : ne respire pas (ni gaz ni noyade) et saigne peu (saignements divisés par deux). Point vital : le cœur ; un super critique au torse le paralyse un tour. Les soins rendent la moitié, sauf le sang qu'il vole.
@@ -29,7 +29,7 @@ Chaque espèce a une Vitesse, +10 à une caractéristique et −10 à une autre,
 - Ruche : aucun organe vital, le corps est un essaim. Pas de fracture ni de saignement, mais chaque critique tue une partie de l'essaim : son pouvoir porte deux fois moins loin jusqu'au repos.
 - Cobaye : la mutation change une zone. Griffes : le bras devient une arme d6. Peau dure : armure 2 au torse. Vision de nuit : 1 dé de désavantage en pleine lumière.
 
-## Les tables complètes du corps (proposées, pas encore votées)
+## Les tables complètes du corps (proposées, pas encore tranchées)
 
 Critique : l'effet léger ; super critique : l'effet grave.
 
@@ -42,7 +42,7 @@ Critique : l'effet léger ; super critique : l'effet grave.
 - Ruche (1d10) : 1 et 2 la reine, 3 à 10 l'essaim. Reine : 1 dé de désavantage au prochain jet / 1 dé de désavantage partout jusqu'au repos. Essaim : son pouvoir porte deux fois moins loin / l'essaim se disperse, pouvoir coupé jusqu'au repos. Ni fracture ni saignement.
 - Cobaye : comme l'humain, plus sa mutation. Griffes : la blessure grave au bras les casse jusqu'au repos. Peau dure : armure 2 au torse. Vision de nuit : une lumière forte l'aveugle un tour. Venin : une glande au cou (zone 1, avec la tête) ; blessure grave : le venin coule en lui, 1d6 de dégâts toxiques.
 
-## Quatre classes (votées, à détailler plus tard)
+## Quatre classes (retenues, à détailler plus tard)
 
 Même forme que les autres : niveau 1, améliorations aux niveaux 5, 10, 15 et 20, huit techniques.
 

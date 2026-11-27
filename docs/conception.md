@@ -53,7 +53,7 @@ Ce document sépare ce qui est **décidé**, ce qui est **à choisir** et ce qui
 | Plateforme | Foundry VTT v14, dépôt public |
 | Licence | Texte des règles (dossier `docs`) : CC BY-NC-SA 4.0. Code : MIT. Voir [LICENSE](../LICENSE) et [LICENSE-REGLES.md](../LICENSE-REGLES.md). |
 | Langue | Le français d'abord. Tous les textes du système sont dans un fichier de langue, pour pouvoir ajouter l'anglais plus tard sans toucher au code. |
-| Méthode | On trie de petites idées venues d'autres jeux, on écrit un brouillon, on corrige, puis on code. Tant que la base n'est pas finie, on en fait le moins possible (une seule espèce, cinq classes) : ce qui attend va dans [plus-tard.md](plus-tard.md). La page de vote montre aussi le système en schémas, pour s'y retrouver. |
+| Méthode | On trie de petites idées venues d'autres jeux, on écrit un brouillon, on corrige, puis on code. Tant que la base n'est pas finie, on en fait le moins possible (une seule espèce, cinq classes) : ce qui attend va dans [plus-tard.md](plus-tard.md). |
 
 ## À choisir
 
